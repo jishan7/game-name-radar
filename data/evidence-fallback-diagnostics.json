@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-13T17:24:44.512Z",
+  "generatedAt": "2026-09-13T19:47:48.988Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2533,
+  "pendingSeo": 2531,
   "channelCounts": {
     "pending": 362,
-    "online": 2166,
+    "online": 2164,
     "wiki": 5
   },
   "fastClassCounts": {
     "pending:pending": 362,
-    "online:pending": 2166,
+    "online:pending": 2164,
     "wiki:pending": 5
   },
   "strategicCounts": {
     "pending:0": 361,
-    "online:1": 1692,
     "online:3": 5,
     "wiki:0": 1,
-    "online:2": 469,
+    "online:2": 470,
+    "online:1": 1689,
     "pending:1": 1,
     "wiki:1": 4
   },
@@ -36,19 +36,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 451
+      "count": 453
     },
     {
       "id": "itch-popular",
-      "count": 451
+      "count": 453
     },
     {
       "id": "trends-rising-7d",
-      "count": 294
+      "count": 293
     },
     {
       "id": "trends-rising-30d",
-      "count": 183
+      "count": 182
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 66
+      "count": 65
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -72,7 +72,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 46
+      "count": 45
     },
     {
       "id": "newgrounds-latest",
@@ -99,10 +99,6 @@
       "count": 10
     },
     {
-      "id": "y8-new",
-      "count": 7
-    },
-    {
       "id": "itch-featured-feed",
       "count": 6
     },
@@ -115,8 +111,12 @@
       "count": 5
     },
     {
+      "id": "y8-new",
+      "count": 5
+    },
+    {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "steam-top-wishlist",
@@ -313,6 +313,44 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Maksim's Kitchen Catch｜小馬克開飯啦！",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Back To Basics (Early Access)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1046,44 +1084,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Six is Devil",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Idle Wizard",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
