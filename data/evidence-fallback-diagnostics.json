@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T23:52:12.995Z",
+  "generatedAt": "2026-09-15T04:52:12.149Z",
   "totalCandidates": 3000,
   "pendingSeo": 2525,
   "channelCounts": {
@@ -16,8 +16,8 @@
     "pending:0": 364,
     "online:3": 5,
     "wiki:0": 1,
-    "online:2": 474,
-    "online:1": 1672,
+    "online:2": 475,
+    "online:1": 1671,
     "pending:1": 3,
     "wiki:1": 6
   },
@@ -36,11 +36,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 457
+      "count": 458
     },
     {
       "id": "itch-popular",
-      "count": 457
+      "count": 458
     },
     {
       "id": "trends-rising-7d",
@@ -236,25 +236,6 @@
       ]
     },
     {
-      "name": "We Die IN Glory",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Baggage Rush",
       "channel": "online",
       "fastClass": "pending",
@@ -312,6 +293,25 @@
       ]
     },
     {
+      "name": "Fracture",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -351,6 +351,44 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Chronaera",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "We Die IN Glory",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1039,44 +1077,6 @@
     },
     {
       "name": "dead_center",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Green Friends",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "BREAKAWAY - Incremental Cycling",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
