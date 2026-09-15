@@ -1,59 +1,58 @@
 {
-  "generatedAt": "2026-09-15T18:59:28.706Z",
+  "generatedAt": "2026-09-15T22:13:06.478Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2524,
+  "pendingSeo": 2521,
   "channelCounts": {
-    "pending": 369,
-    "wiki": 15,
-    "online": 2140
+    "pending": 372,
+    "online": 2136,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 369,
-    "wiki:pending": 15,
-    "online:pending": 2140
+    "pending:pending": 372,
+    "online:pending": 2136,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 366,
-    "wiki:1": 13,
+    "pending:0": 369,
     "online:3": 5,
     "wiki:0": 1,
-    "online:2": 482,
-    "online:1": 1653,
-    "wiki:2": 1,
-    "pending:1": 3
+    "online:2": 483,
+    "online:1": 1648,
+    "pending:1": 3,
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2109
+      "count": 2106
     },
     {
       "id": "itch-newest-web",
-      "count": 2095
+      "count": 2092
     },
     {
       "id": "itch-new-feed",
-      "count": 2047
+      "count": 2044
     },
     {
       "id": "itch-new-popular-web",
-      "count": 465
+      "count": 466
     },
     {
       "id": "itch-popular",
-      "count": 465
+      "count": 466
     },
     {
       "id": "trends-rising-7d",
-      "count": 300
+      "count": 302
     },
     {
       "id": "trends-rising-30d",
-      "count": 195
+      "count": 196
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 145
+      "count": 147
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -73,15 +72,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 48
+      "count": 49
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
@@ -93,15 +92,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 13
     },
     {
       "id": "steam-latest-indie",
-      "count": 11
+      "count": 10
     },
     {
       "id": "steam-new",
-      "count": 11
+      "count": 10
     },
     {
       "id": "itch-featured-feed",
@@ -113,11 +112,11 @@
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 5
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "steam-top-wishlist",
@@ -237,6 +236,25 @@
       ]
     },
     {
+      "name": "Nomnado",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Token Burner",
       "channel": "online",
       "fastClass": "pending",
@@ -264,25 +282,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Chthonic Plant​",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -458,6 +457,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Chthonic Plant​",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1059,25 +1077,6 @@
     },
     {
       "name": "Graveyard Orbit",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Something Strange",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
