@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-16T18:54:15.371Z",
+  "generatedAt": "2026-09-16T22:09:34.049Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2513,
+  "pendingSeo": 2511,
   "channelCounts": {
-    "pending": 375,
-    "online": 2120,
-    "wiki": 18
+    "pending": 377,
+    "online": 2115,
+    "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 375,
-    "online:pending": 2120,
-    "wiki:pending": 18
+    "pending:pending": 377,
+    "online:pending": 2115,
+    "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 372,
+    "pending:0": 374,
     "online:3": 5,
     "wiki:0": 1,
-    "online:2": 490,
-    "online:1": 1625,
+    "online:2": 491,
+    "online:1": 1619,
     "pending:1": 3,
-    "wiki:1": 17
+    "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2088
+      "count": 2084
     },
     {
       "id": "itch-newest-web",
-      "count": 2074
+      "count": 2070
     },
     {
       "id": "itch-new-feed",
-      "count": 2025
+      "count": 2022
     },
     {
       "id": "itch-new-popular-web",
-      "count": 472
+      "count": 474
     },
     {
       "id": "itch-popular",
-      "count": 472
+      "count": 474
     },
     {
       "id": "trends-rising-7d",
-      "count": 305
+      "count": 307
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 148
+      "count": 150
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 19
+      "count": 20
     },
     {
       "id": "steam-latest-indie",
@@ -112,18 +112,18 @@
     },
     {
       "id": "y8-new",
-      "count": 7
-    },
-    {
-      "id": "gamepix-new",
-      "count": 2
+      "count": 5
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-top-wishlist",
+      "count": 1
+    },
+    {
+      "id": "gamepix-new",
       "count": 1
     },
     {
@@ -355,6 +355,44 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Bloodrush",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "A Thousand Cloys",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1050,44 +1088,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Minimis",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Compromised Anatomy",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
