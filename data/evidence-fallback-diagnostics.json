@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-17T05:24:06.624Z",
+  "generatedAt": "2026-09-17T10:26:23.525Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2508,
+  "pendingSeo": 2507,
   "channelCounts": {
-    "pending": 378,
-    "online": 2115,
+    "pending": 385,
+    "online": 2107,
     "wiki": 15
   },
   "fastClassCounts": {
-    "pending:pending": 378,
-    "online:pending": 2115,
+    "pending:pending": 385,
+    "online:pending": 2107,
     "wiki:pending": 15
   },
   "strategicCounts": {
-    "pending:0": 374,
+    "pending:0": 381,
     "online:3": 5,
     "wiki:0": 1,
-    "online:2": 491,
-    "online:1": 1619,
+    "online:2": 495,
+    "online:1": 1607,
     "pending:1": 4,
     "wiki:1": 14
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2085
+      "count": 2076
     },
     {
       "id": "itch-newest-web",
-      "count": 2071
+      "count": 2062
     },
     {
       "id": "itch-new-feed",
-      "count": 2023
+      "count": 2014
     },
     {
       "id": "itch-new-popular-web",
-      "count": 474
+      "count": 478
     },
     {
       "id": "itch-popular",
-      "count": 474
+      "count": 478
     },
     {
       "id": "trends-rising-7d",
-      "count": 307
+      "count": 313
     },
     {
       "id": "trends-rising-30d",
-      "count": 196
+      "count": 199
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 150
+      "count": 153
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 100
+      "count": 102
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 95
+      "count": 96
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 69
+      "count": 71
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 52
+      "count": 53
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -84,11 +84,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "newgrounds-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "steam-popular-new",
@@ -112,11 +112,11 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 6
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-top-wishlist",
@@ -236,25 +236,6 @@
       ]
     },
     {
-      "name": "Senescence Protocol",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
       "name": "Nomnado",
       "channel": "online",
       "fastClass": "pending",
@@ -370,6 +351,82 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Gridbound",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Amber Eyes",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Luv Parade",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Outblight",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1035,63 +1092,6 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
-      ]
-    },
-    {
-      "name": "drift1k",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Midnight Oil",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "FragMiner - DEMO",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
