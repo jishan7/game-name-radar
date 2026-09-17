@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-09-17T15:19:09.260Z",
+  "generatedAt": "2026-09-17T19:16:26.288Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2506,
+  "pendingSeo": 2504,
   "channelCounts": {
-    "pending": 387,
-    "online": 2101,
-    "wiki": 18
+    "pending": 386,
+    "online": 2093,
+    "wiki": 25
   },
   "fastClassCounts": {
-    "pending:pending": 387,
-    "online:pending": 2101,
-    "wiki:pending": 18
+    "pending:pending": 386,
+    "online:pending": 2093,
+    "wiki:pending": 25
   },
   "strategicCounts": {
     "pending:0": 383,
     "online:3": 5,
+    "online:1": 1594,
     "wiki:0": 1,
-    "online:2": 495,
-    "online:1": 1601,
-    "wiki:2": 1,
-    "pending:1": 4,
-    "wiki:1": 16
+    "online:2": 494,
+    "wiki:2": 2,
+    "pending:1": 3,
+    "wiki:1": 22
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2069
+      "count": 2062
     },
     {
       "id": "itch-newest-web",
-      "count": 2055
+      "count": 2048
     },
     {
       "id": "itch-new-feed",
-      "count": 2007
+      "count": 1999
     },
     {
       "id": "itch-new-popular-web",
@@ -45,7 +45,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 315
+      "count": 316
     },
     {
       "id": "trends-rising-30d",
@@ -53,7 +53,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 154
+      "count": 155
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -61,7 +61,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 96
+      "count": 97
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -93,31 +93,31 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 19
+      "count": 26
     },
     {
       "id": "steam-latest-indie",
-      "count": 12
+      "count": 13
     },
     {
       "id": "steam-new",
-      "count": 12
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
-      "count": 9
+      "count": 8
     },
     {
       "id": "itch-featured",
-      "count": 9
+      "count": 8
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 5
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "steam-top-wishlist",
@@ -477,25 +477,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Oasis Water Shop's Curious Customers (ワケあり客とオアシスの水屋)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1093,6 +1074,25 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
+      ]
+    },
+    {
+      "name": "drift1k",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     }
   ]
