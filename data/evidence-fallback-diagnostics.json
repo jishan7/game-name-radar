@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-18T09:44:45.780Z",
+  "generatedAt": "2026-09-18T13:52:46.082Z",
   "totalCandidates": 3000,
   "pendingSeo": 2500,
   "channelCounts": {
-    "pending": 388,
-    "online": 2093,
+    "pending": 390,
+    "online": 2091,
     "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 388,
-    "online:pending": 2093,
+    "pending:pending": 390,
+    "online:pending": 2091,
     "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 385,
+    "pending:0": 387,
     "online:3": 5,
-    "wiki:0": 1,
     "online:2": 497,
-    "online:1": 1591,
+    "wiki:0": 1,
+    "online:1": 1589,
     "pending:1": 3,
     "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2062
+      "count": 2060
     },
     {
       "id": "itch-newest-web",
-      "count": 2048
+      "count": 2046
     },
     {
       "id": "itch-new-feed",
-      "count": 2001
+      "count": 1999
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 318
+      "count": 320
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 158
+      "count": 160
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -96,11 +96,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 11
+      "count": 12
     },
     {
       "id": "steam-new",
-      "count": 11
+      "count": 12
     },
     {
       "id": "itch-featured-feed",
@@ -236,6 +236,27 @@
       ]
     },
     {
+      "name": "WomboCombo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "Ant Colony",
       "channel": "online",
       "fastClass": "pending",
@@ -244,25 +265,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Nomnado",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -571,6 +573,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Nomnado",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1065,25 +1086,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Quizino",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
