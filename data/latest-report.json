@@ -1,23 +1,23 @@
 {
-  "scannedAt": "2026-09-17T22:12:22.325Z",
+  "scannedAt": "2026-09-18T00:16:30.104Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 110,
+  "totalAdded": 98,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 36
+      "added": 28
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -45,14 +45,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 3
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 2
+      "added": 1
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 3
+      "added": 1
     },
     {
       "ok": true,
@@ -87,13 +87,13 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 29
+      "added": 12
     },
     {
       "ok": false,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
-      "error": "fetch failed"
+      "error": "远程站点返回 403"
     },
     {
       "ok": true,
@@ -101,13 +101,55 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "total": 5,
+      "added": 2
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "total": 13,
+      "added": 6
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "total": 4,
+      "added": 2
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "total": 10,
+      "added": 4
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "total": 5,
+      "added": 3
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "total": 14,
+      "added": 2
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
   "fastPassedCount": 261,
-  "fastWatchCount": 224,
+  "fastWatchCount": 225,
   "fastRejectedCount": 14,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
@@ -117,10 +159,10 @@
   "trendErrors": 0,
   "trendBatchRan": true,
   "trendQueueSize": 0,
-  "risingDiscoveryRan": false,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 375,
+  "seoPassedCount": 376,
   "trendEligibleCount": 193,
   "trendPendingCount": 193,
   "trendValidatedCount": 275,
@@ -152,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-09-17T22:12:21.640Z",
+    "checkedAt": "2026-09-18T00:16:28.772Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -189,7 +231,7 @@
   "googleCseUsage": {
     "enabled": false,
     "configuredSlots": 0,
-    "day": "2026-09-17",
+    "day": "2026-09-18",
     "totalDayUsed": 0,
     "totalDailyLimit": 0,
     "slots": {},
@@ -201,16 +243,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2438,
-    "wiki": 76,
-    "pending": 486
+    "online": 2444,
+    "wiki": 69,
+    "pending": 487
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 1,
     "watch": 1,
-    "weak": 74
+    "weak": 67
   },
   "serperVerification": {
     "rushMode": true,
@@ -233,31 +275,29 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-09-17T22:12:27.986Z"
+    "ranAt": "2026-09-18T00:16:56.418Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2501,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2500,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
       "online": 0,
-      "wiki": 1,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
-      "watch": 1,
+      "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Driving Rogue"
-    ],
-    "ranAt": "2026-09-17T22:12:28.479Z"
+    "verifiedNames": [],
+    "ranAt": "2026-09-18T00:16:56.860Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -279,10 +319,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-09-17T22:12:29.439Z"
+    "ranAt": "2026-09-18T00:16:57.625Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-09-17T22:12:29.492Z",
+    "checkedAt": "2026-09-18T00:16:57.680Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -334,12 +374,12 @@
     "configuredSlots": 0,
     "month": "2026-09",
     "monthUsed": 0,
-    "day": "2026-09-17",
+    "day": "2026-09-18",
     "dayUsed": 0,
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-09-17T22:12:29.580Z"
+    "updatedAt": "2026-09-18T00:16:57.786Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -393,15 +433,15 @@
     },
     "pendingByChannel": {
       "online": 246,
-      "wiki": 48
+      "wiki": 49
     },
     "pendingByTier": {
-      "strong": 126,
+      "strong": 127,
       "secondary": 153,
       "strategic": 15
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-09-17T22:12:29.916Z"
+    "ranAt": "2026-09-18T00:16:58.147Z"
   }
 }
