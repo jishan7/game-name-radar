@@ -1,63 +1,62 @@
 {
-  "generatedAt": "2026-09-18T19:57:59.424Z",
+  "generatedAt": "2026-09-18T22:34:25.053Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2498,
+  "pendingSeo": 2496,
   "channelCounts": {
-    "pending": 392,
-    "online": 2083,
-    "wiki": 23
+    "pending": 395,
+    "online": 2080,
+    "wiki": 21
   },
   "fastClassCounts": {
-    "pending:pending": 392,
-    "online:pending": 2083,
-    "wiki:pending": 23
+    "pending:pending": 395,
+    "online:pending": 2080,
+    "wiki:pending": 21
   },
   "strategicCounts": {
-    "pending:0": 389,
+    "pending:0": 392,
     "online:3": 5,
-    "online:2": 499,
+    "online:2": 501,
     "wiki:0": 1,
-    "online:1": 1579,
-    "wiki:2": 2,
+    "online:1": 1574,
     "pending:1": 3,
     "wiki:1": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2051
+      "count": 2048
     },
     {
       "id": "itch-newest-web",
-      "count": 2037
+      "count": 2034
     },
     {
       "id": "itch-new-feed",
-      "count": 1990
+      "count": 1987
     },
     {
       "id": "itch-new-popular-web",
-      "count": 485
+      "count": 487
     },
     {
       "id": "itch-popular",
-      "count": 485
+      "count": 487
     },
     {
       "id": "trends-rising-7d",
-      "count": 321
+      "count": 324
     },
     {
       "id": "trends-rising-30d",
-      "count": 202
+      "count": 204
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 160
+      "count": 163
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 105
+      "count": 107
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -93,15 +92,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 24
+      "count": 22
     },
     {
       "id": "steam-latest-indie",
-      "count": 14
+      "count": 12
     },
     {
       "id": "steam-new",
-      "count": 14
+      "count": 12
     },
     {
       "id": "itch-featured-feed",
@@ -258,6 +257,25 @@
       ]
     },
     {
+      "name": "Favored",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Let Me Die",
       "channel": "online",
       "fastClass": "pending",
@@ -354,6 +372,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Only One Bed at the Inn",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1049,44 +1086,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Running God",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Treeternal Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
