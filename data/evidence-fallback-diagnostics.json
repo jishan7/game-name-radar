@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-19T05:05:00.862Z",
+  "generatedAt": "2026-09-19T09:29:42.959Z",
   "totalCandidates": 3000,
   "pendingSeo": 2496,
   "channelCounts": {
-    "pending": 395,
-    "online": 2087,
+    "pending": 397,
+    "online": 2085,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 395,
-    "online:pending": 2087,
+    "pending:pending": 397,
+    "online:pending": 2085,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 392,
+    "pending:0": 394,
     "online:3": 5,
-    "online:1": 1581,
-    "online:2": 501,
+    "online:2": 503,
+    "online:1": 1577,
     "wiki:0": 1,
     "pending:1": 3,
     "wiki:1": 13
@@ -24,43 +24,43 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2055
+      "count": 2053
     },
     {
       "id": "itch-newest-web",
-      "count": 2041
+      "count": 2039
     },
     {
       "id": "itch-new-feed",
-      "count": 1993
+      "count": 1991
     },
     {
       "id": "itch-new-popular-web",
-      "count": 487
+      "count": 488
     },
     {
       "id": "itch-popular",
-      "count": 487
+      "count": 488
     },
     {
       "id": "trends-rising-7d",
-      "count": 324
+      "count": 327
     },
     {
       "id": "trends-rising-30d",
-      "count": 204
+      "count": 208
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 163
+      "count": 165
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 107
+      "count": 108
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 97
+      "count": 98
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -68,11 +68,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 52
+      "count": 54
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 51
+      "count": 52
     },
     {
       "id": "newgrounds-latest",
@@ -104,11 +104,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 8
+      "count": 9
     },
     {
       "id": "itch-featured",
-      "count": 8
+      "count": 9
     },
     {
       "id": "y8-new",
@@ -236,6 +236,25 @@
       ]
     },
     {
+      "name": "Rock Declutterer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-featured-feed",
+        "itch-featured"
+      ]
+    },
+    {
       "name": "WomboCombo",
       "channel": "online",
       "fastClass": "pending",
@@ -254,6 +273,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Aftermount",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1048,44 +1086,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "MYTHOS LAST SUMMER",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Kick The Piñata!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
