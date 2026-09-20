@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-20T12:21:02.247Z",
+  "generatedAt": "2026-09-20T16:29:33.650Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2496,
+  "pendingSeo": 2495,
   "channelCounts": {
-    "online": 2095,
+    "online": 2094,
     "pending": 397,
     "wiki": 4
   },
   "fastClassCounts": {
-    "online:pending": 2095,
+    "online:pending": 2094,
     "pending:pending": 397,
     "wiki:pending": 4
   },
   "strategicCounts": {
     "online:3": 6,
     "pending:0": 396,
-    "online:1": 1584,
+    "online:1": 1583,
     "online:2": 505,
     "wiki:0": 1,
     "pending:1": 1,
@@ -36,11 +36,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 491
+      "count": 492
     },
     {
       "id": "itch-popular",
-      "count": 491
+      "count": 492
     },
     {
       "id": "trends-rising-7d",
@@ -112,11 +112,11 @@
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 5
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "steam-top-wishlist",
@@ -275,6 +275,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Seed the Planet - DEMO",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1062,25 +1081,6 @@
     },
     {
       "name": "Urbanitas",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pokremental",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
