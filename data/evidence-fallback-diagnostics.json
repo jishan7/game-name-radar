@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-21T01:41:23.526Z",
+  "generatedAt": "2026-09-21T07:11:15.348Z",
   "totalCandidates": 3000,
   "pendingSeo": 2495,
   "channelCounts": {
-    "online": 2096,
-    "pending": 397,
+    "online": 2094,
+    "pending": 399,
     "wiki": 2
   },
   "fastClassCounts": {
-    "online:pending": 2096,
-    "pending:pending": 397,
+    "online:pending": 2094,
+    "pending:pending": 399,
     "wiki:pending": 2
   },
   "strategicCounts": {
     "online:3": 6,
-    "pending:0": 396,
-    "online:1": 1584,
+    "pending:0": 398,
+    "online:1": 1582,
     "wiki:0": 1,
     "online:2": 506,
     "pending:1": 1,
@@ -24,15 +24,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2064
+      "count": 2062
     },
     {
       "id": "itch-newest-web",
-      "count": 2050
+      "count": 2048
     },
     {
       "id": "itch-new-feed",
-      "count": 2002
+      "count": 2000
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 329
+      "count": 331
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 166
+      "count": 167
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -60,11 +60,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 99
+      "count": 100
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 72
+      "count": 73
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -349,25 +349,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Mini Miner",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
       ]
     },
     {
@@ -1081,6 +1062,25 @@
     },
     {
       "name": "Knucklehead",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Urbanitas",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
