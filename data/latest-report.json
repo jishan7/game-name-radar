@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-09-22T20:11:29.778Z",
+  "scannedAt": "2026-09-22T22:55:51.111Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 185,
+  "totalAdded": 106,
   "sources": [
     {
       "ok": true,
@@ -17,7 +17,7 @@
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 3
+      "added": 2
     },
     {
       "ok": true,
@@ -38,21 +38,21 @@
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 49,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 4
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 16
+      "added": 0
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 10
+      "added": 2
     },
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 32
+      "added": 27
     },
     {
       "ok": false,
@@ -101,55 +101,13 @@
       "sourceName": "Lagged 新游戏",
       "total": 81,
       "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-itch-io",
-      "sourceName": "Trends上涨 7天 · itch io",
-      "total": 10,
-      "added": 4
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-itch-io",
-      "sourceName": "Trends上涨 30天 · itch io",
-      "total": 17,
-      "added": 8
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-indie-game",
-      "sourceName": "Trends上涨 7天 · indie game",
-      "total": 5,
-      "added": 4
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-indie-game",
-      "sourceName": "Trends上涨 30天 · indie game",
-      "total": 16,
-      "added": 10
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-horror-game",
-      "sourceName": "Trends上涨 7天 · horror game",
-      "total": 15,
-      "added": 11
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-horror-game",
-      "sourceName": "Trends上涨 30天 · horror game",
-      "total": 21,
-      "added": 10
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
   "fastPassedCount": 265,
-  "fastWatchCount": 221,
+  "fastWatchCount": 222,
   "fastRejectedCount": 27,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
@@ -159,10 +117,10 @@
   "trendErrors": 0,
   "trendBatchRan": true,
   "trendQueueSize": 0,
-  "risingDiscoveryRan": true,
+  "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 389,
+  "seoPassedCount": 390,
   "trendEligibleCount": 197,
   "trendPendingCount": 197,
   "trendValidatedCount": 275,
@@ -172,9 +130,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 387,
+    "watch": 389,
     "reject": 0,
-    "pending": 2611,
+    "pending": 2609,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +152,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-09-22T20:11:28.296Z",
+    "checkedAt": "2026-09-22T22:55:50.130Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -213,7 +171,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 165,
+    "evidence-fallback": 167,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -243,8 +201,8 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2427,
-    "wiki": 70,
+    "online": 2425,
+    "wiki": 72,
     "pending": 503
   },
   "wikiPrelaunchModelVersion": 2,
@@ -252,7 +210,7 @@
     "priority": 0,
     "prepare": 1,
     "watch": 2,
-    "weak": 67
+    "weak": 69
   },
   "serperVerification": {
     "rushMode": true,
@@ -265,7 +223,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 85,
+    "queueSize": 86,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -275,31 +233,32 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-09-22T20:11:59.097Z"
+    "ranAt": "2026-09-22T22:55:56.187Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2487,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2486,
+    "eligibleCount": 2,
+    "queueSize": 2,
+    "verified": 2,
     "channelVerified": {
-      "online": 0,
+      "online": 1,
       "wiki": 1,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 0,
+      "pass": 1,
       "watch": 1,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "eXoSpace Combat Engineer"
+      "Road to Glory",
+      "Breakout Garage"
     ],
-    "ranAt": "2026-09-22T20:11:59.508Z"
+    "ranAt": "2026-09-22T22:55:56.826Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -321,10 +280,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-09-22T20:12:00.145Z"
+    "ranAt": "2026-09-22T22:55:57.831Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-09-22T20:12:00.255Z",
+    "checkedAt": "2026-09-22T22:55:57.893Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -381,7 +340,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-09-22T20:12:00.335Z"
+    "updatedAt": "2026-09-22T22:55:57.990Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -434,16 +393,16 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 260,
-      "wiki": 59
+      "online": 261,
+      "wiki": 60
     },
     "pendingByTier": {
-      "strong": 140,
-      "secondary": 151,
+      "strong": 141,
+      "secondary": 152,
       "strategic": 28
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-09-22T20:12:00.664Z"
+    "ranAt": "2026-09-22T22:55:58.505Z"
   }
 }
