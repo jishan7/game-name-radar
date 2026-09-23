@@ -1,58 +1,59 @@
 {
-  "generatedAt": "2026-09-23T12:11:22.334Z",
+  "generatedAt": "2026-09-23T16:56:09.498Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2482,
+  "pendingSeo": 2481,
   "channelCounts": {
-    "online": 2065,
-    "pending": 407,
-    "wiki": 10
+    "pending": 411,
+    "online": 2058,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "online:pending": 2065,
-    "pending:pending": 407,
-    "wiki:pending": 10
+    "pending:pending": 411,
+    "online:pending": 2058,
+    "wiki:pending": 12
   },
   "strategicCounts": {
+    "pending:0": 410,
     "online:3": 6,
-    "pending:0": 406,
     "wiki:0": 1,
-    "online:2": 517,
-    "online:1": 1542,
+    "online:2": 518,
+    "online:1": 1534,
+    "wiki:2": 1,
     "pending:1": 1,
-    "wiki:1": 9
+    "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2030
+      "count": 2025
     },
     {
       "id": "itch-newest-web",
-      "count": 2017
+      "count": 2011
     },
     {
       "id": "itch-new-feed",
-      "count": 1967
+      "count": 1961
     },
     {
       "id": "itch-new-popular-web",
-      "count": 503
+      "count": 505
     },
     {
       "id": "itch-popular",
-      "count": 503
+      "count": 505
     },
     {
       "id": "trends-rising-7d",
-      "count": 337
+      "count": 339
     },
     {
       "id": "trends-rising-30d",
-      "count": 220
+      "count": 222
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 169
+      "count": 171
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -68,7 +69,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 58
+      "count": 60
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -92,15 +93,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 15
     },
     {
       "id": "steam-latest-indie",
-      "count": 12
+      "count": 13
     },
     {
       "id": "steam-new",
-      "count": 12
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
@@ -116,10 +117,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 3
-    },
-    {
-      "id": "crazygames-new",
       "count": 2
     },
     {
@@ -128,6 +125,10 @@
     },
     {
       "id": "poki-new",
+      "count": 1
+    },
+    {
+      "id": "crazygames-new",
       "count": 1
     }
   ],
@@ -257,6 +258,25 @@
       ]
     },
     {
+      "name": "TrickcalTycoon",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Squeeze Maker",
       "channel": "online",
       "fastClass": "pending",
@@ -284,6 +304,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Rune Tale Demo - Extended Edition",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -341,25 +380,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Skribline",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -487,6 +507,25 @@
         "itch-popular",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Skribline",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1049,44 +1088,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Back To Basics (Early Access)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Baggage Rush",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
