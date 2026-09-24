@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-24T01:23:29.950Z",
+  "generatedAt": "2026-09-24T06:46:03.659Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2479,
+  "pendingSeo": 2477,
   "channelCounts": {
-    "pending": 415,
-    "online": 2049,
-    "wiki": 15
+    "wiki": 15,
+    "pending": 414,
+    "online": 2048
   },
   "fastClassCounts": {
-    "pending:pending": 415,
-    "online:pending": 2049,
-    "wiki:pending": 15
+    "wiki:pending": 15,
+    "pending:pending": 414,
+    "online:pending": 2048
   },
   "strategicCounts": {
-    "pending:0": 414,
+    "wiki:1": 13,
+    "pending:0": 413,
     "online:3": 6,
-    "online:2": 521,
+    "online:2": 522,
     "wiki:0": 1,
-    "online:1": 1522,
-    "wiki:2": 2,
+    "online:1": 1520,
     "pending:1": 1,
-    "wiki:1": 12
+    "wiki:2": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2016
+      "count": 2014
     },
     {
       "id": "itch-newest-web",
-      "count": 2002
+      "count": 2000
     },
     {
       "id": "itch-new-feed",
-      "count": 1952
+      "count": 1950
     },
     {
       "id": "itch-new-popular-web",
-      "count": 507
+      "count": 508
     },
     {
       "id": "itch-popular",
-      "count": 507
+      "count": 508
     },
     {
       "id": "trends-rising-7d",
-      "count": 343
+      "count": 344
     },
     {
       "id": "trends-rising-30d",
@@ -65,7 +65,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 76
+      "count": 77
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -97,19 +97,19 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 14
+      "count": 13
     },
     {
       "id": "steam-new",
-      "count": 14
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
-      "count": 9
+      "count": 10
     },
     {
       "id": "itch-featured",
-      "count": 9
+      "count": 10
     },
     {
       "id": "y8-new",
@@ -273,6 +273,24 @@
         "itch-popular",
         "itch-new-feed",
         "itch-new",
+        "itch-featured-feed",
+        "itch-featured"
+      ]
+    },
+    {
+      "name": "THRORBS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
         "itch-featured-feed",
         "itch-featured"
       ]
@@ -1070,25 +1088,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Chronaera",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
