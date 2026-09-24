@@ -1,47 +1,46 @@
 {
-  "generatedAt": "2026-09-24T06:46:03.659Z",
+  "generatedAt": "2026-09-24T12:16:09.383Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2477,
+  "pendingSeo": 2475,
   "channelCounts": {
-    "wiki": 15,
-    "pending": 414,
-    "online": 2048
+    "pending": 415,
+    "online": 2047,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "wiki:pending": 15,
-    "pending:pending": 414,
-    "online:pending": 2048
+    "pending:pending": 415,
+    "online:pending": 2047,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "wiki:1": 13,
-    "pending:0": 413,
+    "pending:0": 414,
     "online:3": 6,
-    "online:2": 522,
+    "online:2": 525,
     "wiki:0": 1,
-    "online:1": 1520,
-    "pending:1": 1,
-    "wiki:2": 1
+    "online:1": 1516,
+    "wiki:1": 12,
+    "pending:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2014
+      "count": 2012
     },
     {
       "id": "itch-newest-web",
-      "count": 2000
+      "count": 1997
     },
     {
       "id": "itch-new-feed",
-      "count": 1950
+      "count": 1948
     },
     {
       "id": "itch-new-popular-web",
-      "count": 508
+      "count": 509
     },
     {
       "id": "itch-popular",
-      "count": 508
+      "count": 509
     },
     {
       "id": "trends-rising-7d",
@@ -93,15 +92,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 16
     },
     {
       "id": "steam-latest-indie",
-      "count": 13
+      "count": 12
     },
     {
       "id": "steam-new",
-      "count": 13
+      "count": 12
     },
     {
       "id": "itch-featured-feed",
@@ -113,10 +112,14 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 7
     },
     {
       "id": "lagged-new",
+      "count": 3
+    },
+    {
+      "id": "crazygames-new",
       "count": 2
     },
     {
@@ -125,10 +128,6 @@
     },
     {
       "id": "poki-new",
-      "count": 1
-    },
-    {
-      "id": "crazygames-new",
       "count": 1
     }
   ],
@@ -293,6 +292,25 @@
         "itch-popular",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Forgever",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1069,25 +1087,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Astral Last Stand",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
