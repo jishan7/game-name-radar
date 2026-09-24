@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-24T17:14:27.770Z",
+  "generatedAt": "2026-09-24T20:30:54.709Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2472,
+  "pendingSeo": 2469,
   "channelCounts": {
     "pending": 416,
-    "online": 2038,
-    "wiki": 18
+    "online": 2032,
+    "wiki": 21
   },
   "fastClassCounts": {
     "pending:pending": 416,
-    "online:pending": 2038,
-    "wiki:pending": 18
+    "online:pending": 2032,
+    "wiki:pending": 21
   },
   "strategicCounts": {
     "pending:0": 415,
     "online:3": 6,
-    "online:2": 523,
+    "online:2": 524,
     "wiki:0": 1,
-    "online:1": 1509,
-    "wiki:2": 3,
+    "online:1": 1502,
+    "wiki:2": 1,
     "pending:1": 1,
-    "wiki:1": 14
+    "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2004
+      "count": 1998
     },
     {
       "id": "itch-newest-web",
-      "count": 1990
+      "count": 1984
     },
     {
       "id": "itch-new-feed",
-      "count": 1941
+      "count": 1935
     },
     {
       "id": "itch-new-popular-web",
-      "count": 509
+      "count": 510
     },
     {
       "id": "itch-popular",
-      "count": 509
+      "count": 510
     },
     {
       "id": "trends-rising-7d",
@@ -93,15 +93,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 21
+      "count": 24
     },
     {
       "id": "steam-latest-indie",
-      "count": 16
+      "count": 14
     },
     {
       "id": "steam-new",
-      "count": 16
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -293,6 +293,25 @@
         "itch-popular",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "The Big Moo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1069,25 +1088,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Trust the System",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
