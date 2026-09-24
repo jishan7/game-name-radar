@@ -1,47 +1,46 @@
 {
-  "generatedAt": "2026-09-24T20:30:54.709Z",
+  "generatedAt": "2026-09-24T23:27:28.854Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2469,
+  "pendingSeo": 2468,
   "channelCounts": {
     "pending": 416,
-    "online": 2032,
+    "online": 2031,
     "wiki": 21
   },
   "fastClassCounts": {
     "pending:pending": 416,
-    "online:pending": 2032,
+    "online:pending": 2031,
     "wiki:pending": 21
   },
   "strategicCounts": {
     "pending:0": 415,
     "online:3": 6,
-    "online:2": 524,
+    "online:2": 525,
     "wiki:0": 1,
-    "online:1": 1502,
-    "wiki:2": 1,
+    "online:1": 1500,
     "pending:1": 1,
-    "wiki:1": 19
+    "wiki:1": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1998
+      "count": 1997
     },
     {
       "id": "itch-newest-web",
-      "count": 1984
+      "count": 1983
     },
     {
       "id": "itch-new-feed",
-      "count": 1935
+      "count": 1933
     },
     {
       "id": "itch-new-popular-web",
-      "count": 510
+      "count": 511
     },
     {
       "id": "itch-popular",
-      "count": 510
+      "count": 511
     },
     {
       "id": "trends-rising-7d",
@@ -97,11 +96,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 14
+      "count": 13
     },
     {
       "id": "steam-new",
-      "count": 14
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
@@ -448,44 +447,6 @@
       ]
     },
     {
-      "name": "Return of The Twin Peaks",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 7,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "IDLE HQ",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -595,6 +556,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Return of The Twin Peaks",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 7,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "IDLE HQ",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
