@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-09-25T07:46:20.358Z",
+  "generatedAt": "2026-09-25T13:00:24.460Z",
   "totalCandidates": 3000,
   "pendingSeo": 2468,
   "channelCounts": {
-    "pending": 418,
-    "online": 2033,
+    "pending": 423,
+    "online": 2028,
     "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 418,
-    "online:pending": 2033,
+    "pending:pending": 423,
+    "online:pending": 2028,
     "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 417,
+    "pending:0": 422,
     "online:3": 6,
-    "online:2": 525,
+    "online:2": 527,
     "wiki:0": 1,
-    "online:1": 1502,
+    "online:1": 1495,
     "pending:1": 1,
     "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1999
+      "count": 1993
     },
     {
       "id": "itch-newest-web",
-      "count": 1985
+      "count": 1979
     },
     {
       "id": "itch-new-feed",
-      "count": 1935
+      "count": 1929
     },
     {
       "id": "itch-new-popular-web",
-      "count": 511
+      "count": 512
     },
     {
       "id": "itch-popular",
-      "count": 511
+      "count": 512
     },
     {
       "id": "trends-rising-7d",
-      "count": 347
+      "count": 351
     },
     {
       "id": "trends-rising-30d",
-      "count": 224
+      "count": 227
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 176
+      "count": 179
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 117
+      "count": 118
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 102
+      "count": 103
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -68,7 +68,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 60
+      "count": 62
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -115,19 +115,19 @@
       "count": 5
     },
     {
+      "id": "crazygames-new",
+      "count": 2
+    },
+    {
+      "id": "poki-new",
+      "count": 2
+    },
+    {
       "id": "lagged-new",
       "count": 2
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "poki-new",
-      "count": 1
-    },
-    {
-      "id": "crazygames-new",
       "count": 1
     }
   ],
@@ -274,6 +274,25 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Shakedown Troll",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1068,25 +1087,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Nomnado",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
