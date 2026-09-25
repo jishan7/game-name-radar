@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-24T23:27:28.854Z",
+  "generatedAt": "2026-09-25T01:55:06.874Z",
   "totalCandidates": 3000,
   "pendingSeo": 2468,
   "channelCounts": {
-    "pending": 416,
-    "online": 2031,
-    "wiki": 21
+    "pending": 418,
+    "online": 2033,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 416,
-    "online:pending": 2031,
-    "wiki:pending": 21
+    "pending:pending": 418,
+    "online:pending": 2033,
+    "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 415,
+    "pending:0": 417,
     "online:3": 6,
     "online:2": 525,
     "wiki:0": 1,
-    "online:1": 1500,
+    "online:1": 1502,
     "pending:1": 1,
-    "wiki:1": 20
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1997
+      "count": 1999
     },
     {
       "id": "itch-newest-web",
-      "count": 1983
+      "count": 1985
     },
     {
       "id": "itch-new-feed",
-      "count": 1933
+      "count": 1935
     },
     {
       "id": "itch-new-popular-web",
@@ -44,15 +44,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 345
+      "count": 347
     },
     {
       "id": "trends-rising-30d",
-      "count": 223
+      "count": 224
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 175
+      "count": 176
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 77
+      "count": 78
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -72,7 +72,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 52
+      "count": 53
     },
     {
       "id": "newgrounds-latest",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 24
+      "count": 20
     },
     {
       "id": "steam-latest-indie",
@@ -428,25 +428,6 @@
       ]
     },
     {
-      "name": "Necropolis: Rise of the Undying",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 7,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -556,6 +537,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Necropolis: Rise of the Undying",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 7,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
