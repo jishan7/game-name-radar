@@ -1,23 +1,23 @@
 {
-  "scannedAt": "2026-09-27T21:37:29.734Z",
+  "scannedAt": "2026-09-27T23:58:21.876Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 144,
+  "totalAdded": 98,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 36
+      "added": 35
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 4
     },
     {
       "ok": true,
@@ -45,28 +45,27 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 2
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 1
+      "added": 2
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
-      "total": 5,
-      "added": 0
+      "error": "请求超时"
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 7
+      "added": 0
     },
     {
       "ok": true,
@@ -87,7 +86,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 36
+      "added": 20
     },
     {
       "ok": false,
@@ -101,48 +100,6 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-itch-io",
-      "sourceName": "Trends上涨 7天 · itch io",
-      "total": 7,
-      "added": 6
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-itch-io",
-      "sourceName": "Trends上涨 30天 · itch io",
-      "total": 14,
-      "added": 6
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-indie-game",
-      "sourceName": "Trends上涨 7天 · indie game",
-      "total": 0,
-      "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-indie-game",
-      "sourceName": "Trends上涨 30天 · indie game",
-      "total": 1,
-      "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-horror-game",
-      "sourceName": "Trends上涨 7天 · horror game",
-      "total": 13,
-      "added": 6
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-horror-game",
-      "sourceName": "Trends上涨 30天 · horror game",
-      "total": 23,
-      "added": 8
     }
   ],
   "seoVerified": 0,
@@ -159,7 +116,7 @@
   "trendErrors": 0,
   "trendBatchRan": true,
   "trendQueueSize": 0,
-  "risingDiscoveryRan": true,
+  "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 414,
@@ -194,7 +151,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-09-27T21:37:28.716Z",
+    "checkedAt": "2026-09-27T23:58:20.783Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -275,7 +232,7 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-09-27T21:37:54.617Z"
+    "ranAt": "2026-09-27T23:58:38.616Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
@@ -297,7 +254,7 @@
       "pending": 0
     },
     "verifiedNames": [],
-    "ranAt": "2026-09-27T21:37:55.277Z"
+    "ranAt": "2026-09-27T23:58:39.292Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -319,10 +276,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-09-27T21:37:56.271Z"
+    "ranAt": "2026-09-27T23:58:40.408Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-09-27T21:37:56.342Z",
+    "checkedAt": "2026-09-27T23:58:40.477Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -379,7 +336,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-09-27T21:37:56.455Z"
+    "updatedAt": "2026-09-27T23:58:40.584Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -442,6 +399,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-09-27T21:37:56.963Z"
+    "ranAt": "2026-09-27T23:58:41.102Z"
   }
 }
