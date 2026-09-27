@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-27T01:48:42.216Z",
+  "generatedAt": "2026-09-27T08:07:49.463Z",
   "totalCandidates": 3000,
   "pendingSeo": 2463,
   "channelCounts": {
-    "pending": 430,
-    "online": 2024,
+    "pending": 431,
+    "online": 2023,
     "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 430,
-    "online:pending": 2024,
+    "pending:pending": 431,
+    "online:pending": 2023,
     "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 429,
+    "pending:0": 430,
     "online:3": 6,
     "online:2": 534,
     "wiki:0": 1,
-    "online:1": 1484,
+    "online:1": 1483,
     "pending:1": 1,
     "wiki:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1990
+      "count": 1989
     },
     {
       "id": "itch-newest-web",
-      "count": 1976
+      "count": 1975
     },
     {
       "id": "itch-new-feed",
-      "count": 1923
+      "count": 1922
     },
     {
       "id": "itch-new-popular-web",
@@ -44,19 +44,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 360
+      "count": 361
     },
     {
       "id": "trends-rising-30d",
-      "count": 232
+      "count": 234
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 185
+      "count": 186
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 122
+      "count": 124
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -334,24 +334,6 @@
       ]
     },
     {
-      "name": "THRORBS",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
-      ]
-    },
-    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -507,6 +489,24 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "THRORBS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
