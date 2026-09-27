@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T08:07:49.463Z",
+  "generatedAt": "2026-09-27T13:56:57.291Z",
   "totalCandidates": 3000,
   "pendingSeo": 2463,
   "channelCounts": {
@@ -15,48 +15,48 @@
   "strategicCounts": {
     "pending:0": 430,
     "online:3": 6,
-    "online:2": 534,
+    "online:2": 537,
     "wiki:0": 1,
-    "online:1": 1483,
+    "online:1": 1480,
     "pending:1": 1,
     "wiki:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1989
+      "count": 1988
     },
     {
       "id": "itch-newest-web",
-      "count": 1975
+      "count": 1974
     },
     {
       "id": "itch-new-feed",
-      "count": 1922
+      "count": 1921
     },
     {
       "id": "itch-new-popular-web",
-      "count": 520
+      "count": 522
     },
     {
       "id": "itch-popular",
-      "count": 520
+      "count": 522
     },
     {
       "id": "trends-rising-7d",
-      "count": 361
+      "count": 362
     },
     {
       "id": "trends-rising-30d",
-      "count": 234
+      "count": 235
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 186
+      "count": 187
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 124
+      "count": 125
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 80
+      "count": 81
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -112,11 +112,11 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 6
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-top-wishlist",
@@ -394,6 +394,44 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Aura Farmer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Deep Time",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1049,44 +1087,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Luv Parade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Outblight",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [

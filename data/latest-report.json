@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-09-27T08:07:12.231Z",
+  "scannedAt": "2026-09-27T13:56:29.994Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 158,
+  "totalAdded": 188,
   "sources": [
     {
       "ok": true,
@@ -17,14 +17,14 @@
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 7
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 35
+      "added": 36
     },
     {
       "ok": true,
@@ -52,20 +52,21 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 8
+      "added": 5
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
-      "error": "请求超时"
+      "total": 5,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 9
+      "added": 8
     },
     {
       "ok": true,
@@ -86,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 37
+      "added": 38
     },
     {
       "ok": false,
@@ -99,27 +100,27 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 7,
-      "added": 3
+      "total": 11,
+      "added": 9
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 11,
-      "added": 6
+      "total": 12,
+      "added": 8
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 1,
+      "total": 2,
       "added": 1
     },
     {
@@ -133,15 +134,15 @@
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 11,
-      "added": 5
+      "total": 16,
+      "added": 10
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 11,
-      "added": 6
+      "total": 22,
+      "added": 18
     }
   ],
   "seoVerified": 0,
@@ -171,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 393,
+    "watch": 394,
     "reject": 0,
-    "pending": 2605,
+    "pending": 2604,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -193,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-09-27T08:07:11.287Z",
+    "checkedAt": "2026-09-27T13:56:29.036Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -212,7 +213,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 188,
+    "evidence-fallback": 189,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -274,29 +275,31 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-09-27T08:07:49.215Z"
+    "ranAt": "2026-09-27T13:56:57.042Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
     "pendingCount": 2463,
-    "eligibleCount": 0,
-    "queueSize": 0,
-    "verified": 0,
+    "eligibleCount": 1,
+    "queueSize": 1,
+    "verified": 1,
     "channelVerified": {
-      "online": 0,
+      "online": 1,
       "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 0,
+      "pass": 1,
       "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [],
-    "ranAt": "2026-09-27T08:07:49.864Z"
+    "verifiedNames": [
+      "Food: Run and Battle"
+    ],
+    "ranAt": "2026-09-27T13:56:57.696Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -318,10 +321,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-09-27T08:07:50.853Z"
+    "ranAt": "2026-09-27T13:56:58.719Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-09-27T08:07:50.921Z",
+    "checkedAt": "2026-09-27T13:56:58.796Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -378,7 +381,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-09-27T08:07:51.028Z"
+    "updatedAt": "2026-09-27T13:56:58.908Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -431,16 +434,16 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 267,
+      "online": 268,
       "wiki": 75
     },
     "pendingByTier": {
-      "strong": 149,
+      "strong": 150,
       "secondary": 149,
       "strategic": 44
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-09-27T08:07:51.540Z"
+    "ranAt": "2026-09-27T13:56:59.412Z"
   }
 }
