@@ -1,47 +1,46 @@
 {
-  "generatedAt": "2026-09-28T19:40:26.365Z",
+  "generatedAt": "2026-09-28T23:56:33.074Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2461,
+  "pendingSeo": 2459,
   "channelCounts": {
     "pending": 438,
-    "online": 2018,
-    "wiki": 5
+    "online": 2015,
+    "wiki": 6
   },
   "fastClassCounts": {
     "pending:pending": 438,
-    "online:pending": 2018,
-    "wiki:pending": 5
+    "online:pending": 2015,
+    "wiki:pending": 6
   },
   "strategicCounts": {
     "pending:0": 436,
     "online:3": 6,
     "online:2": 541,
     "wiki:0": 1,
-    "online:1": 1471,
-    "wiki:2": 1,
+    "online:1": 1468,
     "pending:1": 2,
-    "wiki:1": 3
+    "wiki:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1982
+      "count": 1980
     },
     {
       "id": "itch-newest-web",
-      "count": 1968
+      "count": 1966
     },
     {
       "id": "itch-new-feed",
-      "count": 1915
+      "count": 1913
     },
     {
       "id": "itch-new-popular-web",
-      "count": 527
+      "count": 528
     },
     {
       "id": "itch-popular",
-      "count": 527
+      "count": 528
     },
     {
       "id": "trends-rising-7d",
@@ -49,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 240
+      "count": 241
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -57,7 +56,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 129
+      "count": 130
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -93,11 +92,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 15
+      "count": 14
     },
     {
       "id": "steam-new",
-      "count": 15
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -109,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 9
     },
     {
       "id": "y8-new",
@@ -120,16 +119,16 @@
       "count": 2
     },
     {
-      "id": "crazygames-new",
+      "id": "lagged-new",
       "count": 2
     },
     {
       "id": "poki-new",
-      "count": 2
+      "count": 1
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "crazygames-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -316,14 +315,14 @@
       ]
     },
     {
-      "name": "The Root Cause",
+      "name": "Defenders of Cinderkeep Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -335,14 +334,14 @@
       ]
     },
     {
-      "name": "Save Me a Slice!",
+      "name": "The Root Cause",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -558,6 +557,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Save Me a Slice!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1062,25 +1080,6 @@
     },
     {
       "name": "Let Me Die",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Purple Box Escapes Robots",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
