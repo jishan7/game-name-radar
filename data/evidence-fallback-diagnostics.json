@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-09-29T11:35:28.720Z",
+  "generatedAt": "2026-09-29T17:01:44.330Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2458,
+  "pendingSeo": 2457,
   "channelCounts": {
-    "pending": 438,
-    "online": 2013,
-    "wiki": 7
+    "pending": 437,
+    "online": 2006,
+    "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 438,
-    "online:pending": 2013,
-    "wiki:pending": 7
+    "pending:pending": 437,
+    "online:pending": 2006,
+    "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 436,
+    "pending:0": 435,
     "online:3": 6,
-    "online:2": 542,
-    "wiki:0": 1,
-    "online:1": 1465,
+    "online:2": 541,
+    "wiki:0": 3,
+    "online:1": 1459,
+    "wiki:2": 1,
     "pending:1": 2,
-    "wiki:1": 6
+    "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1977
+      "count": 1972
     },
     {
       "id": "itch-newest-web",
-      "count": 1963
+      "count": 1957
     },
     {
       "id": "itch-new-feed",
-      "count": 1910
+      "count": 1905
     },
     {
       "id": "itch-new-popular-web",
@@ -48,7 +49,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 241
+      "count": 242
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -72,7 +73,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 56
+      "count": 57
     },
     {
       "id": "newgrounds-latest",
@@ -92,11 +93,15 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 14
+      "count": 16
     },
     {
       "id": "steam-new",
-      "count": 14
+      "count": 16
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 15
     },
     {
       "id": "itch-featured-feed",
@@ -107,19 +112,15 @@
       "count": 11
     },
     {
-      "id": "steam-popular-new",
-      "count": 10
-    },
-    {
       "id": "y8-new",
-      "count": 6
-    },
-    {
-      "id": "lagged-new",
-      "count": 3
+      "count": 5
     },
     {
       "id": "steam-top-wishlist",
+      "count": 4
+    },
+    {
+      "id": "lagged-new",
       "count": 2
     },
     {
