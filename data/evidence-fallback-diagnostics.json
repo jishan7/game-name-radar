@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-30T06:00:43.286Z",
+  "generatedAt": "2026-09-30T12:32:18.366Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2454,
+  "pendingSeo": 2453,
   "channelCounts": {
+    "online": 1999,
     "pending": 439,
-    "online": 2001,
-    "wiki": 14
+    "wiki": 15
   },
   "fastClassCounts": {
+    "online:pending": 1999,
     "pending:pending": 439,
-    "online:pending": 2001,
-    "wiki:pending": 14
+    "wiki:pending": 15
   },
   "strategicCounts": {
+    "online:2": 543,
     "pending:0": 437,
     "online:3": 6,
-    "online:2": 542,
     "wiki:0": 3,
-    "online:1": 1453,
+    "online:1": 1450,
     "pending:1": 2,
-    "wiki:1": 11
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1967
+      "count": 1966
     },
     {
       "id": "itch-newest-web",
-      "count": 1951
+      "count": 1950
     },
     {
       "id": "itch-new-feed",
-      "count": 1900
+      "count": 1897
     },
     {
       "id": "itch-new-popular-web",
-      "count": 529
+      "count": 530
     },
     {
       "id": "itch-popular",
-      "count": 529
+      "count": 530
     },
     {
       "id": "trends-rising-7d",
-      "count": 370
+      "count": 371
     },
     {
       "id": "trends-rising-30d",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 82
+      "count": 83
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -84,15 +84,15 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "newgrounds-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 16
     },
     {
       "id": "steam-latest-indie",
@@ -257,21 +257,23 @@
       ]
     },
     {
-      "name": "JOJORUNE: VS Dio",
+      "name": "Remember",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 2,
+      "discoveryScore": 20,
+      "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 6,
       "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
         "itch-new-popular-web",
         "itch-popular",
-        "newgrounds-daily-top",
-        "newgrounds-top"
+        "trends-rising-7d-itch-io",
+        "trends-rising-7d"
       ]
     },
     {
