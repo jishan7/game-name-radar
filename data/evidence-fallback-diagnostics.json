@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-01T01:18:06.958Z",
+  "generatedAt": "2026-10-01T07:48:59.826Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2451,
+  "pendingSeo": 2450,
   "channelCounts": {
     "pending": 439,
-    "online": 1999,
+    "online": 1998,
     "wiki": 13
   },
   "fastClassCounts": {
     "pending:pending": 439,
-    "online:pending": 1999,
+    "online:pending": 1998,
     "wiki:pending": 13
   },
   "strategicCounts": {
@@ -17,23 +17,22 @@
     "online:3": 6,
     "online:2": 545,
     "wiki:0": 3,
-    "online:1": 1448,
-    "wiki:2": 1,
+    "online:1": 1447,
     "pending:1": 2,
-    "wiki:1": 9
+    "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1966
+      "count": 1965
     },
     {
       "id": "itch-newest-web",
-      "count": 1950
+      "count": 1949
     },
     {
       "id": "itch-new-feed",
-      "count": 1898
+      "count": 1897
     },
     {
       "id": "itch-new-popular-web",
@@ -93,11 +92,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 16
+      "count": 15
     },
     {
       "id": "steam-new",
-      "count": 16
+      "count": 15
     },
     {
       "id": "steam-popular-new",
@@ -335,25 +334,6 @@
       ]
     },
     {
-      "name": "Defenders of Cinderkeep Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -418,6 +398,25 @@
     },
     {
       "name": "Longestini",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Defenders of Cinderkeep Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
