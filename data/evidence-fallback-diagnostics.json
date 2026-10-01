@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-09-30T22:14:00.328Z",
+  "generatedAt": "2026-10-01T01:18:06.958Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2452,
+  "pendingSeo": 2451,
   "channelCounts": {
     "pending": 439,
-    "online": 1996,
-    "wiki": 17
+    "online": 1999,
+    "wiki": 13
   },
   "fastClassCounts": {
     "pending:pending": 439,
-    "online:pending": 1996,
-    "wiki:pending": 17
+    "online:pending": 1999,
+    "wiki:pending": 13
   },
   "strategicCounts": {
     "pending:0": 437,
     "online:3": 6,
     "online:2": 545,
     "wiki:0": 3,
-    "online:1": 1445,
+    "online:1": 1448,
     "wiki:2": 1,
     "pending:1": 2,
-    "wiki:1": 13
+    "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1963
+      "count": 1966
     },
     {
       "id": "itch-newest-web",
-      "count": 1947
+      "count": 1950
     },
     {
       "id": "itch-new-feed",
-      "count": 1895
+      "count": 1898
     },
     {
       "id": "itch-new-popular-web",
@@ -92,16 +92,16 @@
       "count": 27
     },
     {
-      "id": "steam-popular-new",
-      "count": 18
-    },
-    {
       "id": "steam-latest-indie",
       "count": 16
     },
     {
       "id": "steam-new",
       "count": 16
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -278,25 +278,6 @@
       ]
     },
     {
-      "name": "Longestini",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "FISH EATS EARTH",
       "channel": "online",
       "fastClass": "pending",
@@ -433,6 +414,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Longestini",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
