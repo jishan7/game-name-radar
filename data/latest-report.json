@@ -1,37 +1,37 @@
 {
-  "scannedAt": "2026-10-01T07:48:33.579Z",
+  "scannedAt": "2026-10-01T15:26:14.119Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 184,
+  "totalAdded": 222,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 34
+      "added": 35
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 6
+      "added": 12
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 33
+      "added": 36
     },
     {
       "ok": true,
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
       "total": 10,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
@@ -45,21 +45,20 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 3
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 22
+      "added": 40
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
-      "total": 5,
-      "added": 5
+      "error": "请求超时"
     },
     {
       "ok": true,
@@ -73,21 +72,21 @@
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 4
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 162,
-      "added": 1
+      "total": 153,
+      "added": 12
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 44
+      "added": 42
     },
     {
       "ok": false,
@@ -100,21 +99,21 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 0
+      "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 12,
+      "total": 13,
       "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 13,
-      "added": 5
+      "total": 19,
+      "added": 10
     },
     {
       "ok": true,
@@ -127,21 +126,21 @@
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 1,
-      "added": 0
+      "total": 2,
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 18,
-      "added": 5
+      "total": 15,
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 21,
+      "total": 22,
       "added": 6
     }
   ],
@@ -172,9 +171,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 401,
+    "watch": 402,
     "reject": 0,
-    "pending": 2597,
+    "pending": 2596,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +193,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-10-01T07:48:30.955Z",
+    "checkedAt": "2026-10-01T15:26:13.143Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -213,7 +212,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 201,
+    "evidence-fallback": 203,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -243,9 +242,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2364,
+    "online": 2362,
     "wiki": 97,
-    "pending": 539
+    "pending": 541
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
@@ -275,29 +274,32 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-10-01T07:48:59.652Z"
+    "ranAt": "2026-10-01T15:26:50.245Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
     "pendingCount": 2450,
-    "eligibleCount": 0,
-    "queueSize": 0,
-    "verified": 0,
+    "eligibleCount": 2,
+    "queueSize": 2,
+    "verified": 2,
     "channelVerified": {
-      "online": 0,
-      "wiki": 0,
+      "online": 1,
+      "wiki": 1,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 0,
+      "pass": 2,
       "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [],
-    "ranAt": "2026-10-01T07:49:00.116Z"
+    "verifiedNames": [
+      "Brick by Brick",
+      "Songs of Glimmerwick"
+    ],
+    "ranAt": "2026-10-01T15:26:50.904Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -319,10 +321,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-10-01T07:49:00.816Z"
+    "ranAt": "2026-10-01T15:26:51.883Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-10-01T07:49:00.870Z",
+    "checkedAt": "2026-10-01T15:26:51.954Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -379,7 +381,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-10-01T07:49:00.941Z"
+    "updatedAt": "2026-10-01T15:26:52.074Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -432,16 +434,16 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 273,
-      "wiki": 82
+      "online": 274,
+      "wiki": 83
     },
     "pendingByTier": {
-      "strong": 157,
+      "strong": 159,
       "secondary": 151,
       "strategic": 47
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-10-01T07:49:01.382Z"
+    "ranAt": "2026-10-01T15:26:52.554Z"
   }
 }
