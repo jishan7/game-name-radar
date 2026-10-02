@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:21:33.615Z",
+  "generatedAt": "2026-10-02T16:49:59.484Z",
   "totalCandidates": 3000,
   "pendingSeo": 2447,
   "channelCounts": {
@@ -92,11 +92,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 14
+      "count": 15
     },
     {
       "id": "steam-new",
-      "count": 14
+      "count": 15
     },
     {
       "id": "itch-featured-feed",
