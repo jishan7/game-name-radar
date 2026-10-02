@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-02T05:37:43.599Z",
+  "generatedAt": "2026-10-02T11:21:33.615Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2448,
+  "pendingSeo": 2447,
   "channelCounts": {
     "pending": 441,
-    "online": 1997,
+    "online": 1996,
     "wiki": 10
   },
   "fastClassCounts": {
     "pending:pending": 441,
-    "online:pending": 1997,
+    "online:pending": 1996,
     "wiki:pending": 10
   },
   "strategicCounts": {
@@ -17,30 +17,30 @@
     "online:3": 6,
     "online:2": 547,
     "wiki:0": 3,
-    "online:1": 1444,
+    "online:1": 1443,
     "pending:1": 2,
     "wiki:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1965
+      "count": 1964
     },
     {
       "id": "itch-newest-web",
-      "count": 1948
+      "count": 1947
     },
     {
       "id": "itch-new-feed",
-      "count": 1897
+      "count": 1896
     },
     {
       "id": "itch-new-popular-web",
-      "count": 533
+      "count": 534
     },
     {
       "id": "itch-popular",
-      "count": 533
+      "count": 534
     },
     {
       "id": "trends-rising-7d",
@@ -76,11 +76,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-new",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-daily-top",
@@ -356,6 +356,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Bopp Clicker Web",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1068,25 +1087,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Aftermount",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
