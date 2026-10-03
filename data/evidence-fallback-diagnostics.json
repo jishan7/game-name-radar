@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-02T21:19:15.915Z",
+  "generatedAt": "2026-10-03T00:44:33.984Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2447,
+  "pendingSeo": 2446,
   "channelCounts": {
-    "pending": 444,
-    "online": 1993,
-    "wiki": 10
+    "pending": 447,
+    "online": 1991,
+    "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 444,
-    "online:pending": 1993,
-    "wiki:pending": 10
+    "pending:pending": 447,
+    "online:pending": 1991,
+    "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 439,
+    "pending:0": 442,
     "online:3": 6,
-    "online:2": 548,
+    "online:2": 547,
     "wiki:0": 3,
-    "online:1": 1439,
+    "online:1": 1438,
     "pending:1": 5,
-    "wiki:1": 7
+    "wiki:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1961
+      "count": 1959
     },
     {
       "id": "itch-newest-web",
-      "count": 1944
+      "count": 1942
     },
     {
       "id": "itch-new-feed",
-      "count": 1893
+      "count": 1891
     },
     {
       "id": "itch-new-popular-web",
@@ -44,19 +44,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 371
+      "count": 373
     },
     {
       "id": "trends-rising-30d",
-      "count": 247
+      "count": 248
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 194
+      "count": 196
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 134
+      "count": 135
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 9
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 5
     },
     {
       "id": "steam-top-wishlist",
@@ -257,24 +257,6 @@
       ]
     },
     {
-      "name": "Scoundrel's Descent",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "y8-new"
-      ]
-    },
-    {
       "name": "Swamp and Luig",
       "channel": "online",
       "fastClass": "pending",
@@ -292,25 +274,6 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
-      ]
-    },
-    {
-      "name": "FISH EATS EARTH",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     },
     {
@@ -423,6 +386,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "FISH EATS EARTH",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1079,6 +1061,25 @@
     },
     {
       "name": "Sprunki Hypershifted Pepper's Take",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Log Drop",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
