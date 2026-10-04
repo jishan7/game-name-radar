@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-04T00:05:15.766Z",
+  "generatedAt": "2026-10-04T05:50:04.740Z",
   "totalCandidates": 3000,
   "pendingSeo": 2444,
   "channelCounts": {
-    "pending": 453,
-    "online": 1986,
+    "pending": 454,
+    "online": 1985,
     "wiki": 5
   },
   "fastClassCounts": {
-    "pending:pending": 453,
-    "online:pending": 1986,
+    "pending:pending": 454,
+    "online:pending": 1985,
     "wiki:pending": 5
   },
   "strategicCounts": {
-    "pending:0": 446,
+    "pending:0": 447,
     "online:3": 6,
     "online:2": 547,
     "wiki:0": 3,
-    "online:1": 1433,
+    "online:1": 1432,
     "pending:1": 7,
     "wiki:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1954
+      "count": 1953
     },
     {
       "id": "itch-newest-web",
-      "count": 1937
+      "count": 1936
     },
     {
       "id": "itch-new-feed",
-      "count": 1886
+      "count": 1885
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 376
+      "count": 377
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 199
+      "count": 200
     },
     {
       "id": "trends-rising-30d-horror-game",
