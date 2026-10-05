@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-10-05T09:01:10.305Z",
+  "generatedAt": "2026-10-05T18:25:44.874Z",
   "totalCandidates": 3000,
   "pendingSeo": 2444,
   "channelCounts": {
     "pending": 457,
-    "online": 1983,
-    "wiki": 4
+    "online": 1982,
+    "wiki": 5
   },
   "fastClassCounts": {
     "pending:pending": 457,
-    "online:pending": 1983,
-    "wiki:pending": 4
+    "online:pending": 1982,
+    "wiki:pending": 5
   },
   "strategicCounts": {
     "pending:0": 451,
     "online:3": 6,
-    "online:2": 550,
+    "online:2": 551,
     "wiki:0": 3,
-    "online:1": 1427,
+    "online:1": 1425,
     "pending:1": 6,
-    "wiki:1": 1
+    "wiki:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1950
+      "count": 1949
     },
     {
       "id": "itch-newest-web",
-      "count": 1933
+      "count": 1932
     },
     {
       "id": "itch-new-feed",
-      "count": 1882
+      "count": 1881
     },
     {
       "id": "itch-new-popular-web",
-      "count": 537
+      "count": 538
     },
     {
       "id": "itch-popular",
-      "count": 537
+      "count": 538
     },
     {
       "id": "trends-rising-7d",
@@ -108,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 5
+      "count": 6
     },
     {
       "id": "y8-new",
@@ -290,6 +290,25 @@
       "sourceIds": [
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idle Factory: Conveyor Tycoon",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1067,25 +1086,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Incremental Dwarf",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
