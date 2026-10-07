@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-07T02:24:49.815Z",
+  "generatedAt": "2026-10-07T09:16:25.178Z",
   "totalCandidates": 3000,
   "pendingSeo": 2443,
   "channelCounts": {
-    "pending": 454,
-    "online": 1981,
+    "pending": 455,
+    "online": 1980,
     "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 454,
-    "online:pending": 1981,
+    "pending:pending": 455,
+    "online:pending": 1980,
     "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 453,
+    "pending:0": 454,
     "online:3": 6,
     "online:2": 554,
     "wiki:0": 3,
-    "online:1": 1421,
+    "online:1": 1420,
     "pending:1": 1,
     "wiki:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1947
+      "count": 1946
     },
     {
       "id": "itch-newest-web",
-      "count": 1930
+      "count": 1929
     },
     {
       "id": "itch-new-feed",
-      "count": 1879
+      "count": 1878
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 381
+      "count": 383
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 203
+      "count": 204
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 84
+      "count": 85
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -332,25 +332,6 @@
       ]
     },
     {
-      "name": "Very hard meeting",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -441,6 +422,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Very hard meeting",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
