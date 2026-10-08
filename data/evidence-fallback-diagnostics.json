@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-10-08T01:19:45.513Z",
+  "generatedAt": "2026-10-08T07:59:08.177Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2442,
+  "pendingSeo": 2441,
   "channelCounts": {
     "pending": 456,
-    "online": 1979,
+    "online": 1978,
     "wiki": 7
   },
   "fastClassCounts": {
     "pending:pending": 456,
-    "online:pending": 1979,
+    "online:pending": 1978,
     "wiki:pending": 7
   },
   "strategicCounts": {
     "pending:0": 454,
     "online:3": 6,
-    "online:2": 557,
-    "online:1": 1416,
+    "online:2": 558,
     "wiki:0": 3,
+    "online:1": 1414,
     "pending:1": 2,
     "wiki:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1945
+      "count": 1943
     },
     {
       "id": "itch-newest-web",
-      "count": 1928
+      "count": 1926
     },
     {
       "id": "itch-new-feed",
-      "count": 1876
+      "count": 1875
     },
     {
       "id": "itch-new-popular-web",
-      "count": 544
+      "count": 545
     },
     {
       "id": "itch-popular",
-      "count": 544
+      "count": 545
     },
     {
       "id": "trends-rising-7d",
-      "count": 382
+      "count": 381
     },
     {
       "id": "trends-rising-30d",
-      "count": 258
+      "count": 257
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 84
+      "count": 83
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -72,7 +72,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 58
+      "count": 57
     },
     {
       "id": "newgrounds-latest",
@@ -84,11 +84,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "newgrounds-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "steam-latest-indie",
@@ -254,6 +254,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Yes, Comrade.",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     },
     {
@@ -1069,25 +1087,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Where are my bones?!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
