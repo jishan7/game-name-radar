@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-10T02:46:01.661Z",
+  "generatedAt": "2026-10-10T09:04:43.370Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2434,
+  "pendingSeo": 2433,
   "channelCounts": {
-    "pending": 463,
-    "wiki": 19,
-    "online": 1952
+    "pending": 465,
+    "online": 1949,
+    "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 463,
-    "wiki:pending": 19,
-    "online:pending": 1952
+    "pending:pending": 465,
+    "online:pending": 1949,
+    "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 461,
-    "wiki:1": 16,
+    "pending:0": 463,
     "online:3": 6,
     "online:2": 558,
     "wiki:0": 3,
-    "online:1": 1388,
-    "pending:1": 2
+    "online:1": 1385,
+    "pending:1": 2,
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1916
+      "count": 1913
     },
     {
       "id": "itch-newest-web",
-      "count": 1900
+      "count": 1897
     },
     {
       "id": "itch-new-feed",
-      "count": 1848
+      "count": 1845
     },
     {
       "id": "itch-new-popular-web",
@@ -48,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 263
+      "count": 265
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 150
+      "count": 152
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -316,25 +316,6 @@
       ]
     },
     {
-      "name": "Stargate Legacy",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "One More Floor",
       "channel": "online",
       "fastClass": "pending",
@@ -416,6 +397,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Stargate Legacy",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
