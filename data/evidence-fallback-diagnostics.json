@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-10-10T09:04:43.370Z",
+  "generatedAt": "2026-10-10T15:21:42.087Z",
   "totalCandidates": 3000,
   "pendingSeo": 2433,
   "channelCounts": {
-    "pending": 465,
-    "online": 1949,
+    "pending": 464,
+    "online": 1950,
     "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 465,
-    "online:pending": 1949,
+    "pending:pending": 464,
+    "online:pending": 1950,
     "wiki:pending": 19
   },
   "strategicCounts": {
     "pending:0": 463,
     "online:3": 6,
-    "online:2": 558,
+    "online:2": 559,
     "wiki:0": 3,
     "online:1": 1385,
-    "pending:1": 2,
+    "pending:1": 1,
     "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1913
+      "count": 1914
     },
     {
       "id": "itch-newest-web",
-      "count": 1897
+      "count": 1898
     },
     {
       "id": "itch-new-feed",
-      "count": 1845
+      "count": 1846
     },
     {
       "id": "itch-new-popular-web",
-      "count": 545
+      "count": 546
     },
     {
       "id": "itch-popular",
-      "count": 545
+      "count": 546
     },
     {
       "id": "trends-rising-7d",
@@ -104,11 +104,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 14
+      "count": 13
     },
     {
       "id": "itch-featured",
-      "count": 14
+      "count": 13
     },
     {
       "id": "y8-new",
@@ -295,6 +295,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Inside The Cube",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1063,25 +1082,6 @@
     },
     {
       "name": "TrickcalTycoon",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "CLERESTORY",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
