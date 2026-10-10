@@ -1,39 +1,38 @@
 {
-  "generatedAt": "2026-10-09T23:33:43.387Z",
+  "generatedAt": "2026-10-10T02:46:01.661Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2435,
+  "pendingSeo": 2434,
   "channelCounts": {
-    "pending": 459,
-    "online": 1954,
-    "wiki": 22
+    "pending": 463,
+    "wiki": 19,
+    "online": 1952
   },
   "fastClassCounts": {
-    "pending:pending": 459,
-    "online:pending": 1954,
-    "wiki:pending": 22
+    "pending:pending": 463,
+    "wiki:pending": 19,
+    "online:pending": 1952
   },
   "strategicCounts": {
-    "pending:0": 457,
+    "pending:0": 461,
+    "wiki:1": 16,
     "online:3": 6,
     "online:2": 558,
     "wiki:0": 3,
-    "online:1": 1390,
-    "wiki:2": 1,
-    "pending:1": 2,
-    "wiki:1": 18
+    "online:1": 1388,
+    "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1918
+      "count": 1916
     },
     {
       "id": "itch-newest-web",
-      "count": 1902
+      "count": 1900
     },
     {
       "id": "itch-new-feed",
-      "count": 1850
+      "count": 1848
     },
     {
       "id": "itch-new-popular-web",
@@ -45,19 +44,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 383
+      "count": 387
     },
     {
       "id": "trends-rising-30d",
-      "count": 261
+      "count": 263
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 206
+      "count": 209
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 148
+      "count": 150
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -65,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 83
+      "count": 84
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -93,15 +92,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 24
+      "count": 21
     },
     {
       "id": "steam-latest-indie",
-      "count": 18
+      "count": 17
     },
     {
       "id": "steam-new",
-      "count": 18
+      "count": 17
     },
     {
       "id": "itch-featured-feed",
@@ -278,27 +277,6 @@
       ]
     },
     {
-      "name": "One More Floor",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 7,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "More Slots More Money",
       "channel": "online",
       "fastClass": "pending",
@@ -354,6 +332,27 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "One More Floor",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
