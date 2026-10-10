@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-10-10T15:21:42.087Z",
+  "generatedAt": "2026-10-10T19:31:52.432Z",
   "totalCandidates": 3000,
   "pendingSeo": 2433,
   "channelCounts": {
-    "pending": 464,
-    "online": 1950,
+    "pending": 463,
+    "online": 1951,
     "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 464,
-    "online:pending": 1950,
+    "pending:pending": 463,
+    "online:pending": 1951,
     "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 463,
+    "pending:0": 462,
     "online:3": 6,
-    "online:2": 559,
+    "online:2": 562,
+    "online:1": 1383,
     "wiki:0": 3,
-    "online:1": 1385,
     "pending:1": 1,
     "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1914
+      "count": 1912
     },
     {
       "id": "itch-newest-web",
-      "count": 1898
+      "count": 1896
     },
     {
       "id": "itch-new-feed",
-      "count": 1846
+      "count": 1844
     },
     {
       "id": "itch-new-popular-web",
-      "count": 546
+      "count": 547
     },
     {
       "id": "itch-popular",
-      "count": 546
+      "count": 547
     },
     {
       "id": "trends-rising-7d",
@@ -48,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 265
+      "count": 266
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 152
+      "count": 153
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -76,11 +76,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
@@ -112,7 +112,7 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
@@ -120,7 +120,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 4
     },
     {
       "id": "poki-new",
@@ -416,6 +416,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Abyssal Salvage",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1070,25 +1089,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "TrickcalTycoon",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
