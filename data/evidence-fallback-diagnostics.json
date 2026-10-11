@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-11T15:38:49.052Z",
+  "generatedAt": "2026-10-11T19:43:39.252Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2430,
+  "pendingSeo": 2429,
   "channelCounts": {
     "pending": 467,
-    "online": 1953,
+    "online": 1952,
     "wiki": 10
   },
   "fastClassCounts": {
     "pending:pending": 467,
-    "online:pending": 1953,
+    "online:pending": 1952,
     "wiki:pending": 10
   },
   "strategicCounts": {
@@ -17,7 +17,7 @@
     "online:3": 6,
     "online:2": 563,
     "wiki:0": 3,
-    "online:1": 1384,
+    "online:1": 1383,
     "pending:1": 1,
     "wiki:1": 7
   },
@@ -32,15 +32,15 @@
     },
     {
       "id": "itch-new-feed",
-      "count": 1847
+      "count": 1848
     },
     {
       "id": "itch-new-popular-web",
-      "count": 549
+      "count": 550
     },
     {
       "id": "itch-popular",
-      "count": 549
+      "count": 550
     },
     {
       "id": "trends-rising-7d",
@@ -112,7 +112,7 @@
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",
@@ -120,7 +120,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "poki-new",
@@ -274,6 +274,25 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Lab accident",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1070,25 +1089,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Forgever",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
