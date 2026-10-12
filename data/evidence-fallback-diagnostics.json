@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-10-12T09:45:43.049Z",
+  "generatedAt": "2026-10-12T19:21:22.885Z",
   "totalCandidates": 3000,
   "pendingSeo": 2428,
   "channelCounts": {
     "pending": 471,
-    "online": 1954,
-    "wiki": 3
+    "online": 1951,
+    "wiki": 6
   },
   "fastClassCounts": {
     "pending:pending": 471,
-    "online:pending": 1954,
-    "wiki:pending": 3
+    "online:pending": 1951,
+    "wiki:pending": 6
   },
   "strategicCounts": {
     "pending:0": 470,
     "online:3": 6,
     "online:2": 564,
     "wiki:0": 3,
-    "online:1": 1384,
-    "pending:1": 1
+    "online:1": 1381,
+    "pending:1": 1,
+    "wiki:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1918
+      "count": 1915
     },
     {
       "id": "itch-newest-web",
-      "count": 1901
+      "count": 1898
     },
     {
       "id": "itch-new-feed",
-      "count": 1851
+      "count": 1848
     },
     {
       "id": "itch-new-popular-web",
@@ -106,12 +107,12 @@
       "count": 13
     },
     {
-      "id": "y8-new",
-      "count": 6
+      "id": "steam-popular-new",
+      "count": 8
     },
     {
-      "id": "steam-popular-new",
-      "count": 5
+      "id": "y8-new",
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",
@@ -352,24 +353,6 @@
       ]
     },
     {
-      "name": "Battle Healer Hildegard",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
-      ]
-    },
-    {
       "name": "One More Floor",
       "channel": "online",
       "fastClass": "pending",
@@ -510,6 +493,24 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Battle Healer Hildegard",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
