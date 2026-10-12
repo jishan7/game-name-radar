@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T02:23:05.260Z",
+  "generatedAt": "2026-10-12T09:45:43.049Z",
   "totalCandidates": 3000,
   "pendingSeo": 2428,
   "channelCounts": {
@@ -15,15 +15,15 @@
   "strategicCounts": {
     "pending:0": 470,
     "online:3": 6,
-    "online:2": 563,
+    "online:2": 564,
     "wiki:0": 3,
-    "online:1": 1385,
+    "online:1": 1384,
     "pending:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1917
+      "count": 1918
     },
     {
       "id": "itch-newest-web",
@@ -31,15 +31,15 @@
     },
     {
       "id": "itch-new-feed",
-      "count": 1850
+      "count": 1851
     },
     {
       "id": "itch-new-popular-web",
-      "count": 550
+      "count": 551
     },
     {
       "id": "itch-popular",
-      "count": 550
+      "count": 551
     },
     {
       "id": "trends-rising-7d",
@@ -472,6 +472,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "II II II I I I I II",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1077,25 +1096,6 @@
         "itch-popular",
         "itch-featured-feed",
         "itch-featured"
-      ]
-    },
-    {
-      "name": "The Big Moo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
