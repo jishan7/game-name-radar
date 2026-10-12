@@ -1,38 +1,37 @@
 {
-  "generatedAt": "2026-10-11T23:10:46.180Z",
+  "generatedAt": "2026-10-12T02:23:05.260Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2429,
+  "pendingSeo": 2428,
   "channelCounts": {
-    "pending": 468,
-    "online": 1951,
-    "wiki": 10
+    "pending": 471,
+    "online": 1954,
+    "wiki": 3
   },
   "fastClassCounts": {
-    "pending:pending": 468,
-    "online:pending": 1951,
-    "wiki:pending": 10
+    "pending:pending": 471,
+    "online:pending": 1954,
+    "wiki:pending": 3
   },
   "strategicCounts": {
-    "pending:0": 467,
+    "pending:0": 470,
     "online:3": 6,
-    "online:2": 564,
+    "online:2": 563,
     "wiki:0": 3,
-    "online:1": 1381,
-    "pending:1": 1,
-    "wiki:1": 7
+    "online:1": 1385,
+    "pending:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1913
+      "count": 1917
     },
     {
       "id": "itch-newest-web",
-      "count": 1897
+      "count": 1901
     },
     {
       "id": "itch-new-feed",
-      "count": 1846
+      "count": 1850
     },
     {
       "id": "itch-new-popular-web",
@@ -44,19 +43,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 389
+      "count": 391
     },
     {
       "id": "trends-rising-30d",
-      "count": 271
+      "count": 273
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 210
+      "count": 212
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 156
+      "count": 158
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -107,12 +106,12 @@
       "count": 13
     },
     {
-      "id": "steam-popular-new",
-      "count": 12
+      "id": "y8-new",
+      "count": 6
     },
     {
-      "id": "y8-new",
-      "count": 7
+      "id": "steam-popular-new",
+      "count": 5
     },
     {
       "id": "steam-top-wishlist",
@@ -120,7 +119,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "poki-new",
