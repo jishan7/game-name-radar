@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-10-13T08:26:53.369Z",
+  "generatedAt": "2026-10-13T16:27:13.548Z",
   "totalCandidates": 3000,
   "pendingSeo": 2425,
   "channelCounts": {
     "pending": 472,
-    "online": 1945,
-    "wiki": 8
+    "online": 1942,
+    "wiki": 11
   },
   "fastClassCounts": {
     "pending:pending": 472,
-    "online:pending": 1945,
-    "wiki:pending": 8
+    "online:pending": 1942,
+    "wiki:pending": 11
   },
   "strategicCounts": {
     "pending:0": 471,
     "online:3": 6,
     "online:2": 565,
     "wiki:0": 3,
-    "online:1": 1374,
+    "online:1": 1371,
+    "wiki:2": 1,
     "pending:1": 1,
-    "wiki:1": 5
+    "wiki:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1908
+      "count": 1905
     },
     {
       "id": "itch-newest-web",
-      "count": 1891
+      "count": 1888
     },
     {
       "id": "itch-new-feed",
-      "count": 1841
+      "count": 1838
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +45,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 392
+      "count": 393
     },
     {
       "id": "trends-rising-30d",
-      "count": 275
+      "count": 274
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +57,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 159
+      "count": 158
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -64,7 +65,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 86
+      "count": 87
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -92,11 +93,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 18
+      "count": 19
     },
     {
       "id": "steam-new",
-      "count": 18
+      "count": 19
     },
     {
       "id": "itch-featured-feed",
@@ -108,7 +109,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 10
+      "count": 13
     },
     {
       "id": "y8-new",
@@ -333,25 +334,6 @@
       ]
     },
     {
-      "name": "PokéSurvivor",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "One More Floor",
       "channel": "online",
       "fastClass": "pending",
@@ -458,6 +440,25 @@
     },
     {
       "name": "II II II I I I I II",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "PokéSurvivor",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
