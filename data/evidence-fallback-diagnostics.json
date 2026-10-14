@@ -1,46 +1,47 @@
 {
-  "generatedAt": "2026-10-14T00:37:21.529Z",
+  "generatedAt": "2026-10-14T05:24:41.498Z",
   "totalCandidates": 3000,
   "pendingSeo": 2423,
   "channelCounts": {
     "pending": 472,
-    "wiki": 16,
-    "online": 1935
+    "wiki": 19,
+    "online": 1932
   },
   "fastClassCounts": {
     "pending:pending": 472,
-    "wiki:pending": 16,
-    "online:pending": 1935
+    "wiki:pending": 19,
+    "online:pending": 1932
   },
   "strategicCounts": {
     "pending:0": 471,
     "wiki:0": 4,
     "online:3": 6,
-    "online:2": 566,
-    "online:1": 1363,
+    "online:2": 567,
+    "online:1": 1359,
+    "wiki:2": 2,
     "pending:1": 1,
-    "wiki:1": 12
+    "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1898
+      "count": 1895
     },
     {
       "id": "itch-newest-web",
-      "count": 1881
+      "count": 1878
     },
     {
       "id": "itch-new-feed",
-      "count": 1831
+      "count": 1828
     },
     {
       "id": "itch-new-popular-web",
-      "count": 553
+      "count": 554
     },
     {
       "id": "itch-popular",
-      "count": 553
+      "count": 554
     },
     {
       "id": "trends-rising-7d",
@@ -91,16 +92,16 @@
       "count": 27
     },
     {
+      "id": "steam-popular-new",
+      "count": 20
+    },
+    {
       "id": "steam-latest-indie",
-      "count": 18
+      "count": 20
     },
     {
       "id": "steam-new",
-      "count": 18
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 17
+      "count": 20
     },
     {
       "id": "itch-featured-feed",
@@ -277,6 +278,25 @@
       ]
     },
     {
+      "name": "Dig Deep, Get Rich",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "ROTETRA",
       "channel": "online",
       "fastClass": "pending",
@@ -296,25 +316,6 @@
     },
     {
       "name": "Lab accident",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "KAIJU DISPOSAL",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -458,6 +459,25 @@
     },
     {
       "name": "II II II I I I I II",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "KAIJU DISPOSAL",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1063,25 +1083,6 @@
     },
     {
       "name": "Shutter Chance, Push Battle",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "orbital",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
