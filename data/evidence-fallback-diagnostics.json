@@ -1,47 +1,46 @@
 {
-  "generatedAt": "2026-10-13T21:33:44.895Z",
+  "generatedAt": "2026-10-14T00:37:21.529Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2424,
+  "pendingSeo": 2423,
   "channelCounts": {
-    "pending": 471,
-    "wiki": 15,
-    "online": 1938
+    "pending": 472,
+    "wiki": 16,
+    "online": 1935
   },
   "fastClassCounts": {
-    "pending:pending": 471,
-    "wiki:pending": 15,
-    "online:pending": 1938
+    "pending:pending": 472,
+    "wiki:pending": 16,
+    "online:pending": 1935
   },
   "strategicCounts": {
-    "pending:0": 470,
+    "pending:0": 471,
     "wiki:0": 4,
     "online:3": 6,
-    "online:2": 565,
-    "online:1": 1367,
-    "wiki:2": 1,
+    "online:2": 566,
+    "online:1": 1363,
     "pending:1": 1,
-    "wiki:1": 10
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1901
+      "count": 1898
     },
     {
       "id": "itch-newest-web",
-      "count": 1884
+      "count": 1881
     },
     {
       "id": "itch-new-feed",
-      "count": 1834
+      "count": 1831
     },
     {
       "id": "itch-new-popular-web",
-      "count": 552
+      "count": 553
     },
     {
       "id": "itch-popular",
-      "count": 552
+      "count": 553
     },
     {
       "id": "trends-rising-7d",
@@ -49,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 276
+      "count": 278
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -57,7 +56,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 159
+      "count": 161
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -93,15 +92,15 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 19
+      "count": 18
     },
     {
       "id": "steam-new",
-      "count": 19
+      "count": 18
     },
     {
       "id": "steam-popular-new",
-      "count": 16
+      "count": 17
     },
     {
       "id": "itch-featured-feed",
@@ -436,6 +435,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Diglings Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1071,25 +1089,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Shakedown Troll",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
