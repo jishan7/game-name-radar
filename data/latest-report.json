@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-10-14T19:41:43.077Z",
+  "scannedAt": "2026-10-14T22:37:38.770Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 185,
+  "totalAdded": 119,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 36
+      "added": 35
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 5
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 36
+      "added": 35
     },
     {
       "ok": true,
@@ -38,21 +38,21 @@
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 8
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 19
+      "added": 9
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 5
+      "added": 3
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 175,
-      "added": 20
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 34
+      "added": 31
     },
     {
       "ok": false,
@@ -101,56 +101,14 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-itch-io",
-      "sourceName": "Trends上涨 7天 · itch io",
-      "total": 10,
-      "added": 5
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-itch-io",
-      "sourceName": "Trends上涨 30天 · itch io",
-      "total": 15,
-      "added": 3
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-indie-game",
-      "sourceName": "Trends上涨 7天 · indie game",
-      "total": 1,
-      "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-indie-game",
-      "sourceName": "Trends上涨 30天 · indie game",
-      "total": 1,
-      "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-horror-game",
-      "sourceName": "Trends上涨 7天 · horror game",
-      "total": 12,
-      "added": 5
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-horror-game",
-      "sourceName": "Trends上涨 30天 · horror game",
-      "total": 15,
-      "added": 8
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 303,
-  "fastWatchCount": 224,
-  "fastRejectedCount": 56,
+  "fastPassedCount": 304,
+  "fastWatchCount": 226,
+  "fastRejectedCount": 58,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -159,12 +117,12 @@
   "trendErrors": 0,
   "trendBatchRan": true,
   "trendQueueSize": 0,
-  "risingDiscoveryRan": true,
+  "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 459,
-  "trendEligibleCount": 234,
-  "trendPendingCount": 234,
+  "seoPassedCount": 464,
+  "trendEligibleCount": 235,
+  "trendPendingCount": 235,
   "trendValidatedCount": 275,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -172,9 +130,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 426,
+    "watch": 425,
     "reject": 0,
-    "pending": 2572,
+    "pending": 2573,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +152,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-10-14T19:41:41.954Z",
+    "checkedAt": "2026-10-14T22:37:37.912Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -243,8 +201,8 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2299,
-    "wiki": 126,
+    "online": 2298,
+    "wiki": 127,
     "pending": 575
   },
   "wikiPrelaunchModelVersion": 2,
@@ -252,7 +210,7 @@
     "priority": 0,
     "prepare": 0,
     "watch": 6,
-    "weak": 120
+    "weak": 121
   },
   "serperVerification": {
     "rushMode": true,
@@ -275,35 +233,29 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-10-14T19:42:10.664Z"
+    "ranAt": "2026-10-14T22:37:44.405Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2417,
-    "eligibleCount": 5,
-    "queueSize": 5,
-    "verified": 5,
+    "pendingCount": 2412,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
-      "online": 1,
-      "wiki": 4,
+      "online": 0,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
-      "watch": 3,
-      "weak": 1,
+      "pass": 0,
+      "watch": 0,
+      "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Only Up: Parkour In Apocalypse",
-      "over the hill",
-      "Warhammer 40,000: Boltgun 2",
-      "The Witch's Bakery",
-      "Thank You Bus Driver"
-    ],
-    "ranAt": "2026-10-14T19:42:11.337Z"
+    "verifiedNames": [],
+    "ranAt": "2026-10-14T22:37:45.032Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -325,10 +277,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-10-14T19:42:12.347Z"
+    "ranAt": "2026-10-14T22:37:45.982Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-10-14T19:42:12.414Z",
+    "checkedAt": "2026-10-14T22:37:46.037Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -385,7 +337,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-10-14T19:42:12.527Z"
+    "updatedAt": "2026-10-14T22:37:46.128Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -443,11 +395,11 @@
     },
     "pendingByTier": {
       "strong": 178,
-      "secondary": 157,
-      "strategic": 58
+      "secondary": 156,
+      "strategic": 59
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-10-14T19:42:13.035Z"
+    "ranAt": "2026-10-14T22:37:46.599Z"
   }
 }
