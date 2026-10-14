@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-14T10:37:06.598Z",
+  "generatedAt": "2026-10-14T15:30:06.173Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2421,
+  "pendingSeo": 2420,
   "channelCounts": {
-    "pending": 473,
-    "wiki": 18,
-    "online": 1930
+    "pending": 472,
+    "online": 1929,
+    "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 473,
-    "wiki:pending": 18,
-    "online:pending": 1930
+    "pending:pending": 472,
+    "online:pending": 1929,
+    "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 472,
+    "pending:0": 471,
+    "online:1": 1355,
     "wiki:0": 4,
     "online:3": 6,
-    "online:2": 567,
-    "online:1": 1357,
-    "pending:1": 1,
+    "online:2": 568,
     "wiki:2": 1,
-    "wiki:1": 13
+    "pending:1": 1,
+    "wiki:1": 14
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1893
+      "count": 1890
     },
     {
       "id": "itch-newest-web",
-      "count": 1876
+      "count": 1873
     },
     {
       "id": "itch-new-feed",
-      "count": 1826
+      "count": 1823
     },
     {
       "id": "itch-new-popular-web",
-      "count": 554
+      "count": 555
     },
     {
       "id": "itch-popular",
-      "count": 554
+      "count": 555
     },
     {
       "id": "trends-rising-7d",
@@ -93,7 +93,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 19
+      "count": 20
     },
     {
       "id": "steam-latest-indie",
@@ -113,7 +113,7 @@
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
@@ -121,7 +121,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "poki-new",
@@ -315,25 +315,6 @@
       ]
     },
     {
-      "name": "Lab accident",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "One More Floor",
       "channel": "online",
       "fastClass": "pending",
@@ -458,7 +439,7 @@
       ]
     },
     {
-      "name": "II II II I I I I II",
+      "name": "Lab accident",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1083,6 +1064,25 @@
     },
     {
       "name": "Shutter Chance, Push Battle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "orbital",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,

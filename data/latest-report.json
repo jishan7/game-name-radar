@@ -1,23 +1,23 @@
 {
-  "scannedAt": "2026-10-14T10:36:42.435Z",
+  "scannedAt": "2026-10-14T15:29:37.805Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 167,
+  "totalAdded": 177,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 35
+      "added": 34
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 7
+      "added": 10
     },
     {
       "ok": true,
@@ -38,21 +38,21 @@
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 5
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 12
+      "added": 21
     },
     {
       "ok": true,
@@ -66,21 +66,21 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 9
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 6
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 141,
-      "added": 3
+      "total": 155,
+      "added": 14
     },
     {
       "ok": true,
@@ -100,21 +100,21 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 10,
-      "added": 5
+      "total": 7,
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 15,
-      "added": 1
+      "total": 16,
+      "added": 2
     },
     {
       "ok": true,
@@ -134,22 +134,22 @@
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 13,
-      "added": 4
+      "total": 14,
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 14,
-      "added": 5
+      "total": 15,
+      "added": 4
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
   "fastPassedCount": 301,
-  "fastWatchCount": 223,
+  "fastWatchCount": 224,
   "fastRejectedCount": 55,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
@@ -162,7 +162,7 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 455,
+  "seoPassedCount": 456,
   "trendEligibleCount": 232,
   "trendPendingCount": 232,
   "trendValidatedCount": 275,
@@ -172,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 420,
+    "watch": 423,
     "reject": 0,
-    "pending": 2578,
+    "pending": 2575,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-10-14T10:36:41.348Z",
+    "checkedAt": "2026-10-14T15:29:36.649Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -213,7 +213,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 231,
+    "evidence-fallback": 234,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -243,16 +243,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2311,
-    "wiki": 116,
-    "pending": 573
+    "online": 2310,
+    "wiki": 118,
+    "pending": 572
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 0,
     "watch": 6,
-    "weak": 110
+    "weak": 112
   },
   "serperVerification": {
     "rushMode": true,
@@ -275,31 +275,33 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-10-14T10:37:06.345Z"
+    "ranAt": "2026-10-14T15:30:05.914Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2421,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2420,
+    "eligibleCount": 3,
+    "queueSize": 3,
+    "verified": 3,
     "channelVerified": {
-      "online": 0,
+      "online": 2,
       "wiki": 1,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 0,
+      "pass": 2,
       "watch": 1,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "My Beautiful Faraway, Please Don't Be Cruel To Me"
+      "i can smell you from here",
+      "Happy Orange Glass",
+      "Ratatan"
     ],
-    "ranAt": "2026-10-14T10:37:07.009Z"
+    "ranAt": "2026-10-14T15:30:06.596Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -321,10 +323,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-10-14T10:37:08.037Z"
+    "ranAt": "2026-10-14T15:30:07.604Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-10-14T10:37:08.108Z",
+    "checkedAt": "2026-10-14T15:30:07.674Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -381,7 +383,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-10-14T10:37:08.225Z"
+    "updatedAt": "2026-10-14T15:30:07.791Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -434,16 +436,16 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 288,
-      "wiki": 97
+      "online": 290,
+      "wiki": 98
     },
     "pendingByTier": {
-      "strong": 175,
-      "secondary": 154,
+      "strong": 177,
+      "secondary": 155,
       "strategic": 56
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-10-14T10:37:08.726Z"
+    "ranAt": "2026-10-14T15:30:08.321Z"
   }
 }
