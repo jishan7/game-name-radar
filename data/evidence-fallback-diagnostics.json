@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-10-15T05:54:20.763Z",
+  "generatedAt": "2026-10-15T11:25:43.531Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2412,
+  "pendingSeo": 2411,
   "channelCounts": {
-    "pending": 475,
-    "wiki": 19,
-    "online": 1918
+    "pending": 476,
+    "wiki": 20,
+    "online": 1915
   },
   "fastClassCounts": {
-    "pending:pending": 475,
-    "wiki:pending": 19,
-    "online:pending": 1918
+    "pending:pending": 476,
+    "wiki:pending": 20,
+    "online:pending": 1915
   },
   "strategicCounts": {
     "pending:0": 474,
     "wiki:0": 4,
     "online:3": 6,
-    "online:2": 570,
-    "online:1": 1342,
-    "pending:1": 1,
-    "wiki:1": 15
+    "online:2": 572,
+    "online:1": 1337,
+    "pending:1": 2,
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1880
+      "count": 1876
     },
     {
       "id": "itch-newest-web",
-      "count": 1864
+      "count": 1859
     },
     {
       "id": "itch-new-feed",
-      "count": 1813
+      "count": 1809
     },
     {
       "id": "itch-new-popular-web",
-      "count": 556
+      "count": 557
     },
     {
       "id": "itch-popular",
-      "count": 556
+      "count": 557
     },
     {
       "id": "trends-rising-7d",
@@ -84,15 +84,15 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "newgrounds-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "steam-popular-new",
-      "count": 20
+      "count": 21
     },
     {
       "id": "steam-latest-indie",
@@ -104,15 +104,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 14
+      "count": 15
     },
     {
       "id": "itch-featured",
-      "count": 14
+      "count": 15
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 8
     },
     {
       "id": "steam-top-wishlist",
@@ -120,7 +120,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 4
     },
     {
       "id": "poki-new",
@@ -257,25 +257,6 @@
       ]
     },
     {
-      "name": "Interlocked: Puzzle Islands",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
       "name": "Swamp and Luig",
       "channel": "online",
       "fastClass": "pending",
@@ -293,6 +274,25 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Wizards Go Farming",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
