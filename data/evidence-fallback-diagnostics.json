@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-15T00:52:59.596Z",
+  "generatedAt": "2026-10-15T05:54:20.763Z",
   "totalCandidates": 3000,
   "pendingSeo": 2412,
   "channelCounts": {
     "pending": 475,
-    "wiki": 17,
-    "online": 1920
+    "wiki": 19,
+    "online": 1918
   },
   "fastClassCounts": {
     "pending:pending": 475,
-    "wiki:pending": 17,
-    "online:pending": 1920
+    "wiki:pending": 19,
+    "online:pending": 1918
   },
   "strategicCounts": {
     "pending:0": 474,
     "wiki:0": 4,
     "online:3": 6,
-    "online:2": 569,
-    "online:1": 1345,
+    "online:2": 570,
+    "online:1": 1342,
     "pending:1": 1,
-    "wiki:1": 13
+    "wiki:1": 15
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1882
+      "count": 1880
     },
     {
       "id": "itch-newest-web",
-      "count": 1866
+      "count": 1864
     },
     {
       "id": "itch-new-feed",
-      "count": 1815
+      "count": 1813
     },
     {
       "id": "itch-new-popular-web",
@@ -84,15 +84,15 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "newgrounds-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 20
     },
     {
       "id": "steam-latest-indie",
@@ -254,6 +254,25 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Interlocked: Puzzle Islands",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     },
     {
@@ -1070,25 +1089,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Save Me a Slice!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
