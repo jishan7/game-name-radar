@@ -1,63 +1,62 @@
 {
-  "generatedAt": "2026-10-15T15:44:07.749Z",
+  "generatedAt": "2026-10-15T19:23:31.047Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2409,
+  "pendingSeo": 2407,
   "channelCounts": {
-    "pending": 476,
-    "wiki": 23,
-    "online": 1910
+    "pending": 477,
+    "wiki": 25,
+    "online": 1905
   },
   "fastClassCounts": {
-    "pending:pending": 476,
-    "wiki:pending": 23,
-    "online:pending": 1910
+    "pending:pending": 477,
+    "wiki:pending": 25,
+    "online:pending": 1905
   },
   "strategicCounts": {
     "pending:0": 474,
     "wiki:0": 4,
     "online:3": 6,
     "online:2": 575,
-    "online:1": 1329,
-    "pending:1": 2,
-    "wiki:2": 1,
-    "wiki:1": 18
+    "online:1": 1324,
+    "pending:1": 3,
+    "wiki:1": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1872
+      "count": 1867
     },
     {
       "id": "itch-newest-web",
-      "count": 1855
+      "count": 1850
     },
     {
       "id": "itch-new-feed",
-      "count": 1805
+      "count": 1800
     },
     {
       "id": "itch-new-popular-web",
-      "count": 561
+      "count": 562
     },
     {
       "id": "itch-popular",
-      "count": 561
+      "count": 562
     },
     {
       "id": "trends-rising-7d",
-      "count": 394
+      "count": 395
     },
     {
       "id": "trends-rising-30d",
-      "count": 280
+      "count": 282
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 213
+      "count": 214
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 162
+      "count": 164
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -93,23 +92,23 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 24
+      "count": 26
     },
     {
       "id": "steam-latest-indie",
-      "count": 21
+      "count": 20
     },
     {
       "id": "steam-new",
-      "count": 21
+      "count": 20
     },
     {
       "id": "itch-featured-feed",
-      "count": 15
+      "count": 16
     },
     {
       "id": "itch-featured",
-      "count": 15
+      "count": 16
     },
     {
       "id": "y8-new",
@@ -121,7 +120,7 @@
     },
     {
       "id": "poki-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "lagged-new",
@@ -275,6 +274,25 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Grave Filler",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1071,25 +1089,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Packsmith",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
