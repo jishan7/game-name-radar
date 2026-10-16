@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-10-16T21:43:37.624Z",
+  "generatedAt": "2026-10-16T23:53:06.618Z",
   "totalCandidates": 3000,
   "pendingSeo": 2405,
   "channelCounts": {
     "pending": 484,
-    "wiki": 27,
-    "online": 1894
+    "wiki": 29,
+    "online": 1892
   },
   "fastClassCounts": {
     "pending:pending": 484,
-    "wiki:pending": 27,
-    "online:pending": 1894
+    "wiki:pending": 29,
+    "online:pending": 1892
   },
   "strategicCounts": {
     "pending:0": 481,
     "wiki:0": 4,
     "online:3": 6,
-    "online:2": 575,
-    "online:1": 1313,
+    "online:2": 576,
+    "online:1": 1310,
     "pending:1": 3,
-    "wiki:1": 23
+    "wiki:2": 1,
+    "wiki:1": 24
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1855
+      "count": 1852
     },
     {
       "id": "itch-newest-web",
-      "count": 1839
+      "count": 1836
     },
     {
       "id": "itch-new-feed",
-      "count": 1788
+      "count": 1785
     },
     {
       "id": "itch-new-popular-web",
@@ -75,16 +76,16 @@
       "count": 62
     },
     {
+      "id": "steam-popular-new",
+      "count": 30
+    },
+    {
       "id": "newgrounds-latest",
       "count": 29
     },
     {
       "id": "newgrounds-new",
       "count": 29
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 28
     },
     {
       "id": "newgrounds-daily-top",
@@ -96,11 +97,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 20
+      "count": 21
     },
     {
       "id": "steam-new",
-      "count": 20
+      "count": 21
     },
     {
       "id": "itch-featured-feed",
@@ -112,11 +113,15 @@
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
       "count": 5
+    },
+    {
+      "id": "crazygames-new",
+      "count": 2
     },
     {
       "id": "poki-new",
@@ -125,10 +130,6 @@
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "crazygames-new",
-      "count": 1
     }
   ],
   "samples": [
