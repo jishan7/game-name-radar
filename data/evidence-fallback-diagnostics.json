@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-16T00:45:35.579Z",
+  "generatedAt": "2026-10-16T05:06:40.235Z",
   "totalCandidates": 3000,
   "pendingSeo": 2407,
   "channelCounts": {
-    "pending": 480,
-    "wiki": 25,
-    "online": 1902
+    "pending": 484,
+    "wiki": 22,
+    "online": 1901
   },
   "fastClassCounts": {
-    "pending:pending": 480,
-    "wiki:pending": 25,
-    "online:pending": 1902
+    "pending:pending": 484,
+    "wiki:pending": 22,
+    "online:pending": 1901
   },
   "strategicCounts": {
-    "pending:0": 475,
+    "pending:0": 481,
     "wiki:0": 4,
     "online:3": 6,
     "online:2": 576,
-    "online:1": 1320,
-    "pending:1": 5,
-    "wiki:1": 21
+    "online:1": 1319,
+    "pending:1": 3,
+    "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1864
+      "count": 1863
     },
     {
       "id": "itch-newest-web",
-      "count": 1847
+      "count": 1846
     },
     {
       "id": "itch-new-feed",
-      "count": 1797
+      "count": 1796
     },
     {
       "id": "itch-new-popular-web",
@@ -44,19 +44,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 395
+      "count": 397
     },
     {
       "id": "trends-rising-30d",
-      "count": 283
+      "count": 288
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 214
+      "count": 215
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 165
+      "count": 169
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -64,11 +64,11 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 86
+      "count": 87
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 62
+      "count": 63
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 26
+      "count": 23
     },
     {
       "id": "steam-latest-indie",
@@ -104,11 +104,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 18
+      "count": 16
     },
     {
       "id": "itch-featured",
-      "count": 18
+      "count": 16
     },
     {
       "id": "y8-new",
@@ -278,25 +278,6 @@
     },
     {
       "name": "Grave Filler",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Wizards Go Farming",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -523,6 +504,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Wizards Go Farming",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
