@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:58:00.566Z",
+  "generatedAt": "2026-10-17T16:24:04.155Z",
   "totalCandidates": 3000,
   "pendingSeo": 2401,
   "channelCounts": {
@@ -32,7 +32,7 @@
     },
     {
       "id": "itch-new-feed",
-      "count": 1787
+      "count": 1786
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 401
+      "count": 402
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 219
+      "count": 220
     },
     {
       "id": "trends-rising-30d-horror-game",
