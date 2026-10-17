@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T18:50:17.468Z",
+  "generatedAt": "2026-10-17T21:26:50.157Z",
   "totalCandidates": 3000,
   "pendingSeo": 2400,
   "channelCounts": {
@@ -48,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 290
+      "count": 291
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 171
+      "count": 172
     },
     {
       "id": "trends-rising-7d-indie-game",
