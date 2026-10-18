@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-18T18:04:43.866Z",
+  "generatedAt": "2026-10-18T20:39:37.420Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2399,
+  "pendingSeo": 2398,
   "channelCounts": {
-    "wiki": 9,
     "pending": 490,
+    "wiki": 8,
     "online": 1900
   },
   "fastClassCounts": {
-    "wiki:pending": 9,
     "pending:pending": 490,
+    "wiki:pending": 8,
     "online:pending": 1900
   },
   "strategicCounts": {
-    "wiki:1": 5,
     "pending:0": 488,
     "wiki:0": 4,
     "online:3": 6,
-    "online:2": 575,
-    "online:1": 1319,
-    "pending:1": 2
+    "online:2": 576,
+    "online:1": 1318,
+    "pending:1": 2,
+    "wiki:1": 4
   },
   "topSources": [
     {
@@ -36,15 +36,15 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 562
+      "count": 563
     },
     {
       "id": "itch-popular",
-      "count": 562
+      "count": 563
     },
     {
       "id": "trends-rising-7d",
-      "count": 405
+      "count": 404
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 222
+      "count": 221
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -108,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 10
+      "count": 9
     },
     {
       "id": "y8-new",
@@ -295,6 +295,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Boristan",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1072,25 +1091,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Root Cause",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
