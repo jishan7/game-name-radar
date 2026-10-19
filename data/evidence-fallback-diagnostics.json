@@ -1,50 +1,49 @@
 {
-  "generatedAt": "2026-10-19T17:30:17.653Z",
+  "generatedAt": "2026-10-19T21:45:07.018Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2398,
+  "pendingSeo": 2397,
   "channelCounts": {
-    "pending": 494,
-    "wiki": 5,
-    "online": 1899
+    "pending": 496,
+    "wiki": 4,
+    "online": 1897
   },
   "fastClassCounts": {
-    "pending:pending": 494,
-    "wiki:pending": 5,
-    "online:pending": 1899
+    "pending:pending": 496,
+    "wiki:pending": 4,
+    "online:pending": 1897
   },
   "strategicCounts": {
-    "pending:0": 492,
+    "pending:0": 494,
     "wiki:0": 4,
     "online:3": 6,
-    "online:2": 576,
-    "online:1": 1317,
-    "wiki:2": 1,
+    "online:2": 578,
+    "online:1": 1313,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1860
+      "count": 1857
     },
     {
       "id": "itch-newest-web",
-      "count": 1844
+      "count": 1841
     },
     {
       "id": "itch-new-feed",
-      "count": 1793
+      "count": 1790
     },
     {
       "id": "itch-new-popular-web",
-      "count": 563
+      "count": 564
     },
     {
       "id": "itch-popular",
-      "count": 563
+      "count": 564
     },
     {
       "id": "trends-rising-7d",
-      "count": 407
+      "count": 410
     },
     {
       "id": "trends-rising-30d",
@@ -60,7 +59,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 106
+      "count": 109
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -92,11 +91,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 23
+      "count": 22
     },
     {
       "id": "steam-new",
-      "count": 23
+      "count": 22
     },
     {
       "id": "itch-featured-feed",
@@ -107,20 +106,20 @@
       "count": 15
     },
     {
-      "id": "steam-popular-new",
-      "count": 6
-    },
-    {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
       "count": 5
     },
     {
+      "id": "steam-popular-new",
+      "count": 5
+    },
+    {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "poki-new",
@@ -316,6 +315,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Pack Ripper",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1067,25 +1085,6 @@
     },
     {
       "name": "Defenders of Cinderkeep Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "priiism",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
