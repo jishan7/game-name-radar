@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-19T05:20:29.284Z",
+  "generatedAt": "2026-10-19T11:16:01.870Z",
   "totalCandidates": 3000,
   "pendingSeo": 2398,
   "channelCounts": {
-    "pending": 492,
+    "pending": 493,
     "wiki": 4,
-    "online": 1902
+    "online": 1901
   },
   "fastClassCounts": {
-    "pending:pending": 492,
+    "pending:pending": 493,
     "wiki:pending": 4,
-    "online:pending": 1902
+    "online:pending": 1901
   },
   "strategicCounts": {
-    "pending:0": 490,
+    "pending:0": 491,
     "wiki:0": 4,
     "online:3": 6,
     "online:2": 576,
-    "online:1": 1320,
+    "online:1": 1319,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1863
+      "count": 1862
     },
     {
       "id": "itch-newest-web",
-      "count": 1847
+      "count": 1846
     },
     {
       "id": "itch-new-feed",
-      "count": 1796
+      "count": 1795
     },
     {
       "id": "itch-new-popular-web",
@@ -47,7 +47,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 291
+      "count": 293
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -67,7 +67,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 63
+      "count": 65
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -91,11 +91,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 21
+      "count": 22
     },
     {
       "id": "steam-new",
-      "count": 21
+      "count": 22
     },
     {
       "id": "itch-featured-feed",
@@ -273,6 +273,27 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Trolley Problem Is Not Problem",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -1071,25 +1092,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Nara Mari",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
