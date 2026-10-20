@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-10-20T15:22:09.053Z",
+  "scannedAt": "2026-10-20T19:35:05.207Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 196,
+  "totalAdded": 183,
   "sources": [
     {
       "ok": true,
@@ -31,7 +31,7 @@
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
       "total": 10,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 17
+      "added": 19
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 1
+      "added": 9
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 163,
-      "added": 22
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 40
+      "added": 44
     },
     {
       "ok": false,
@@ -100,55 +100,55 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 81,
-      "added": 8
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
       "total": 13,
-      "added": 8
+      "added": 6
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 17,
-      "added": 8
+      "total": 12,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 17,
-      "added": 6
+      "total": 16,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 0,
-      "added": 0
+      "total": 2,
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 9,
-      "added": 3
+      "total": 10,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 11,
-      "added": 5
+      "total": 15,
+      "added": 9
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 319,
+  "fastPassedCount": 322,
   "fastWatchCount": 219,
   "fastRejectedCount": 67,
   "youtubeEnabled": false,
@@ -162,9 +162,9 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 481,
-  "trendEligibleCount": 249,
-  "trendPendingCount": 249,
+  "seoPassedCount": 484,
+  "trendEligibleCount": 252,
+  "trendPendingCount": 252,
   "trendValidatedCount": 275,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -172,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 434,
+    "watch": 436,
     "reject": 0,
-    "pending": 2564,
+    "pending": 2562,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-10-20T15:22:08.101Z",
+    "checkedAt": "2026-10-20T19:35:04.550Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -213,7 +213,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 259,
+    "evidence-fallback": 262,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -243,8 +243,8 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2282,
-    "wiki": 117,
+    "online": 2280,
+    "wiki": 119,
     "pending": 601
   },
   "wikiPrelaunchModelVersion": 2,
@@ -252,7 +252,7 @@
     "priority": 0,
     "prepare": 0,
     "watch": 6,
-    "weak": 111
+    "weak": 113
   },
   "serperVerification": {
     "rushMode": true,
@@ -275,18 +275,18 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-10-20T15:22:38.365Z"
+    "ranAt": "2026-10-20T19:35:26.916Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2395,
+    "pendingCount": 2392,
     "eligibleCount": 3,
     "queueSize": 3,
     "verified": 3,
     "channelVerified": {
-      "online": 1,
-      "wiki": 2,
+      "online": 2,
+      "wiki": 1,
       "pending": 0
     },
     "fastRecalculated": {
@@ -297,11 +297,11 @@
       "pending": 0
     },
     "verifiedNames": [
-      "Elastic Man",
-      "Deep Dish Dungeon",
-      "GONE Fishing"
+      "Cake Ready",
+      "Draw Puzzle: Complete One Part",
+      "Mycopunk"
     ],
-    "ranAt": "2026-10-20T15:22:39.158Z"
+    "ranAt": "2026-10-20T19:35:27.414Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -323,10 +323,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-10-20T15:22:40.436Z"
+    "ranAt": "2026-10-20T19:35:28.143Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-10-20T15:22:40.499Z",
+    "checkedAt": "2026-10-20T19:35:28.198Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -383,7 +383,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-10-20T15:22:40.600Z"
+    "updatedAt": "2026-10-20T19:35:28.301Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -436,16 +436,16 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 304,
-      "wiki": 109
+      "online": 306,
+      "wiki": 110
     },
     "pendingByTier": {
-      "strong": 195,
+      "strong": 198,
       "secondary": 150,
       "strategic": 68
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-10-20T15:22:41.223Z"
+    "ranAt": "2026-10-20T19:35:28.680Z"
   }
 }
