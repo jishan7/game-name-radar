@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-10-23T04:46:08.993Z",
+  "generatedAt": "2026-10-23T09:37:02.972Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2371,
+  "pendingSeo": 2370,
   "channelCounts": {
-    "pending": 514,
-    "online": 1850,
-    "wiki": 7
+    "pending": 515,
+    "online": 1847,
+    "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 514,
-    "online:pending": 1850,
-    "wiki:pending": 7
+    "pending:pending": 515,
+    "online:pending": 1847,
+    "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 509,
+    "pending:0": 512,
     "online:3": 7,
     "wiki:0": 4,
     "online:2": 586,
-    "online:1": 1257,
+    "online:1": 1254,
+    "wiki:2": 1,
     "wiki:1": 3,
-    "pending:1": 5
+    "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1811
+      "count": 1808
     },
     {
       "id": "itch-newest-web",
-      "count": 1795
+      "count": 1792
     },
     {
       "id": "itch-new-feed",
-      "count": 1744
+      "count": 1741
     },
     {
       "id": "itch-new-popular-web",
@@ -44,23 +45,23 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 421
+      "count": 423
     },
     {
       "id": "trends-rising-30d",
-      "count": 315
+      "count": 316
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 226
+      "count": 227
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 187
+      "count": 188
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 114
+      "count": 115
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -92,23 +93,23 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 23
+      "count": 25
     },
     {
       "id": "steam-new",
-      "count": 23
+      "count": 25
     },
     {
       "id": "itch-featured-feed",
-      "count": 19
+      "count": 17
     },
     {
       "id": "itch-featured",
-      "count": 19
+      "count": 17
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 9
     },
     {
       "id": "y8-new",
@@ -295,6 +296,27 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Idle Frontier",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -1085,25 +1107,6 @@
         "itch-popular",
         "itch-featured-feed",
         "itch-featured"
-      ]
-    },
-    {
-      "name": "Heart Shooter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
