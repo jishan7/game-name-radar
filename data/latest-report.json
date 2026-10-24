@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-10-23T21:41:24.230Z",
+  "scannedAt": "2026-10-24T00:01:24.583Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 218,
+  "totalAdded": 168,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 35
+      "added": 36
     },
     {
       "ok": true,
@@ -20,11 +20,10 @@
       "added": 0
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
-      "total": 36,
-      "added": 36
+      "error": "远程站点返回 429"
     },
     {
       "ok": true,
@@ -38,14 +37,14 @@
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 49
+      "added": 50
     },
     {
       "ok": true,
@@ -66,7 +65,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 5
+      "added": 4
     },
     {
       "ok": true,
@@ -87,7 +86,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 44
+      "added": 27
     },
     {
       "ok": false,
@@ -101,13 +100,49 @@
       "sourceName": "Lagged 新游戏",
       "total": 81,
       "added": 0
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
   "fastPassedCount": 333,
-  "fastWatchCount": 224,
+  "fastWatchCount": 225,
   "fastRejectedCount": 78,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
@@ -117,10 +152,10 @@
   "trendErrors": 0,
   "trendBatchRan": true,
   "trendQueueSize": 0,
-  "risingDiscoveryRan": false,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 511,
+  "seoPassedCount": 512,
   "trendEligibleCount": 263,
   "trendPendingCount": 263,
   "trendValidatedCount": 275,
@@ -152,7 +187,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-10-23T21:41:23.402Z",
+    "checkedAt": "2026-10-24T00:01:23.593Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -189,7 +224,7 @@
   "googleCseUsage": {
     "enabled": false,
     "configuredSlots": 0,
-    "day": "2026-10-23",
+    "day": "2026-10-24",
     "totalDayUsed": 0,
     "totalDailyLimit": 0,
     "slots": {},
@@ -201,16 +236,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2251,
-    "wiki": 134,
-    "pending": 615
+    "online": 2249,
+    "wiki": 133,
+    "pending": 618
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 0,
     "watch": 6,
-    "weak": 128
+    "weak": 127
   },
   "serperVerification": {
     "rushMode": true,
@@ -223,7 +258,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 82,
+    "queueSize": 80,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -233,31 +268,29 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-10-23T21:41:31.710Z"
+    "ranAt": "2026-10-24T00:01:47.938Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2365,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2364,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
       "online": 0,
-      "wiki": 1,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
-      "watch": 1,
+      "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Warrior Cats: Clans of the Forest"
-    ],
-    "ranAt": "2026-10-23T21:41:32.231Z"
+    "verifiedNames": [],
+    "ranAt": "2026-10-24T00:01:48.603Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -279,10 +312,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-10-23T21:41:33.003Z"
+    "ranAt": "2026-10-24T00:01:49.610Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-10-23T21:41:33.062Z",
+    "checkedAt": "2026-10-24T00:01:49.681Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -334,12 +367,12 @@
     "configuredSlots": 0,
     "month": "2026-10",
     "monthUsed": 0,
-    "day": "2026-10-23",
+    "day": "2026-10-24",
     "dayUsed": 0,
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-10-23T21:41:33.172Z"
+    "updatedAt": "2026-10-24T00:01:49.790Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -402,6 +435,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-10-23T21:41:33.581Z"
+    "ranAt": "2026-10-24T00:01:50.296Z"
   }
 }
