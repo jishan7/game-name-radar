@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:48:36.179Z",
+  "generatedAt": "2026-10-25T23:15:12.444Z",
   "totalCandidates": 3000,
   "pendingSeo": 2359,
   "channelCounts": {
@@ -16,23 +16,23 @@
     "pending:0": 519,
     "online:3": 7,
     "wiki:0": 4,
-    "online:2": 588,
-    "online:1": 1238,
+    "online:2": 589,
+    "online:1": 1237,
     "pending:1": 2,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1794
+      "count": 1793
     },
     {
       "id": "itch-newest-web",
-      "count": 1778
+      "count": 1777
     },
     {
       "id": "itch-new-feed",
-      "count": 1726
+      "count": 1725
     },
     {
       "id": "itch-new-popular-web",
@@ -107,16 +107,20 @@
       "count": 16
     },
     {
-      "id": "steam-popular-new",
-      "count": 6
+      "id": "y8-new",
+      "count": 7
     },
     {
-      "id": "y8-new",
+      "id": "steam-popular-new",
       "count": 6
     },
     {
       "id": "steam-top-wishlist",
       "count": 5
+    },
+    {
+      "id": "crazygames-new",
+      "count": 2
     },
     {
       "id": "lagged-new",
@@ -125,10 +129,6 @@
     {
       "id": "poki-new",
       "count": 2
-    },
-    {
-      "id": "crazygames-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -319,25 +319,6 @@
       ]
     },
     {
-      "name": "MMC5Racing",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Trolley Problem Is Not Problem",
       "channel": "online",
       "fastClass": "pending",
@@ -482,6 +463,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "MMC5Racing",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
