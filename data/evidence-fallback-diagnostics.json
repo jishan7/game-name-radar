@@ -1,53 +1,55 @@
 {
-  "generatedAt": "2026-10-26T06:10:40.548Z",
+  "generatedAt": "2026-10-26T12:57:42.566Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2358,
+  "pendingSeo": 2355,
   "channelCounts": {
-    "online": 1829,
     "pending": 525,
-    "wiki": 4
+    "online": 1824,
+    "wiki": 6
   },
   "fastClassCounts": {
-    "online:pending": 1829,
     "pending:pending": 525,
-    "wiki:pending": 4
+    "online:pending": 1824,
+    "wiki:pending": 6
   },
   "strategicCounts": {
-    "online:1": 1233,
     "pending:0": 523,
     "online:3": 7,
     "wiki:0": 4,
-    "online:2": 589,
-    "pending:1": 2
+    "online:2": 590,
+    "online:1": 1227,
+    "pending:1": 2,
+    "wiki:2": 1,
+    "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1788
+      "count": 1783
     },
     {
       "id": "itch-newest-web",
-      "count": 1772
+      "count": 1767
     },
     {
       "id": "itch-new-feed",
-      "count": 1719
+      "count": 1714
     },
     {
       "id": "itch-new-popular-web",
-      "count": 578
+      "count": 576
     },
     {
       "id": "itch-popular",
-      "count": 578
+      "count": 576
     },
     {
       "id": "trends-rising-7d",
-      "count": 438
+      "count": 436
     },
     {
       "id": "trends-rising-30d",
-      "count": 321
+      "count": 320
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -59,15 +61,15 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 120
+      "count": 119
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 95
+      "count": 94
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 73
+      "count": 72
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -75,27 +77,27 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 28
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 28
+      "count": 30
     },
     {
       "id": "steam-latest-indie",
-      "count": 26
+      "count": 28
     },
     {
       "id": "steam-new",
-      "count": 26
+      "count": 28
+    },
+    {
+      "id": "newgrounds-daily-top",
+      "count": 27
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 27
     },
     {
       "id": "itch-featured-feed",
@@ -106,24 +108,24 @@
       "count": 16
     },
     {
+      "id": "steam-popular-new",
+      "count": 7
+    },
+    {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
       "count": 5
     },
     {
-      "id": "steam-popular-new",
-      "count": 5
+      "id": "poki-new",
+      "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "poki-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "crazygames-new",
@@ -274,24 +276,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Troll the King",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "newgrounds-daily-top",
-        "newgrounds-top"
       ]
     },
     {
@@ -1097,6 +1081,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Incremental Table",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
