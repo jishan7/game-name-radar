@@ -1,54 +1,55 @@
 {
-  "generatedAt": "2026-10-27T14:29:18.266Z",
+  "generatedAt": "2026-10-27T19:39:01.827Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2341,
+  "pendingSeo": 2339,
   "channelCounts": {
-    "pending": 532,
-    "online": 1799,
-    "wiki": 10
+    "pending": 535,
+    "online": 1788,
+    "wiki": 16
   },
   "fastClassCounts": {
-    "pending:pending": 532,
-    "online:pending": 1799,
-    "wiki:pending": 10
+    "pending:pending": 535,
+    "online:pending": 1788,
+    "wiki:pending": 16
   },
   "strategicCounts": {
-    "pending:0": 529,
+    "pending:0": 532,
     "online:3": 7,
     "wiki:0": 4,
-    "online:2": 590,
-    "online:1": 1202,
-    "wiki:1": 6,
+    "online:2": 591,
+    "online:1": 1190,
+    "wiki:2": 2,
+    "wiki:1": 10,
     "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1757
+      "count": 1745
     },
     {
       "id": "itch-newest-web",
-      "count": 1741
+      "count": 1729
     },
     {
       "id": "itch-new-feed",
-      "count": 1688
+      "count": 1676
     },
     {
       "id": "itch-new-popular-web",
-      "count": 578
+      "count": 579
     },
     {
       "id": "itch-popular",
-      "count": 578
+      "count": 579
     },
     {
       "id": "trends-rising-7d",
-      "count": 441
+      "count": 443
     },
     {
       "id": "trends-rising-30d",
-      "count": 324
+      "count": 327
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,11 +57,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 195
+      "count": 197
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 122
+      "count": 124
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -72,7 +73,15 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 63
+      "count": 64
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 30
+    },
+    {
+      "id": "steam-new",
+      "count": 30
     },
     {
       "id": "newgrounds-latest",
@@ -81,14 +90,6 @@
     {
       "id": "newgrounds-new",
       "count": 29
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 27
-    },
-    {
-      "id": "steam-new",
-      "count": 27
     },
     {
       "id": "newgrounds-daily-top",
@@ -100,15 +101,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 18
+      "count": 19
     },
     {
       "id": "itch-featured",
-      "count": 18
+      "count": 19
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 18
     },
     {
       "id": "y8-new",
@@ -293,6 +294,45 @@
         "itch-popular",
         "itch-new-feed",
         "itch-new",
+        "itch-featured-feed",
+        "itch-featured"
+      ]
+    },
+    {
+      "name": "BEAM Inc.",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Dungeonbound (In Development)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
         "itch-featured-feed",
         "itch-featured"
       ]
@@ -1061,43 +1101,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Battle Healer Hildegard",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
-      ]
-    },
-    {
-      "name": "Stargate Legacy",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
