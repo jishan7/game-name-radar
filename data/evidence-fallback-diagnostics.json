@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-10-29T00:25:05.832Z",
+  "generatedAt": "2026-10-29T06:28:47.509Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2321,
+  "pendingSeo": 2317,
   "channelCounts": {
-    "pending": 542,
-    "online": 1767,
-    "wiki": 12
+    "wiki": 10,
+    "pending": 548,
+    "online": 1759
   },
   "fastClassCounts": {
-    "pending:pending": 542,
-    "online:pending": 1767,
-    "wiki:pending": 12
+    "wiki:pending": 10,
+    "pending:pending": 548,
+    "online:pending": 1759
   },
   "strategicCounts": {
-    "pending:0": 539,
-    "online:3": 7,
     "wiki:0": 4,
-    "online:2": 593,
-    "online:1": 1167,
-    "wiki:1": 8,
+    "pending:0": 545,
+    "online:3": 7,
+    "online:2": 595,
+    "wiki:1": 6,
+    "online:1": 1157,
     "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1724
+      "count": 1716
     },
     {
       "id": "itch-newest-web",
-      "count": 1708
+      "count": 1700
     },
     {
       "id": "itch-new-feed",
-      "count": 1655
+      "count": 1647
     },
     {
       "id": "itch-new-popular-web",
-      "count": 581
+      "count": 582
     },
     {
       "id": "itch-popular",
-      "count": 581
+      "count": 582
     },
     {
       "id": "trends-rising-7d",
-      "count": 450
+      "count": 456
     },
     {
       "id": "trends-rising-30d",
-      "count": 335
+      "count": 341
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,11 +56,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 201
+      "count": 203
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 124
+      "count": 130
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -72,7 +72,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 65
+      "count": 69
     },
     {
       "id": "newgrounds-latest",
@@ -108,15 +108,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 12
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
-      "count": 5
+      "count": 6
     },
     {
       "id": "poki-new",
@@ -316,6 +316,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Goliath Necro",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1074,25 +1093,6 @@
     },
     {
       "name": "KAIJU DISPOSAL",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "PokéSurvivor",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
