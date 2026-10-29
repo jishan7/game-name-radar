@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-10-29T19:13:20.237Z",
+  "scannedAt": "2026-10-29T23:17:28.645Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 251,
+  "totalAdded": 244,
   "sources": [
     {
       "ok": true,
@@ -17,14 +17,14 @@
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 9
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 36
+      "added": 35
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 10
+      "added": 6
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 170,
-      "added": 8
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 48
+      "added": 35
     },
     {
       "ok": false,
@@ -103,50 +103,54 @@
       "added": 0
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+      "total": 9,
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
       "total": 14,
-      "added": 4
+      "added": 7
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+      "total": 15,
+      "added": 8
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 2,
-      "added": 0
+      "total": 6,
+      "added": 4
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+      "total": 8,
+      "added": 3
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+      "total": 10,
+      "added": 3
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 352,
-  "fastWatchCount": 225,
-  "fastRejectedCount": 112,
+  "fastPassedCount": 353,
+  "fastWatchCount": 224,
+  "fastRejectedCount": 115,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -158,9 +162,9 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 565,
-  "trendEligibleCount": 282,
-  "trendPendingCount": 282,
+  "seoPassedCount": 568,
+  "trendEligibleCount": 283,
+  "trendPendingCount": 283,
   "trendValidatedCount": 275,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -168,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 469,
+    "watch": 472,
     "reject": 0,
-    "pending": 2529,
+    "pending": 2526,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -190,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-10-29T19:13:19.631Z",
+    "checkedAt": "2026-10-29T23:17:28.042Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -209,7 +213,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 343,
+    "evidence-fallback": 351,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -239,16 +243,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2171,
-    "wiki": 181,
-    "pending": 648
+    "online": 2165,
+    "wiki": 186,
+    "pending": 649
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 1,
     "watch": 6,
-    "weak": 174
+    "weak": 179
   },
   "serperVerification": {
     "rushMode": true,
@@ -271,33 +275,38 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-10-29T19:13:47.232Z"
+    "ranAt": "2026-10-29T23:17:53.472Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2311,
-    "eligibleCount": 3,
-    "queueSize": 3,
-    "verified": 3,
+    "pendingCount": 2308,
+    "eligibleCount": 8,
+    "queueSize": 8,
+    "verified": 8,
     "channelVerified": {
-      "online": 1,
-      "wiki": 2,
+      "online": 0,
+      "wiki": 8,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
-      "watch": 2,
-      "weak": 0,
+      "pass": 0,
+      "watch": 6,
+      "weak": 2,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Digger",
-      "Finals Week ✍🏻",
-      "The Wolf Among Us Remastered"
+      "COP BASTARD",
+      "Terrible Lizards",
+      "Tom the Postgirl",
+      "ATMOSFAR",
+      "Deadly Days: Roadtrip",
+      "Usagi Shima: Bunny Island",
+      "Hunting Simulator 3",
+      "Ghost in the SQL Data"
     ],
-    "ranAt": "2026-10-29T19:13:47.738Z"
+    "ranAt": "2026-10-29T23:17:53.940Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -319,10 +328,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-10-29T19:13:48.478Z"
+    "ranAt": "2026-10-29T23:17:54.652Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-10-29T19:13:48.531Z",
+    "checkedAt": "2026-10-29T23:17:54.702Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -379,7 +388,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-10-29T19:13:48.606Z"
+    "updatedAt": "2026-10-29T23:17:54.791Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -433,15 +442,15 @@
     },
     "pendingByChannel": {
       "online": 332,
-      "wiki": 149
+      "wiki": 154
     },
     "pendingByTier": {
       "strong": 227,
-      "secondary": 157,
-      "strategic": 97
+      "secondary": 160,
+      "strategic": 99
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-10-29T19:13:48.968Z"
+    "ranAt": "2026-10-29T23:17:55.140Z"
   }
 }
