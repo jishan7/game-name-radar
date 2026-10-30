@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-10-29T23:17:53.632Z",
+  "generatedAt": "2026-10-30T02:57:55.468Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2308,
+  "pendingSeo": 2300,
   "channelCounts": {
-    "wiki": 19,
-    "pending": 549,
+    "pending": 550,
+    "wiki": 10,
     "online": 1740
   },
   "fastClassCounts": {
-    "wiki:pending": 19,
-    "pending:pending": 549,
+    "pending:pending": 550,
+    "wiki:pending": 10,
     "online:pending": 1740
   },
   "strategicCounts": {
+    "pending:0": 548,
     "wiki:0": 4,
-    "pending:0": 547,
     "online:3": 7,
     "online:2": 595,
     "online:1": 1138,
-    "wiki:2": 1,
-    "wiki:1": 14,
-    "pending:1": 2
+    "pending:1": 2,
+    "wiki:1": 6
   },
   "topSources": [
     {
@@ -45,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 457
+      "count": 459
     },
     {
       "id": "trends-rising-30d",
@@ -53,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 240
+      "count": 241
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -61,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 130
+      "count": 131
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -76,20 +75,20 @@
       "count": 69
     },
     {
-      "id": "steam-latest-indie",
-      "count": 29
-    },
-    {
-      "id": "steam-new",
-      "count": 29
-    },
-    {
       "id": "newgrounds-latest",
       "count": 29
     },
     {
       "id": "newgrounds-new",
       "count": 29
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 28
+    },
+    {
+      "id": "steam-new",
+      "count": 28
     },
     {
       "id": "newgrounds-daily-top",
@@ -100,16 +99,16 @@
       "count": 27
     },
     {
-      "id": "steam-popular-new",
-      "count": 21
-    },
-    {
       "id": "itch-featured-feed",
       "count": 18
     },
     {
       "id": "itch-featured",
       "count": 18
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 12
     },
     {
       "id": "y8-new",
@@ -299,27 +298,6 @@
       ]
     },
     {
-      "name": "BEAM Inc.",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 7,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "The Lands",
       "channel": "online",
       "fastClass": "pending",
@@ -484,6 +462,27 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "BEAM Inc.",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 7,
       "sourceIds": [
