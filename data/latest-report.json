@@ -1,23 +1,23 @@
 {
-  "scannedAt": "2026-10-31T06:20:33.476Z",
+  "scannedAt": "2026-10-31T13:04:03.323Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 260,
+  "totalAdded": 232,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 36
+      "added": 35
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 6
+      "added": 1
     },
     {
       "ok": true,
@@ -31,49 +31,49 @@
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
       "total": 10,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 0
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 45
+      "added": 39
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 49
+      "added": 48
     },
     {
       "ok": true,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 5
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 5
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 2
+      "added": 6
     },
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 40
+      "added": 36
     },
     {
       "ok": false,
@@ -100,14 +100,14 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 15,
-      "added": 11
+      "total": 11,
+      "added": 2
     },
     {
       "ok": true,
@@ -121,7 +121,7 @@
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
       "total": 18,
-      "added": 10
+      "added": 5
     },
     {
       "ok": true,
@@ -134,23 +134,23 @@
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 11,
-      "added": 3
+      "total": 9,
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 17,
-      "added": 7
+      "total": 15,
+      "added": 5
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 356,
+  "fastPassedCount": 357,
   "fastWatchCount": 223,
-  "fastRejectedCount": 133,
+  "fastRejectedCount": 135,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -162,9 +162,9 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 588,
-  "trendEligibleCount": 286,
-  "trendPendingCount": 286,
+  "seoPassedCount": 591,
+  "trendEligibleCount": 287,
+  "trendPendingCount": 287,
   "trendValidatedCount": 275,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-10-31T06:20:32.700Z",
+    "checkedAt": "2026-10-31T13:04:02.525Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -213,7 +213,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 366,
+    "evidence-fallback": 367,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -243,9 +243,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2149,
+    "online": 2148,
     "wiki": 194,
-    "pending": 657
+    "pending": 658
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
@@ -265,7 +265,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 83,
+    "queueSize": 81,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -275,33 +275,31 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-10-31T06:21:00.305Z"
+    "ranAt": "2026-10-31T13:04:29.533Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2288,
-    "eligibleCount": 3,
-    "queueSize": 3,
-    "verified": 3,
+    "pendingCount": 2285,
+    "eligibleCount": 1,
+    "queueSize": 1,
+    "verified": 1,
     "channelVerified": {
-      "online": 1,
-      "wiki": 2,
+      "online": 0,
+      "wiki": 1,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
+      "pass": 0,
       "watch": 1,
-      "weak": 1,
+      "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "guess the number",
-      "Totally Safe Moon Project",
-      "Rat Game"
+      "Rip It! Card Collector"
     ],
-    "ranAt": "2026-10-31T06:21:00.947Z"
+    "ranAt": "2026-10-31T13:04:30.164Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -323,10 +321,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-10-31T06:21:01.927Z"
+    "ranAt": "2026-10-31T13:04:31.133Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-10-31T06:21:01.985Z",
+    "checkedAt": "2026-10-31T13:04:31.183Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -383,7 +381,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-10-31T06:21:02.063Z"
+    "updatedAt": "2026-10-31T13:04:31.293Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -437,15 +435,15 @@
     },
     "pendingByChannel": {
       "online": 334,
-      "wiki": 153
+      "wiki": 154
     },
     "pendingByTier": {
       "strong": 231,
       "secondary": 154,
-      "strategic": 102
+      "strategic": 103
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-10-31T06:21:02.559Z"
+    "ranAt": "2026-10-31T13:04:31.779Z"
   }
 }
