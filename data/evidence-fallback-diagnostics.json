@@ -1,39 +1,38 @@
 {
-  "generatedAt": "2026-10-31T00:46:45.873Z",
+  "generatedAt": "2026-10-31T06:21:00.526Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2291,
+  "pendingSeo": 2288,
   "channelCounts": {
-    "pending": 556,
-    "wiki": 10,
-    "online": 1725
+    "pending": 557,
+    "wiki": 8,
+    "online": 1723
   },
   "fastClassCounts": {
-    "pending:pending": 556,
-    "wiki:pending": 10,
-    "online:pending": 1725
+    "pending:pending": 557,
+    "wiki:pending": 8,
+    "online:pending": 1723
   },
   "strategicCounts": {
     "pending:0": 554,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 595,
-    "online:1": 1123,
-    "wiki:2": 1,
-    "wiki:1": 5,
-    "pending:1": 2
+    "online:2": 596,
+    "online:1": 1120,
+    "wiki:1": 4,
+    "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1682
+      "count": 1680
     },
     {
       "id": "itch-newest-web",
-      "count": 1666
+      "count": 1664
     },
     {
       "id": "itch-new-feed",
-      "count": 1613
+      "count": 1611
     },
     {
       "id": "itch-new-popular-web",
@@ -76,20 +75,20 @@
       "count": 68
     },
     {
-      "id": "steam-latest-indie",
-      "count": 29
-    },
-    {
-      "id": "steam-new",
-      "count": 29
-    },
-    {
       "id": "newgrounds-latest",
       "count": 29
     },
     {
       "id": "newgrounds-new",
       "count": 29
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 28
+    },
+    {
+      "id": "steam-new",
+      "count": 28
     },
     {
       "id": "newgrounds-daily-top",
@@ -101,15 +100,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 18
+      "count": 19
     },
     {
       "id": "itch-featured",
-      "count": 18
+      "count": 19
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 10
     },
     {
       "id": "y8-new",
@@ -124,12 +123,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
+      "id": "crazygames-new",
       "count": 2
     },
     {
-      "id": "crazygames-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -276,6 +275,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "guess the number",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "crazygames-new"
       ]
     },
     {
@@ -1075,25 +1092,6 @@
     },
     {
       "name": "Lab accident",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "KAIJU DISPOSAL",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
