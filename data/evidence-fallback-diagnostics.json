@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-31T13:04:29.752Z",
+  "generatedAt": "2026-10-31T17:42:43.738Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2285,
+  "pendingSeo": 2284,
   "channelCounts": {
     "pending": 558,
-    "wiki": 6,
+    "wiki": 5,
     "online": 1721
   },
   "fastClassCounts": {
     "pending:pending": 558,
-    "wiki:pending": 6,
+    "wiki:pending": 5,
     "online:pending": 1721
   },
   "strategicCounts": {
@@ -18,8 +18,8 @@
     "online:3": 7,
     "online:2": 595,
     "online:1": 1119,
-    "wiki:1": 2,
-    "pending:1": 3
+    "pending:1": 3,
+    "wiki:1": 1
   },
   "topSources": [
     {
@@ -108,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 7
     },
     {
       "id": "y8-new",
@@ -306,6 +306,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sigilsmith",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1074,25 +1093,6 @@
     },
     {
       "name": "Lab accident",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "KAIJU DISPOSAL",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
