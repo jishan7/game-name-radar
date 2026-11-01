@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-01T02:37:08.083Z",
+  "generatedAt": "2026-11-01T09:44:13.980Z",
   "totalCandidates": 3000,
   "pendingSeo": 2282,
   "channelCounts": {
-    "pending": 559,
+    "pending": 562,
     "wiki": 5,
-    "online": 1718
+    "online": 1715
   },
   "fastClassCounts": {
-    "pending:pending": 559,
+    "pending:pending": 562,
     "wiki:pending": 5,
-    "online:pending": 1718
+    "online:pending": 1715
   },
   "strategicCounts": {
-    "pending:0": 556,
+    "pending:0": 559,
     "wiki:0": 4,
     "online:3": 7,
     "online:2": 595,
-    "online:1": 1116,
+    "online:1": 1113,
     "pending:1": 3,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1675
+      "count": 1672
     },
     {
       "id": "itch-newest-web",
-      "count": 1659
+      "count": 1656
     },
     {
       "id": "itch-new-feed",
-      "count": 1606
+      "count": 1603
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 467
+      "count": 470
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 243
+      "count": 244
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -60,11 +60,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 134
+      "count": 135
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 100
+      "count": 101
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -298,25 +298,6 @@
       ]
     },
     {
-      "name": "The Lands",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Sigilsmith",
       "channel": "online",
       "fastClass": "pending",
@@ -522,6 +503,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "The Lands",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
