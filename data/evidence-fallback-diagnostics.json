@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-02T06:50:26.007Z",
+  "generatedAt": "2026-11-02T17:02:29.216Z",
   "totalCandidates": 3000,
   "pendingSeo": 2282,
   "channelCounts": {
-    "pending": 569,
-    "wiki": 5,
-    "online": 1708
+    "pending": 570,
+    "wiki": 7,
+    "online": 1705
   },
   "fastClassCounts": {
-    "pending:pending": 569,
-    "wiki:pending": 5,
-    "online:pending": 1708
+    "pending:pending": 570,
+    "wiki:pending": 7,
+    "online:pending": 1705
   },
   "strategicCounts": {
     "pending:0": 566,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 598,
-    "online:1": 1103,
-    "pending:1": 3,
-    "wiki:1": 1
+    "online:2": 599,
+    "online:1": 1099,
+    "pending:1": 4,
+    "wiki:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1665
+      "count": 1661
     },
     {
       "id": "itch-newest-web",
-      "count": 1649
+      "count": 1645
     },
     {
       "id": "itch-new-feed",
-      "count": 1596
+      "count": 1592
     },
     {
       "id": "itch-new-popular-web",
@@ -100,19 +100,19 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 19
+      "count": 20
     },
     {
       "id": "itch-featured",
-      "count": 19
+      "count": 20
     },
     {
       "id": "steam-popular-new",
-      "count": 7
+      "count": 9
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
@@ -124,7 +124,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "crazygames-new",
