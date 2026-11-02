@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-11-02T00:42:40.179Z",
+  "generatedAt": "2026-11-02T06:50:26.007Z",
   "totalCandidates": 3000,
   "pendingSeo": 2282,
   "channelCounts": {
-    "pending": 568,
+    "pending": 569,
     "wiki": 5,
-    "online": 1709
+    "online": 1708
   },
   "fastClassCounts": {
-    "pending:pending": 568,
+    "pending:pending": 569,
     "wiki:pending": 5,
-    "online:pending": 1709
+    "online:pending": 1708
   },
   "strategicCounts": {
-    "pending:0": 565,
+    "pending:0": 566,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 597,
-    "online:1": 1105,
+    "online:2": 598,
+    "online:1": 1103,
     "pending:1": 3,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1666
+      "count": 1665
     },
     {
       "id": "itch-newest-web",
-      "count": 1650
+      "count": 1649
     },
     {
       "id": "itch-new-feed",
-      "count": 1597
+      "count": 1596
     },
     {
       "id": "itch-new-popular-web",
-      "count": 585
+      "count": 586
     },
     {
       "id": "itch-popular",
-      "count": 585
+      "count": 586
     },
     {
       "id": "trends-rising-7d",
-      "count": 477
+      "count": 478
     },
     {
       "id": "trends-rising-30d",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 138
+      "count": 139
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -295,6 +295,25 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Idle Watt Machine",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1075,25 +1094,6 @@
     },
     {
       "name": "Dig Deep, Get Rich",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Diglings Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
