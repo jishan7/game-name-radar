@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-11-02T23:52:34.610Z",
+  "generatedAt": "2026-11-03T06:44:31.999Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2281,
+  "pendingSeo": 2277,
   "channelCounts": {
-    "pending": 570,
-    "wiki": 16,
-    "online": 1695
+    "pending": 573,
+    "wiki": 13,
+    "online": 1691
   },
   "fastClassCounts": {
-    "pending:pending": 570,
-    "wiki:pending": 16,
-    "online:pending": 1695
+    "pending:pending": 573,
+    "wiki:pending": 13,
+    "online:pending": 1691
   },
   "strategicCounts": {
-    "pending:0": 566,
+    "pending:0": 570,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 599,
-    "online:1": 1089,
+    "online:2": 600,
+    "online:1": 1084,
     "wiki:2": 1,
-    "wiki:1": 11,
-    "pending:1": 4
+    "wiki:1": 8,
+    "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1651
+      "count": 1647
     },
     {
       "id": "itch-newest-web",
-      "count": 1635
+      "count": 1631
     },
     {
       "id": "itch-new-feed",
-      "count": 1582
+      "count": 1578
     },
     {
       "id": "itch-new-popular-web",
-      "count": 586
+      "count": 587
     },
     {
       "id": "itch-popular",
-      "count": 586
+      "count": 587
     },
     {
       "id": "trends-rising-7d",
-      "count": 478
+      "count": 480
     },
     {
       "id": "trends-rising-30d",
-      "count": 354
+      "count": 361
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 249
+      "count": 250
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 211
+      "count": 214
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 139
+      "count": 140
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -73,7 +73,15 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 72
+      "count": 76
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 30
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 30
     },
     {
       "id": "steam-latest-indie",
@@ -81,14 +89,6 @@
     },
     {
       "id": "steam-new",
-      "count": 29
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 29
-    },
-    {
-      "id": "newgrounds-new",
       "count": 29
     },
     {
@@ -109,11 +109,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 15
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",
@@ -125,7 +125,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "crazygames-new",
@@ -296,6 +296,25 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Dig to the Core",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1083,25 +1102,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dig Deep, Get Rich",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
