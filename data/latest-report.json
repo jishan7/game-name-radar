@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-11-03T20:38:09.695Z",
+  "scannedAt": "2026-11-04T00:53:53.264Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 258,
+  "totalAdded": 253,
   "sources": [
     {
       "ok": true,
@@ -38,7 +38,7 @@
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 3
+      "added": 7
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 9
+      "added": 6
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 177,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 37
+      "added": 35
     },
     {
       "ok": false,
@@ -106,51 +106,51 @@
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 12,
+      "total": 13,
       "added": 6
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 18,
-      "added": 3
+      "total": 17,
+      "added": 6
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 23,
+      "total": 20,
       "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 2,
-      "added": 0
+      "total": 3,
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 15,
-      "added": 5
+      "total": 16,
+      "added": 8
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 19,
-      "added": 16
+      "total": 14,
+      "added": 6
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
   "fastPassedCount": 361,
-  "fastWatchCount": 228,
-  "fastRejectedCount": 143,
+  "fastWatchCount": 219,
+  "fastRejectedCount": 152,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -172,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 475,
+    "watch": 469,
     "reject": 0,
-    "pending": 2523,
+    "pending": 2529,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-03T20:38:08.705Z",
+    "checkedAt": "2026-11-04T00:53:52.533Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -213,7 +213,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 383,
+    "evidence-fallback": 387,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -231,7 +231,7 @@
   "googleCseUsage": {
     "enabled": false,
     "configuredSlots": 0,
-    "day": "2026-11-03",
+    "day": "2026-11-04",
     "totalDayUsed": 0,
     "totalDailyLimit": 0,
     "slots": {},
@@ -243,16 +243,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2111,
-    "wiki": 212,
-    "pending": 677
+    "online": 2103,
+    "wiki": 218,
+    "pending": 679
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 1,
     "watch": 6,
-    "weak": 205
+    "weak": 211
   },
   "serperVerification": {
     "rushMode": true,
@@ -265,7 +265,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 85,
+    "queueSize": 90,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -275,29 +275,34 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-03T20:38:33.390Z"
+    "ranAt": "2026-11-04T00:54:18.862Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
     "pendingCount": 2268,
-    "eligibleCount": 0,
-    "queueSize": 0,
-    "verified": 0,
+    "eligibleCount": 4,
+    "queueSize": 4,
+    "verified": 4,
     "channelVerified": {
       "online": 0,
-      "wiki": 0,
+      "wiki": 4,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
-      "watch": 0,
-      "weak": 0,
+      "watch": 3,
+      "weak": 1,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [],
-    "ranAt": "2026-11-03T20:38:34.198Z"
+    "verifiedNames": [
+      "Loftia",
+      "Mycelarium",
+      "Potato Please",
+      "Incremental Traffic"
+    ],
+    "ranAt": "2026-11-04T00:54:19.367Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -319,10 +324,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-03T20:38:35.431Z"
+    "ranAt": "2026-11-04T00:54:20.131Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-03T20:38:35.508Z",
+    "checkedAt": "2026-11-04T00:54:20.186Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -374,12 +379,12 @@
     "configuredSlots": 0,
     "month": "2026-11",
     "monthUsed": 0,
-    "day": "2026-11-03",
+    "day": "2026-11-04",
     "dayUsed": 0,
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-11-03T20:38:35.608Z"
+    "updatedAt": "2026-11-04T00:54:20.268Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -433,15 +438,15 @@
     },
     "pendingByChannel": {
       "online": 337,
-      "wiki": 137
+      "wiki": 141
     },
     "pendingByTier": {
       "strong": 235,
-      "secondary": 158,
-      "strategic": 81
+      "secondary": 152,
+      "strategic": 91
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-03T20:38:36.223Z"
+    "ranAt": "2026-11-04T00:54:20.644Z"
   }
 }
