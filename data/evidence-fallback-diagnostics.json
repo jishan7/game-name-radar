@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-05T09:28:13.191Z",
+  "generatedAt": "2026-11-05T17:39:05.847Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2247,
+  "pendingSeo": 2246,
   "channelCounts": {
     "pending": 582,
-    "wiki": 9,
-    "online": 1656
+    "wiki": 12,
+    "online": 1652
   },
   "fastClassCounts": {
     "pending:pending": 582,
-    "wiki:pending": 9,
-    "online:pending": 1656
+    "wiki:pending": 12,
+    "online:pending": 1652
   },
   "strategicCounts": {
-    "pending:0": 578,
+    "pending:0": 579,
     "wiki:0": 4,
     "online:3": 7,
     "online:2": 602,
-    "online:1": 1047,
-    "wiki:1": 5,
-    "pending:1": 4
+    "online:1": 1043,
+    "wiki:1": 8,
+    "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1612
+      "count": 1608
     },
     {
       "id": "itch-newest-web",
-      "count": 1596
+      "count": 1592
     },
     {
       "id": "itch-new-feed",
-      "count": 1543
+      "count": 1539
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 489
+      "count": 490
     },
     {
       "id": "trends-rising-30d",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 144
+      "count": 145
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -100,15 +100,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 21
+      "count": 20
     },
     {
       "id": "itch-featured",
-      "count": 21
+      "count": 20
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 14
     },
     {
       "id": "y8-new",
@@ -319,25 +319,6 @@
       ]
     },
     {
-      "name": "Dig to the Core",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Trolley Problem Is Not Problem",
       "channel": "online",
       "fastClass": "pending",
@@ -514,6 +495,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dig to the Core",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
