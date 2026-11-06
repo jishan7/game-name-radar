@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-11-06T11:30:30.711Z",
+  "generatedAt": "2026-11-06T18:28:29.976Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2237,
+  "pendingSeo": 2231,
   "channelCounts": {
-    "pending": 585,
+    "pending": 586,
     "wiki": 11,
-    "online": 1641
+    "online": 1634
   },
   "fastClassCounts": {
-    "pending:pending": 585,
+    "pending:pending": 586,
     "wiki:pending": 11,
-    "online:pending": 1641
+    "online:pending": 1634
   },
   "strategicCounts": {
-    "pending:0": 580,
+    "pending:0": 581,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 604,
-    "online:1": 1030,
-    "wiki:1": 7,
+    "online:2": 605,
+    "online:1": 1022,
+    "wiki:2": 1,
+    "wiki:1": 6,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1596
+      "count": 1588
     },
     {
       "id": "itch-newest-web",
-      "count": 1580
+      "count": 1572
     },
     {
       "id": "itch-new-feed",
-      "count": 1527
+      "count": 1519
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +45,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 491
+      "count": 492
     },
     {
       "id": "trends-rising-30d",
@@ -60,7 +61,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 146
+      "count": 147
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -75,20 +76,20 @@
       "count": 76
     },
     {
+      "id": "steam-latest-indie",
+      "count": 30
+    },
+    {
+      "id": "steam-new",
+      "count": 30
+    },
+    {
       "id": "newgrounds-latest",
       "count": 30
     },
     {
       "id": "newgrounds-new",
       "count": 30
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 29
-    },
-    {
-      "id": "steam-new",
-      "count": 29
     },
     {
       "id": "newgrounds-daily-top",
@@ -112,7 +113,7 @@
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 8
     },
     {
       "id": "steam-top-wishlist",
@@ -123,12 +124,12 @@
       "count": 4
     },
     {
-      "id": "crazygames-new",
-      "count": 2
+      "id": "lagged-new",
+      "count": 3
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "crazygames-new",
+      "count": 1
     }
   ],
   "samples": [
