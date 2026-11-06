@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-11-06T03:25:46.228Z",
+  "generatedAt": "2026-11-06T11:30:30.711Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2241,
+  "pendingSeo": 2237,
   "channelCounts": {
     "pending": 585,
-    "wiki": 14,
-    "online": 1642
+    "wiki": 11,
+    "online": 1641
   },
   "fastClassCounts": {
     "pending:pending": 585,
-    "wiki:pending": 14,
-    "online:pending": 1642
+    "wiki:pending": 11,
+    "online:pending": 1641
   },
   "strategicCounts": {
     "pending:0": 580,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 602,
-    "online:1": 1033,
-    "wiki:1": 10,
+    "online:2": 604,
+    "online:1": 1030,
+    "wiki:1": 7,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1598
+      "count": 1596
     },
     {
       "id": "itch-newest-web",
-      "count": 1582
+      "count": 1580
     },
     {
       "id": "itch-new-feed",
-      "count": 1529
+      "count": 1527
     },
     {
       "id": "itch-new-popular-web",
-      "count": 589
+      "count": 590
     },
     {
       "id": "itch-popular",
-      "count": 589
+      "count": 590
     },
     {
       "id": "trends-rising-7d",
@@ -100,15 +100,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 22
+      "count": 23
     },
     {
       "id": "itch-featured",
-      "count": 22
+      "count": 23
     },
     {
       "id": "steam-popular-new",
-      "count": 16
+      "count": 13
     },
     {
       "id": "y8-new",
@@ -123,12 +123,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
+      "id": "crazygames-new",
       "count": 2
     },
     {
-      "id": "crazygames-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -293,6 +293,24 @@
         "itch-popular",
         "itch-new-feed",
         "itch-new",
+        "itch-featured-feed",
+        "itch-featured"
+      ]
+    },
+    {
+      "name": "Sleigh the Spire 🎄🎁",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
         "itch-featured-feed",
         "itch-featured"
       ]
@@ -1082,25 +1100,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Idle Island",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [

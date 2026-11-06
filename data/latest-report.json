@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-11-06T03:25:21.477Z",
+  "scannedAt": "2026-11-06T11:30:04.527Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 251,
+  "totalAdded": 260,
   "sources": [
     {
       "ok": true,
@@ -17,7 +17,7 @@
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 3
+      "added": 5
     },
     {
       "ok": true,
@@ -31,7 +31,7 @@
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
       "total": 10,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -45,49 +45,49 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 42
+      "added": 50
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 49
+      "added": 47
     },
     {
       "ok": true,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 7
+      "added": 10
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 0
+      "added": 10
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 186,
-      "added": 1
+      "total": 149,
+      "added": 9
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 44
+      "added": 39
     },
     {
       "ok": false,
@@ -106,21 +106,21 @@
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 10,
-      "added": 5
+      "total": 8,
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
       "total": 17,
-      "added": 8
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 9,
+      "total": 10,
       "added": 6
     },
     {
@@ -134,23 +134,23 @@
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 17,
-      "added": 8
+      "total": 12,
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 16,
-      "added": 8
+      "total": 13,
+      "added": 2
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 363,
-  "fastWatchCount": 222,
-  "fastRejectedCount": 174,
+  "fastPassedCount": 364,
+  "fastWatchCount": 223,
+  "fastRejectedCount": 176,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -162,9 +162,9 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 635,
-  "trendEligibleCount": 292,
-  "trendPendingCount": 292,
+  "seoPassedCount": 639,
+  "trendEligibleCount": 293,
+  "trendPendingCount": 293,
   "trendValidatedCount": 275,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -172,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 474,
+    "watch": 477,
     "reject": 0,
-    "pending": 2524,
+    "pending": 2521,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-06T03:25:20.475Z",
+    "checkedAt": "2026-11-06T11:30:03.455Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -213,7 +213,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 414,
+    "evidence-fallback": 420,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -243,8 +243,8 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2073,
-    "wiki": 242,
+    "online": 2072,
+    "wiki": 243,
     "pending": 685
   },
   "wikiPrelaunchModelVersion": 2,
@@ -252,7 +252,7 @@
     "priority": 0,
     "prepare": 1,
     "watch": 6,
-    "weak": 235
+    "weak": 236
   },
   "serperVerification": {
     "rushMode": true,
@@ -265,7 +265,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 89,
+    "queueSize": 86,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -275,34 +275,36 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-06T03:25:45.952Z"
+    "ranAt": "2026-11-06T11:30:30.442Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2241,
-    "eligibleCount": 4,
-    "queueSize": 4,
-    "verified": 4,
+    "pendingCount": 2237,
+    "eligibleCount": 6,
+    "queueSize": 6,
+    "verified": 6,
     "channelVerified": {
-      "online": 0,
-      "wiki": 4,
+      "online": 1,
+      "wiki": 5,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 0,
-      "watch": 3,
+      "pass": 1,
+      "watch": 4,
       "weak": 1,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Gildoria - Organize a Dragon's Hoard",
-      "County of Fortune",
-      "Wielders of the Essence",
-      "Dungeon Munchies 2"
+      "BREACH",
+      "Cash is King! Business Simulator",
+      "SpellChain",
+      "Road Rash™: 30th Anniversary Edition",
+      "Escape Academy 2: Back 2 School",
+      "Underkeep"
     ],
-    "ranAt": "2026-11-06T03:25:46.744Z"
+    "ranAt": "2026-11-06T11:30:31.212Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -324,10 +326,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-06T03:25:47.983Z"
+    "ranAt": "2026-11-06T11:30:32.331Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-06T03:25:48.058Z",
+    "checkedAt": "2026-11-06T11:30:32.391Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -384,7 +386,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-11-06T03:25:48.158Z"
+    "updatedAt": "2026-11-06T11:30:32.476Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -437,16 +439,16 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 338,
-      "wiki": 158
+      "online": 339,
+      "wiki": 164
     },
     "pendingByTier": {
-      "strong": 237,
-      "secondary": 155,
-      "strategic": 104
+      "strong": 239,
+      "secondary": 157,
+      "strategic": 107
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-06T03:25:48.774Z"
+    "ranAt": "2026-11-06T11:30:33.043Z"
   }
 }
