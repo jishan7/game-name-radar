@@ -1,54 +1,55 @@
 {
-  "generatedAt": "2026-11-08T05:57:41.785Z",
+  "generatedAt": "2026-11-08T13:20:40.633Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2223,
+  "pendingSeo": 2222,
   "channelCounts": {
     "pending": 594,
-    "wiki": 6,
-    "online": 1623
+    "wiki": 7,
+    "online": 1621
   },
   "fastClassCounts": {
     "pending:pending": 594,
-    "wiki:pending": 6,
-    "online:pending": 1623
+    "wiki:pending": 7,
+    "online:pending": 1621
   },
   "strategicCounts": {
     "pending:0": 589,
     "wiki:0": 4,
     "online:3": 7,
     "online:2": 606,
-    "online:1": 1010,
-    "pending:1": 5,
-    "wiki:1": 2
+    "online:1": 1008,
+    "wiki:2": 1,
+    "wiki:1": 2,
+    "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1577
+      "count": 1575
     },
     {
       "id": "itch-newest-web",
-      "count": 1561
+      "count": 1559
     },
     {
       "id": "itch-new-feed",
-      "count": 1509
+      "count": 1507
     },
     {
       "id": "itch-new-popular-web",
-      "count": 592
+      "count": 593
     },
     {
       "id": "itch-popular",
-      "count": 592
+      "count": 593
     },
     {
       "id": "trends-rising-7d",
-      "count": 498
+      "count": 499
     },
     {
       "id": "trends-rising-30d",
-      "count": 379
+      "count": 380
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,7 +61,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 151
+      "count": 152
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -72,23 +73,23 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 79
+      "count": 80
     },
     {
       "id": "newgrounds-latest",
-      "count": 30
+      "count": 31
     },
     {
       "id": "newgrounds-new",
-      "count": 30
+      "count": 31
     },
     {
       "id": "steam-latest-indie",
-      "count": 29
+      "count": 30
     },
     {
       "id": "steam-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
@@ -108,11 +109,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 9
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",
@@ -124,7 +125,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "crazygames-new",
@@ -521,6 +522,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "dress up fangame",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1081,25 +1101,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Bladescape",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
