@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-09T01:58:45.302Z",
+  "generatedAt": "2026-11-09T09:48:56.832Z",
   "totalCandidates": 3000,
   "pendingSeo": 2218,
   "channelCounts": {
-    "pending": 594,
+    "pending": 596,
     "wiki": 4,
-    "online": 1620
+    "online": 1618
   },
   "fastClassCounts": {
-    "pending:pending": 594,
+    "pending:pending": 596,
     "wiki:pending": 4,
-    "online:pending": 1620
+    "online:pending": 1618
   },
   "strategicCounts": {
-    "pending:0": 590,
+    "pending:0": 592,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 606,
-    "online:1": 1007,
+    "online:2": 607,
+    "online:1": 1004,
     "pending:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1575
+      "count": 1572
     },
     {
       "id": "itch-newest-web",
-      "count": 1559
+      "count": 1556
     },
     {
       "id": "itch-new-feed",
-      "count": 1507
+      "count": 1504
     },
     {
       "id": "itch-new-popular-web",
@@ -47,7 +47,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 381
+      "count": 385
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -55,7 +55,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 223
+      "count": 225
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -71,7 +71,15 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 80
+      "count": 83
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 30
+    },
+    {
+      "id": "steam-new",
+      "count": 30
     },
     {
       "id": "newgrounds-latest",
@@ -80,14 +88,6 @@
     {
       "id": "newgrounds-new",
       "count": 30
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 29
-    },
-    {
-      "id": "steam-new",
-      "count": 29
     },
     {
       "id": "newgrounds-daily-top",
@@ -106,11 +106,11 @@
       "count": 22
     },
     {
-      "id": "steam-popular-new",
-      "count": 6
+      "id": "y8-new",
+      "count": 7
     },
     {
-      "id": "y8-new",
+      "id": "steam-popular-new",
       "count": 6
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "crazygames-new",
@@ -297,6 +297,27 @@
       ]
     },
     {
+      "name": "Progress98",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "Symptoms of Devotion",
       "channel": "online",
       "fastClass": "pending",
@@ -313,24 +334,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Sleigh the Spire 🎄🎁",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
       ]
     },
     {
@@ -539,6 +542,24 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Sleigh the Spire 🎄🎁",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1080,25 +1101,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Wizards Go Farming",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
