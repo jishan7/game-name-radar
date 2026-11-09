@@ -1,51 +1,51 @@
 {
-  "scannedAt": "2026-11-08T22:28:59.290Z",
+  "scannedAt": "2026-11-09T01:58:16.600Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 229,
+  "totalAdded": 238,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 35
+      "added": 36
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 9
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 34
+      "added": 36
     },
     {
       "ok": true,
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
       "total": 10,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 0
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 43
+      "added": 42
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 3
+      "added": 2
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 141,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 36
+      "added": 37
     },
     {
       "ok": false,
@@ -106,43 +106,43 @@
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 10,
-      "added": 3
+      "total": 8,
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 17,
-      "added": 5
+      "total": 19,
+      "added": 6
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 3,
-      "added": 1
+      "total": 6,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 19,
-      "added": 5
+      "total": 20,
+      "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 16,
-      "added": 5
+      "total": 19,
+      "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 11,
-      "added": 2
+      "total": 15,
+      "added": 6
     }
   ],
   "seoVerified": 0,
@@ -150,7 +150,7 @@
   "fastModelVersion": 3,
   "fastPassedCount": 368,
   "fastWatchCount": 220,
-  "fastRejectedCount": 193,
+  "fastRejectedCount": 194,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -162,7 +162,7 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 657,
+  "seoPassedCount": 658,
   "trendEligibleCount": 298,
   "trendPendingCount": 298,
   "trendValidatedCount": 275,
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-08T22:28:58.516Z",
+    "checkedAt": "2026-11-09T01:58:15.560Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -231,7 +231,7 @@
   "googleCseUsage": {
     "enabled": false,
     "configuredSlots": 0,
-    "day": "2026-11-08",
+    "day": "2026-11-09",
     "totalDayUsed": 0,
     "totalDailyLimit": 0,
     "slots": {},
@@ -243,8 +243,8 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2056,
-    "wiki": 250,
+    "online": 2057,
+    "wiki": 249,
     "pending": 694
   },
   "wikiPrelaunchModelVersion": 2,
@@ -252,7 +252,7 @@
     "priority": 0,
     "prepare": 1,
     "watch": 6,
-    "weak": 243
+    "weak": 242
   },
   "serperVerification": {
     "rushMode": true,
@@ -265,7 +265,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 81,
+    "queueSize": 79,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -275,31 +275,29 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-08T22:29:24.906Z"
+    "ranAt": "2026-11-09T01:58:45.023Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2219,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2218,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
       "online": 0,
-      "wiki": 1,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
       "watch": 0,
-      "weak": 1,
+      "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Pool of Radiance: Ruins of Myth Drannor"
-    ],
-    "ranAt": "2026-11-08T22:29:25.567Z"
+    "verifiedNames": [],
+    "ranAt": "2026-11-09T01:58:45.831Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -321,10 +319,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-08T22:29:26.547Z"
+    "ranAt": "2026-11-09T01:58:47.080Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-08T22:29:26.678Z",
+    "checkedAt": "2026-11-09T01:58:47.154Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -376,12 +374,12 @@
     "configuredSlots": 0,
     "month": "2026-11",
     "monthUsed": 0,
-    "day": "2026-11-08",
+    "day": "2026-11-09",
     "dayUsed": 0,
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-11-08T22:29:26.759Z"
+    "updatedAt": "2026-11-09T01:58:47.261Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -435,15 +433,15 @@
     },
     "pendingByChannel": {
       "online": 344,
-      "wiki": 148
+      "wiki": 141
     },
     "pendingByTier": {
       "strong": 242,
       "secondary": 150,
-      "strategic": 100
+      "strategic": 93
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-08T22:29:27.332Z"
+    "ranAt": "2026-11-09T01:58:47.886Z"
   }
 }
