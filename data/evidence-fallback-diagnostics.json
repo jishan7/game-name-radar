@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-11-10T18:16:20.059Z",
+  "generatedAt": "2026-11-10T23:25:44.118Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2206,
+  "pendingSeo": 2202,
   "channelCounts": {
-    "pending": 602,
-    "wiki": 17,
-    "online": 1587
+    "pending": 604,
+    "wiki": 20,
+    "online": 1578
   },
   "fastClassCounts": {
-    "pending:pending": 602,
-    "wiki:pending": 17,
-    "online:pending": 1587
+    "pending:pending": 604,
+    "wiki:pending": 20,
+    "online:pending": 1578
   },
   "strategicCounts": {
-    "pending:0": 598,
+    "pending:0": 600,
     "wiki:0": 4,
     "online:3": 7,
     "online:2": 608,
-    "online:1": 972,
-    "wiki:1": 13,
+    "online:1": 963,
+    "wiki:1": 16,
     "pending:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1541
+      "count": 1531
     },
     {
       "id": "itch-newest-web",
-      "count": 1525
+      "count": 1515
     },
     {
       "id": "itch-new-feed",
-      "count": 1472
+      "count": 1462
     },
     {
       "id": "itch-new-popular-web",
-      "count": 594
+      "count": 596
     },
     {
       "id": "itch-popular",
-      "count": 594
+      "count": 596
     },
     {
       "id": "trends-rising-7d",
-      "count": 504
+      "count": 505
     },
     {
       "id": "trends-rising-30d",
-      "count": 393
+      "count": 395
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,11 +56,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 226
+      "count": 227
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 156
+      "count": 157
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -72,15 +72,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 87
+      "count": 88
     },
     {
       "id": "steam-latest-indie",
-      "count": 30
+      "count": 31
     },
     {
       "id": "steam-new",
-      "count": 30
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -100,19 +100,19 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 22
+      "count": 23
     },
     {
       "id": "itch-featured",
-      "count": 22
+      "count": 23
     },
     {
       "id": "steam-popular-new",
-      "count": 19
+      "count": 22
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",
@@ -123,12 +123,12 @@
       "count": 4
     },
     {
-      "id": "crazygames-new",
+      "id": "lagged-new",
       "count": 2
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "crazygames-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -316,6 +316,24 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Idlecraft",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1083,25 +1101,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Clash of Courts",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
