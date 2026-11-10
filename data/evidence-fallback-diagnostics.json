@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-10T10:27:12.836Z",
+  "generatedAt": "2026-11-10T18:16:20.059Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2210,
+  "pendingSeo": 2206,
   "channelCounts": {
-    "pending": 601,
-    "wiki": 10,
-    "online": 1599
+    "pending": 602,
+    "wiki": 17,
+    "online": 1587
   },
   "fastClassCounts": {
-    "pending:pending": 601,
-    "wiki:pending": 10,
-    "online:pending": 1599
+    "pending:pending": 602,
+    "wiki:pending": 17,
+    "online:pending": 1587
   },
   "strategicCounts": {
-    "pending:0": 597,
+    "pending:0": 598,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 607,
-    "online:1": 985,
-    "wiki:1": 6,
+    "online:2": 608,
+    "online:1": 972,
+    "wiki:1": 13,
     "pending:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1553
+      "count": 1541
     },
     {
       "id": "itch-newest-web",
-      "count": 1537
+      "count": 1525
     },
     {
       "id": "itch-new-feed",
-      "count": 1485
+      "count": 1472
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 503
+      "count": 504
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 252
+      "count": 253
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -68,7 +68,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 90
+      "count": 91
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -92,11 +92,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "newgrounds-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "itch-featured-feed",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 19
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
@@ -123,12 +123,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
+      "id": "crazygames-new",
       "count": 2
     },
     {
-      "id": "crazygames-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -275,24 +275,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Season Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "newgrounds-daily-top",
-        "newgrounds-top"
       ]
     },
     {
@@ -1101,6 +1083,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Clash of Courts",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
