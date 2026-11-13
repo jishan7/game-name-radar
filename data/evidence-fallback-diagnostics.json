@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-11-13T18:30:40.517Z",
+  "generatedAt": "2026-11-13T23:52:58.915Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2152,
+  "pendingSeo": 2148,
   "channelCounts": {
-    "pending": 617,
-    "wiki": 18,
-    "online": 1517
+    "pending": 618,
+    "wiki": 19,
+    "online": 1511
   },
   "fastClassCounts": {
-    "pending:pending": 617,
-    "wiki:pending": 18,
-    "online:pending": 1517
+    "pending:pending": 618,
+    "wiki:pending": 19,
+    "online:pending": 1511
   },
   "strategicCounts": {
     "pending:0": 613,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 610,
-    "online:1": 900,
-    "wiki:1": 14,
-    "pending:1": 4
+    "online:2": 611,
+    "online:1": 893,
+    "wiki:2": 2,
+    "wiki:1": 13,
+    "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1471
+      "count": 1464
     },
     {
       "id": "itch-newest-web",
-      "count": 1454
+      "count": 1448
     },
     {
       "id": "itch-new-feed",
-      "count": 1402
+      "count": 1394
     },
     {
       "id": "itch-new-popular-web",
@@ -76,11 +77,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 33
+      "count": 34
     },
     {
       "id": "steam-new",
-      "count": 33
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
@@ -100,15 +101,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 23
+      "count": 25
     },
     {
       "id": "itch-featured",
-      "count": 23
+      "count": 25
     },
     {
       "id": "steam-popular-new",
-      "count": 19
+      "count": 21
     },
     {
       "id": "y8-new",
@@ -314,24 +315,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Idlecraft",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
       ]
     },
     {
@@ -542,6 +525,42 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "[FULL] DECOGEAR DIMENSIONS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-featured-feed",
+        "itch-featured"
+      ]
+    },
+    {
+      "name": "Idlecraft",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1082,25 +1101,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Chimera Gameboy",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
