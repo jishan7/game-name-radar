@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-11-14T19:09:14.286Z",
+  "scannedAt": "2026-11-14T22:57:37.905Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 255,
+  "totalAdded": 250,
   "sources": [
     {
       "ok": true,
@@ -17,7 +17,7 @@
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 7
+      "added": 2
     },
     {
       "ok": true,
@@ -45,7 +45,7 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 41
+      "added": 46
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 10
+      "added": 2
     },
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 40
+      "added": 38
     },
     {
       "ok": false,
@@ -106,43 +106,43 @@
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 9,
-      "added": 5
+      "total": 12,
+      "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 20,
-      "added": 7
+      "total": 17,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 20,
-      "added": 7
+      "total": 23,
+      "added": 8
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
       "total": 21,
-      "added": 9
+      "added": 8
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 14,
-      "added": 4
+      "total": 13,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 13,
-      "added": 2
+      "total": 15,
+      "added": 6
     }
   ],
   "seoVerified": 0,
@@ -172,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 487,
+    "watch": 489,
     "reject": 0,
-    "pending": 2511,
+    "pending": 2509,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-14T19:09:13.149Z",
+    "checkedAt": "2026-11-14T22:57:37.001Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -213,7 +213,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 103,
-    "evidence-fallback": 517,
+    "evidence-fallback": 519,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -243,9 +243,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1948,
+    "online": 1947,
     "wiki": 329,
-    "pending": 723
+    "pending": 724
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
@@ -275,29 +275,32 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-14T19:09:39.415Z"
+    "ranAt": "2026-11-14T22:58:01.314Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
     "pendingCount": 2134,
-    "eligibleCount": 0,
-    "queueSize": 0,
-    "verified": 0,
+    "eligibleCount": 2,
+    "queueSize": 2,
+    "verified": 2,
     "channelVerified": {
-      "online": 0,
-      "wiki": 0,
+      "online": 1,
+      "wiki": 1,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 0,
-      "watch": 0,
+      "pass": 1,
+      "watch": 1,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [],
-    "ranAt": "2026-11-14T19:09:39.994Z"
+    "verifiedNames": [
+      "Moonfall",
+      "How They Built the Pyramids"
+    ],
+    "ranAt": "2026-11-14T22:58:02.123Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -319,10 +322,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-14T19:09:40.913Z"
+    "ranAt": "2026-11-14T22:58:03.361Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-14T19:09:40.962Z",
+    "checkedAt": "2026-11-14T22:58:03.459Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -379,7 +382,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-11-14T19:09:41.034Z"
+    "updatedAt": "2026-11-14T22:58:03.551Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -432,16 +435,16 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 353,
-      "wiki": 180
+      "online": 354,
+      "wiki": 181
     },
     "pendingByTier": {
-      "strong": 252,
-      "secondary": 155,
+      "strong": 253,
+      "secondary": 156,
       "strategic": 126
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-14T19:09:41.493Z"
+    "ranAt": "2026-11-14T22:58:04.161Z"
   }
 }
