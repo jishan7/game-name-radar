@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-14T13:48:01.391Z",
+  "generatedAt": "2026-11-14T19:09:39.613Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2136,
+  "pendingSeo": 2134,
   "channelCounts": {
-    "pending": 621,
-    "online": 1506,
+    "pending": 623,
+    "online": 1502,
     "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 621,
-    "online:pending": 1506,
+    "pending:pending": 623,
+    "online:pending": 1502,
     "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 616,
+    "pending:0": 618,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 612,
-    "online:1": 886,
+    "online:2": 610,
+    "online:1": 884,
     "wiki:1": 5,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1459
+      "count": 1455
     },
     {
       "id": "itch-newest-web",
-      "count": 1443
+      "count": 1439
     },
     {
       "id": "itch-new-feed",
-      "count": 1389
+      "count": 1385
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 521
+      "count": 522
     },
     {
       "id": "trends-rising-30d",
-      "count": 407
+      "count": 408
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 168
+      "count": 169
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -68,7 +68,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 97
+      "count": 98
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -76,11 +76,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 32
+      "count": 31
     },
     {
       "id": "steam-new",
-      "count": 32
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -112,7 +112,7 @@
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",
@@ -123,12 +123,12 @@
       "count": 4
     },
     {
-      "id": "crazygames-new",
+      "id": "lagged-new",
       "count": 2
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "crazygames-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -315,25 +315,6 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
-      ]
-    },
-    {
-      "name": "Incremental Fortress",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     },
     {
@@ -544,6 +525,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Incremental Fortress",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
