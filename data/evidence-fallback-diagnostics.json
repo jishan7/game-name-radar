@@ -1,87 +1,86 @@
 {
-  "generatedAt": "2026-11-13T23:52:58.915Z",
+  "generatedAt": "2026-11-14T06:18:15.184Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2148,
+  "pendingSeo": 2139,
   "channelCounts": {
-    "pending": 618,
-    "wiki": 19,
-    "online": 1511
+    "pending": 621,
+    "online": 1506,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 618,
-    "wiki:pending": 19,
-    "online:pending": 1511
+    "pending:pending": 621,
+    "online:pending": 1506,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 613,
+    "pending:0": 616,
+    "online:3": 8,
     "wiki:0": 4,
-    "online:3": 7,
-    "online:2": 611,
-    "online:1": 893,
-    "wiki:2": 2,
-    "wiki:1": 13,
+    "online:2": 610,
+    "online:1": 888,
+    "wiki:1": 8,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1464
+      "count": 1459
     },
     {
       "id": "itch-newest-web",
-      "count": 1448
+      "count": 1443
     },
     {
       "id": "itch-new-feed",
-      "count": 1394
+      "count": 1389
     },
     {
       "id": "itch-new-popular-web",
-      "count": 598
+      "count": 599
     },
     {
       "id": "itch-popular",
-      "count": 598
+      "count": 599
     },
     {
       "id": "trends-rising-7d",
-      "count": 519
+      "count": 521
     },
     {
       "id": "trends-rising-30d",
-      "count": 402
+      "count": 407
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 257
+      "count": 258
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 228
+      "count": 231
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 167
+      "count": 168
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 108
+      "count": 109
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 96
+      "count": 97
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 89
+      "count": 90
     },
     {
       "id": "steam-latest-indie",
-      "count": 34
+      "count": 32
     },
     {
       "id": "steam-new",
-      "count": 34
+      "count": 32
     },
     {
       "id": "newgrounds-latest",
@@ -109,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 21
+      "count": 14
     },
     {
       "id": "y8-new",
@@ -133,6 +132,26 @@
     }
   ],
   "samples": [
+    {
+      "name": "[FULL] DECOGEAR DIMENSIONS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 3,
+      "sourceCount": 6,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-featured-feed",
+        "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
     {
       "name": "Sploob",
       "channel": "online",
@@ -525,24 +544,6 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
-      ]
-    },
-    {
-      "name": "[FULL] DECOGEAR DIMENSIONS",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-featured-feed",
-        "itch-featured"
       ]
     },
     {
