@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-15T09:55:37.018Z",
+  "generatedAt": "2026-11-15T17:06:49.487Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2132,
+  "pendingSeo": 2130,
   "channelCounts": {
-    "pending": 626,
-    "online": 1499,
+    "pending": 628,
+    "online": 1495,
     "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 626,
-    "online:pending": 1499,
+    "pending:pending": 628,
+    "online:pending": 1495,
     "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 622,
+    "pending:0": 623,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 612,
-    "online:1": 879,
+    "online:2": 610,
+    "online:1": 877,
     "wiki:1": 3,
-    "pending:1": 4
+    "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1451
+      "count": 1448
     },
     {
       "id": "itch-newest-web",
-      "count": 1435
+      "count": 1432
     },
     {
       "id": "itch-new-feed",
-      "count": 1381
+      "count": 1378
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 527
+      "count": 528
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 261
+      "count": 262
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -100,11 +100,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 24
+      "count": 25
     },
     {
       "id": "itch-featured",
-      "count": 24
+      "count": 25
     },
     {
       "id": "steam-popular-new",
@@ -112,7 +112,7 @@
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",
@@ -120,15 +120,15 @@
     },
     {
       "id": "poki-new",
-      "count": 5
-    },
-    {
-      "id": "crazygames-new",
-      "count": 2
+      "count": 4
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "crazygames-new",
+      "count": 1
     }
   ],
   "samples": [
