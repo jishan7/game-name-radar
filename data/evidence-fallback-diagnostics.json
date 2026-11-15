@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-14T22:58:01.624Z",
+  "generatedAt": "2026-11-15T02:38:39.200Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2134,
+  "pendingSeo": 2132,
   "channelCounts": {
-    "pending": 624,
-    "online": 1501,
-    "wiki": 9
+    "pending": 627,
+    "online": 1498,
+    "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 624,
-    "online:pending": 1501,
-    "wiki:pending": 9
+    "pending:pending": 627,
+    "online:pending": 1498,
+    "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 619,
+    "pending:0": 622,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 611,
-    "online:1": 882,
-    "wiki:1": 5,
+    "online:2": 610,
+    "online:1": 880,
+    "wiki:1": 3,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1454
+      "count": 1451
     },
     {
       "id": "itch-newest-web",
-      "count": 1438
+      "count": 1435
     },
     {
       "id": "itch-new-feed",
-      "count": 1384
+      "count": 1381
     },
     {
       "id": "itch-new-popular-web",
@@ -44,31 +44,31 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 523
+      "count": 527
     },
     {
       "id": "trends-rising-30d",
-      "count": 411
+      "count": 414
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 259
+      "count": 261
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 234
+      "count": 236
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 169
+      "count": 170
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 109
+      "count": 110
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 99
+      "count": 100
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 9
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",

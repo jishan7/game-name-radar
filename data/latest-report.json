@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-11-14T22:57:37.905Z",
+  "scannedAt": "2026-11-15T02:38:15.916Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 250,
+  "totalAdded": 229,
   "sources": [
     {
       "ok": true,
@@ -45,7 +45,7 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 46
+      "added": 23
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 141,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 38
+      "added": 33
     },
     {
       "ok": false,
@@ -100,57 +100,57 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 12,
-      "added": 7
+      "total": 13,
+      "added": 9
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
       "total": 17,
-      "added": 5
+      "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 23,
-      "added": 8
+      "total": 20,
+      "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 21,
-      "added": 8
+      "total": 19,
+      "added": 12
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 13,
-      "added": 5
+      "total": 12,
+      "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 15,
+      "total": 16,
       "added": 6
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 378,
-  "fastWatchCount": 225,
-  "fastRejectedCount": 263,
+  "fastPassedCount": 379,
+  "fastWatchCount": 221,
+  "fastRejectedCount": 268,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -162,9 +162,9 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 742,
-  "trendEligibleCount": 307,
-  "trendPendingCount": 307,
+  "seoPassedCount": 744,
+  "trendEligibleCount": 308,
+  "trendPendingCount": 308,
   "trendValidatedCount": 275,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -172,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 2,
-    "watch": 489,
+    "watch": 484,
     "reject": 0,
-    "pending": 2509,
+    "pending": 2514,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-14T22:57:37.001Z",
+    "checkedAt": "2026-11-15T02:38:14.983Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -231,7 +231,7 @@
   "googleCseUsage": {
     "enabled": false,
     "configuredSlots": 0,
-    "day": "2026-11-14",
+    "day": "2026-11-15",
     "totalDayUsed": 0,
     "totalDailyLimit": 0,
     "slots": {},
@@ -243,16 +243,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1947,
-    "wiki": 329,
-    "pending": 724
+    "online": 1945,
+    "wiki": 328,
+    "pending": 727
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 1,
     "watch": 6,
-    "weak": 322
+    "weak": 321
   },
   "serperVerification": {
     "rushMode": true,
@@ -265,7 +265,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 84,
+    "queueSize": 82,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -275,32 +275,29 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-14T22:58:01.314Z"
+    "ranAt": "2026-11-15T02:38:39.006Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2134,
-    "eligibleCount": 2,
-    "queueSize": 2,
-    "verified": 2,
+    "pendingCount": 2132,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
-      "online": 1,
-      "wiki": 1,
+      "online": 0,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
-      "watch": 1,
+      "pass": 0,
+      "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Moonfall",
-      "How They Built the Pyramids"
-    ],
-    "ranAt": "2026-11-14T22:58:02.123Z"
+    "verifiedNames": [],
+    "ranAt": "2026-11-15T02:38:39.634Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -322,10 +319,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-14T22:58:03.361Z"
+    "ranAt": "2026-11-15T02:38:40.546Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-14T22:58:03.459Z",
+    "checkedAt": "2026-11-15T02:38:40.602Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -377,12 +374,12 @@
     "configuredSlots": 0,
     "month": "2026-11",
     "monthUsed": 0,
-    "day": "2026-11-14",
+    "day": "2026-11-15",
     "dayUsed": 0,
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-11-14T22:58:03.551Z"
+    "updatedAt": "2026-11-15T02:38:40.675Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -436,15 +433,15 @@
     },
     "pendingByChannel": {
       "online": 354,
-      "wiki": 181
+      "wiki": 174
     },
     "pendingByTier": {
       "strong": 253,
-      "secondary": 156,
-      "strategic": 126
+      "secondary": 151,
+      "strategic": 124
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-14T22:58:04.161Z"
+    "ranAt": "2026-11-15T02:38:41.107Z"
   }
 }
