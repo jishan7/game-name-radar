@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-15T21:46:48.166Z",
+  "generatedAt": "2026-11-16T01:26:02.011Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2130,
+  "pendingSeo": 2129,
   "channelCounts": {
-    "pending": 629,
-    "online": 1494,
-    "wiki": 7
+    "pending": 633,
+    "online": 1491,
+    "wiki": 5
   },
   "fastClassCounts": {
-    "pending:pending": 629,
-    "online:pending": 1494,
-    "wiki:pending": 7
+    "pending:pending": 633,
+    "online:pending": 1491,
+    "wiki:pending": 5
   },
   "strategicCounts": {
-    "pending:0": 624,
+    "pending:0": 628,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 611,
-    "online:1": 875,
-    "wiki:1": 3,
+    "online:2": 610,
+    "online:1": 873,
+    "wiki:1": 1,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1447
+      "count": 1445
     },
     {
       "id": "itch-newest-web",
-      "count": 1430
+      "count": 1428
     },
     {
       "id": "itch-new-feed",
-      "count": 1377
+      "count": 1375
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 528
+      "count": 531
     },
     {
       "id": "trends-rising-30d",
-      "count": 415
+      "count": 418
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,11 +56,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 237
+      "count": 238
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 170
+      "count": 173
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -68,7 +68,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 100
+      "count": 102
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 9
+      "count": 7
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 6
     },
     {
       "id": "steam-top-wishlist",
@@ -124,7 +124,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "crazygames-new",
