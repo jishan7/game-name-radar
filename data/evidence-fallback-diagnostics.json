@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-11-16T08:35:54.811Z",
+  "generatedAt": "2026-11-16T18:55:42.379Z",
   "totalCandidates": 3000,
   "pendingSeo": 2129,
   "channelCounts": {
-    "pending": 635,
-    "online": 1489,
-    "wiki": 5
+    "pending": 637,
+    "online": 1483,
+    "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 635,
-    "online:pending": 1489,
-    "wiki:pending": 5
+    "pending:pending": 637,
+    "online:pending": 1483,
+    "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 630,
+    "pending:0": 631,
     "online:3": 8,
     "wiki:0": 4,
     "online:2": 610,
-    "online:1": 871,
-    "wiki:1": 1,
-    "pending:1": 5
+    "online:1": 865,
+    "wiki:2": 1,
+    "wiki:1": 4,
+    "pending:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1443
+      "count": 1437
     },
     {
       "id": "itch-newest-web",
-      "count": 1426
+      "count": 1420
     },
     {
       "id": "itch-new-feed",
-      "count": 1374
+      "count": 1368
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +45,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 532
+      "count": 533
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +53,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 262
+      "count": 263
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -76,11 +77,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 32
+      "count": 33
     },
     {
       "id": "steam-new",
-      "count": 32
+      "count": 33
     },
     {
       "id": "newgrounds-latest",
@@ -100,15 +101,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 25
+      "count": 26
     },
     {
       "id": "itch-featured",
-      "count": 25
+      "count": 26
     },
     {
       "id": "steam-popular-new",
-      "count": 7
+      "count": 12
     },
     {
       "id": "y8-new",
@@ -315,6 +316,26 @@
         "itch-new",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Dungeonbound",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 6,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-popular-new"
       ]
     },
     {
@@ -1085,25 +1106,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Carbineball",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
