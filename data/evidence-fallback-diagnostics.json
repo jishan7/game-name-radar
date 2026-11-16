@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-16T01:26:02.011Z",
+  "generatedAt": "2026-11-16T08:35:54.811Z",
   "totalCandidates": 3000,
   "pendingSeo": 2129,
   "channelCounts": {
-    "pending": 633,
-    "online": 1491,
+    "pending": 635,
+    "online": 1489,
     "wiki": 5
   },
   "fastClassCounts": {
-    "pending:pending": 633,
-    "online:pending": 1491,
+    "pending:pending": 635,
+    "online:pending": 1489,
     "wiki:pending": 5
   },
   "strategicCounts": {
-    "pending:0": 628,
+    "pending:0": 630,
     "online:3": 8,
     "wiki:0": 4,
     "online:2": 610,
-    "online:1": 873,
+    "online:1": 871,
     "wiki:1": 1,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1445
+      "count": 1443
     },
     {
       "id": "itch-newest-web",
-      "count": 1428
+      "count": 1426
     },
     {
       "id": "itch-new-feed",
-      "count": 1375
+      "count": 1374
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 531
+      "count": 532
     },
     {
       "id": "trends-rising-30d",
-      "count": 418
+      "count": 419
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 110
+      "count": 112
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -72,7 +72,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 90
+      "count": 91
     },
     {
       "id": "steam-latest-indie",
@@ -336,6 +336,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Lighthouse",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1078,25 +1097,6 @@
     },
     {
       "name": "Carbineball",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Boristan",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
