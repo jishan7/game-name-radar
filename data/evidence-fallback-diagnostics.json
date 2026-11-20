@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-11-19T23:50:07.798Z",
+  "generatedAt": "2026-11-20T07:10:48.664Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2099,
+  "pendingSeo": 2098,
   "channelCounts": {
-    "pending": 655,
-    "online": 1434,
+    "pending": 661,
+    "online": 1427,
     "wiki": 10
   },
   "fastClassCounts": {
-    "pending:pending": 655,
-    "online:pending": 1434,
+    "pending:pending": 661,
+    "online:pending": 1427,
     "wiki:pending": 10
   },
   "strategicCounts": {
-    "pending:0": 652,
+    "pending:0": 658,
     "online:3": 8,
     "wiki:0": 4,
     "online:2": 612,
-    "online:1": 814,
-    "wiki:1": 6,
-    "pending:1": 3
+    "online:1": 807,
+    "wiki:1": 5,
+    "pending:1": 3,
+    "wiki:2": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1388
+      "count": 1381
     },
     {
       "id": "itch-newest-web",
-      "count": 1371
+      "count": 1364
     },
     {
       "id": "itch-new-feed",
-      "count": 1317
+      "count": 1310
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +45,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 553
+      "count": 559
     },
     {
       "id": "trends-rising-30d",
-      "count": 436
+      "count": 437
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,11 +61,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 189
+      "count": 195
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 116
+      "count": 117
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -76,11 +77,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 35
+      "count": 36
     },
     {
       "id": "steam-new",
-      "count": 35
+      "count": 36
     },
     {
       "id": "newgrounds-latest",
@@ -400,27 +401,6 @@
       ]
     },
     {
-      "name": "Zone Idle",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 7,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "BH_Oilfield Callout UPDATE!",
       "channel": "online",
       "fastClass": "pending",
@@ -616,6 +596,27 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 11,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Zone Idle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 7,
       "sourceIds": [
