@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:59:29.673Z",
+  "generatedAt": "2026-11-22T19:34:56.859Z",
   "totalCandidates": 3000,
   "pendingSeo": 2092,
   "channelCounts": {
@@ -16,31 +16,31 @@
     "pending:0": 670,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 616,
-    "online:1": 790,
+    "online:2": 617,
+    "online:1": 789,
     "wiki:1": 2,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1368
+      "count": 1367
     },
     {
       "id": "itch-newest-web",
-      "count": 1350
+      "count": 1349
     },
     {
       "id": "itch-new-feed",
-      "count": 1297
+      "count": 1296
     },
     {
       "id": "itch-new-popular-web",
-      "count": 606
+      "count": 607
     },
     {
       "id": "itch-popular",
-      "count": 606
+      "count": 607
     },
     {
       "id": "trends-rising-7d",
@@ -100,11 +100,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 22
+      "count": 23
     },
     {
       "id": "itch-featured",
-      "count": 22
+      "count": 23
     },
     {
       "id": "steam-popular-new",
@@ -355,6 +355,24 @@
         "itch-new-popular-web",
         "itch-popular",
         "steam-popular-new"
+      ]
+    },
+    {
+      "name": "Of The World",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1086,25 +1104,6 @@
     },
     {
       "name": "MMC5Racing",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Abattlacus",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
