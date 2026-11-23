@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-23T08:14:38.449Z",
+  "generatedAt": "2026-11-23T20:14:15.792Z",
   "totalCandidates": 3000,
   "pendingSeo": 2092,
   "channelCounts": {
-    "pending": 678,
-    "online": 1409,
+    "pending": 679,
+    "online": 1408,
     "wiki": 5
   },
   "fastClassCounts": {
-    "pending:pending": 678,
-    "online:pending": 1409,
+    "pending:pending": 679,
+    "online:pending": 1408,
     "wiki:pending": 5
   },
   "strategicCounts": {
-    "pending:0": 676,
+    "pending:0": 677,
     "online:3": 8,
-    "wiki:0": 4,
     "online:2": 617,
-    "online:1": 784,
+    "wiki:0": 4,
+    "online:1": 783,
     "wiki:1": 1,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1362
+      "count": 1361
     },
     {
       "id": "itch-newest-web",
-      "count": 1344
+      "count": 1343
     },
     {
       "id": "itch-new-feed",
-      "count": 1291
+      "count": 1290
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 576
+      "count": 578
     },
     {
       "id": "trends-rising-30d",
-      "count": 440
+      "count": 442
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -68,19 +68,19 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 116
+      "count": 118
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 93
+      "count": 96
     },
     {
       "id": "steam-latest-indie",
-      "count": 36
+      "count": 37
     },
     {
       "id": "steam-new",
-      "count": 36
+      "count": 37
     },
     {
       "id": "newgrounds-latest",
@@ -298,6 +298,29 @@
       ]
     },
     {
+      "name": "Symptoms of Devotion",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 9,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "trends-rising-7d-itch-io",
+        "trends-rising-7d",
+        "trends-rising-30d-itch-io",
+        "trends-rising-30d"
+      ]
+    },
+    {
       "name": "Swamp and Luig",
       "channel": "online",
       "fastClass": "pending",
@@ -355,6 +378,27 @@
         "itch-new-popular-web",
         "itch-popular",
         "steam-popular-new"
+      ]
+    },
+    {
+      "name": "A Thousand Cloys",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -859,25 +903,6 @@
       ]
     },
     {
-      "name": "Symptoms of Devotion",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Sleigh the Spire 🎄🎁",
       "channel": "online",
       "fastClass": "pending",
@@ -1092,25 +1117,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "MMC5Racing",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
