@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-25T09:10:20.488Z",
+  "generatedAt": "2026-11-25T19:13:45.954Z",
   "totalCandidates": 3000,
   "pendingSeo": 2087,
   "channelCounts": {
-    "pending": 693,
-    "online": 1382,
-    "wiki": 12
+    "pending": 694,
+    "online": 1380,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 693,
-    "online:pending": 1382,
-    "wiki:pending": 12
+    "pending:pending": 694,
+    "online:pending": 1380,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 691,
+    "pending:0": 692,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 616,
-    "online:1": 758,
-    "wiki:1": 8,
+    "online:1": 755,
+    "online:2": 617,
+    "wiki:1": 9,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1335
+      "count": 1332
     },
     {
       "id": "itch-newest-web",
-      "count": 1317
+      "count": 1314
     },
     {
       "id": "itch-new-feed",
-      "count": 1264
+      "count": 1261
     },
     {
       "id": "itch-new-popular-web",
@@ -44,15 +44,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 591
+      "count": 593
     },
     {
       "id": "trends-rising-30d",
-      "count": 451
+      "count": 452
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 278
+      "count": 281
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 122
+      "count": 123
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -72,15 +72,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 96
+      "count": 97
     },
     {
       "id": "steam-latest-indie",
-      "count": 39
+      "count": 41
     },
     {
       "id": "steam-new",
-      "count": 39
+      "count": 41
     },
     {
       "id": "newgrounds-latest",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 19
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
@@ -124,7 +124,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "crazygames-new",
@@ -442,21 +442,24 @@
       ]
     },
     {
-      "name": "Of The World",
+      "name": "Incremental Pain Profit",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 18,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 12,
+      "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 7,
       "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -751,6 +754,24 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Of The World",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1109,25 +1130,6 @@
         "itch-popular",
         "itch-featured-feed",
         "itch-featured"
-      ]
-    },
-    {
-      "name": "ร้อยวัน · One Hundred Days",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
