@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-26T10:51:24.974Z",
+  "generatedAt": "2026-11-26T20:09:56.069Z",
   "totalCandidates": 3000,
   "pendingSeo": 2079,
   "channelCounts": {
     "pending": 700,
-    "online": 1371,
-    "wiki": 8
+    "online": 1368,
+    "wiki": 11
   },
   "fastClassCounts": {
     "pending:pending": 700,
-    "online:pending": 1371,
-    "wiki:pending": 8
+    "online:pending": 1368,
+    "wiki:pending": 11
   },
   "strategicCounts": {
     "pending:0": 698,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 616,
-    "online:1": 747,
-    "wiki:1": 4,
+    "online:2": 617,
+    "online:1": 743,
+    "wiki:1": 7,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1324
+      "count": 1320
     },
     {
       "id": "itch-newest-web",
-      "count": 1306
+      "count": 1302
     },
     {
       "id": "itch-new-feed",
-      "count": 1253
+      "count": 1249
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 598
+      "count": 599
     },
     {
       "id": "trends-rising-30d",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 211
+      "count": 212
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -76,11 +76,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 41
+      "count": 42
     },
     {
       "id": "steam-new",
-      "count": 41
+      "count": 42
     },
     {
       "id": "newgrounds-latest",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 16
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
@@ -123,12 +123,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
+      "id": "crazygames-new",
       "count": 2
     },
     {
-      "id": "crazygames-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
