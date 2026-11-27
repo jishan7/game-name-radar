@@ -1,78 +1,78 @@
 {
-  "generatedAt": "2026-11-27T02:50:38.540Z",
+  "generatedAt": "2026-11-27T12:12:46.057Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2075,
+  "pendingSeo": 2073,
   "channelCounts": {
-    "pending": 702,
-    "online": 1363,
-    "wiki": 10
+    "pending": 705,
+    "online": 1360,
+    "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 702,
-    "online:pending": 1363,
-    "wiki:pending": 10
+    "pending:pending": 705,
+    "online:pending": 1360,
+    "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 700,
+    "pending:0": 703,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 616,
-    "online:1": 739,
-    "wiki:1": 6,
+    "online:2": 617,
+    "online:1": 735,
+    "wiki:1": 4,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1315
+      "count": 1312
     },
     {
       "id": "itch-newest-web",
-      "count": 1298
+      "count": 1295
     },
     {
       "id": "itch-new-feed",
-      "count": 1244
+      "count": 1241
     },
     {
       "id": "itch-new-popular-web",
-      "count": 606
+      "count": 607
     },
     {
       "id": "itch-popular",
-      "count": 606
+      "count": 607
     },
     {
       "id": "trends-rising-7d",
-      "count": 600
+      "count": 602
     },
     {
       "id": "trends-rising-30d",
-      "count": 456
+      "count": 461
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 284
+      "count": 285
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 247
+      "count": 249
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 212
+      "count": 213
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 125
+      "count": 127
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 122
+      "count": 123
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 98
+      "count": 99
     },
     {
       "id": "steam-latest-indie",
@@ -108,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 16
+      "count": 14
     },
     {
       "id": "y8-new",
@@ -418,6 +418,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Firefly: Little Island",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1112,24 +1131,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Dungeonbound (In Development)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
       ]
     }
   ]
