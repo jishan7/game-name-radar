@@ -1,51 +1,50 @@
 {
-  "generatedAt": "2026-11-27T21:14:47.284Z",
+  "generatedAt": "2026-11-28T03:19:06.776Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2073,
+  "pendingSeo": 2069,
   "channelCounts": {
-    "pending": 705,
-    "online": 1358,
-    "wiki": 10
+    "pending": 706,
+    "online": 1356,
+    "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 705,
-    "online:pending": 1358,
-    "wiki:pending": 10
+    "pending:pending": 706,
+    "online:pending": 1356,
+    "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 703,
+    "pending:0": 704,
     "online:3": 8,
     "wiki:0": 4,
-    "online:2": 617,
-    "online:1": 733,
-    "wiki:2": 1,
-    "wiki:1": 5,
+    "online:2": 619,
+    "online:1": 729,
+    "wiki:1": 3,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1310
+      "count": 1308
     },
     {
       "id": "itch-newest-web",
-      "count": 1293
+      "count": 1291
     },
     {
       "id": "itch-new-feed",
-      "count": 1239
+      "count": 1237
     },
     {
       "id": "itch-new-popular-web",
-      "count": 607
+      "count": 609
     },
     {
       "id": "itch-popular",
-      "count": 607
+      "count": 609
     },
     {
       "id": "trends-rising-7d",
-      "count": 602
+      "count": 603
     },
     {
       "id": "trends-rising-30d",
@@ -61,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 213
+      "count": 214
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -77,11 +76,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 42
+      "count": 41
     },
     {
       "id": "steam-new",
-      "count": 42
+      "count": 41
     },
     {
       "id": "newgrounds-latest",
@@ -109,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 16
+      "count": 13
     },
     {
       "id": "y8-new",
@@ -401,24 +400,22 @@
       ]
     },
     {
-      "name": "Incremental Pain Profit",
+      "name": "Mine and Refine Incremental",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 18,
+      "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 2,
-      "sourceCount": 7,
+      "sourceCount": 5,
       "sourceIds": [
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
         "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
+        "itch-popular"
       ]
     },
     {
@@ -547,6 +544,27 @@
     },
     {
       "name": "Long Dives",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Incremental Pain Profit",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -774,6 +792,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "SACRAMENT 2007",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1079,44 +1116,6 @@
     },
     {
       "name": "First Night",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Lands",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Goliath Necro",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
